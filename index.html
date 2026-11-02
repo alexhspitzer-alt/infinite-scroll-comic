@@ -21,25 +21,6 @@
 const comic=document.getElementById('comic');
 let lines=[],panelCount=0,lineCount=0;
 
-const fallbackReplies=[
- "I think we've covered that. What else is on your mind?",
- "Anyway, did anything strange happen today?",
- "We've been here before. Shall we change the subject?",
- "I'm going to need another coffee."
-];
-let previousSourceKey='',sourceRepeatCount=0,fallbackIndex=0;
-function dialogueFor(text){
- const clean=text.trim().replace(/^["“”]+|["“”]+$/g,'');
- const key=clean.normalize('NFKC').toLowerCase().replace(/[\p{P}\p{Z}\s]+/gu,'');
- if(key===previousSourceKey)sourceRepeatCount++;
- else{previousSourceKey=key;sourceRepeatCount=1;}
- // Keep the first line and one repeat; replace all further copies.
- // State persists across silent panels, artwork cycles and appended batches.
- return sourceRepeatCount>2
-  ?fallbackReplies[fallbackIndex++%fallbackReplies.length]
-  :clean;
-}
-
 function appendPanels(){
  if(!lines.length)return;
  const fragment=document.createDocumentFragment();
@@ -52,7 +33,7 @@ function appendPanels(){
   figure.append(image);
   if(art!==6){
    const line=lines[lineCount%lines.length];
-   const caption=document.createElement('figcaption');caption.className='dialogue';caption.dataset.speaker=lineCount%2?'woman':'man';caption.textContent=dialogueFor(line.text);figure.append(caption);lineCount++;
+   const caption=document.createElement('figcaption');caption.className='dialogue';caption.dataset.speaker=lineCount%2?'woman':'man';caption.textContent=line.text.replace(/^"|"$/g,'');figure.append(caption);lineCount++;
   }
   const number=document.createElement('span');number.className='panel-number';number.textContent=String(panelCount+1);number.setAttribute('aria-hidden','true');figure.append(number);
   fragment.append(figure);panelCount++;
