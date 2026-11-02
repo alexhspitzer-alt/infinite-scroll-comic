@@ -3,18 +3,46 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="An ongoing conversation over coffee. An infinite scrolling webcomic.">
+<meta name="description" content="Two people. Eighteen panels. An ongoing conversation over coffee.">
 <title>Infinite Scroll Comic</title>
 <style>
-*{box-sizing:border-box}body{margin:0;background:#f3eee4;color:#29251f;font-family:Georgia,serif}main{max-width:800px;margin:auto;padding:32px 16px}h1{font-size:clamp(2rem,6vw,3.5rem);margin:0 0 8px}header{border-bottom:2px solid;padding-bottom:20px;margin-bottom:24px}.comic-panel{position:relative;aspect-ratio:4/3;border:2px solid;background:#fffdf8;overflow:hidden}.comic-panel img{width:100%;height:100%;object-fit:contain}.dialogue{position:absolute;top:5%;max-width:42%;padding:12px;border:2px solid;border-radius:50%;background:white;font:1rem/1.3 system-ui,sans-serif}.dialogue.left{left:4%}.dialogue.right{right:4%}.placeholder{display:grid;place-items:center;text-align:center;padding:24px;color:#726957}footer{padding:24px 0;font:0.85rem system-ui,sans-serif}
+*{box-sizing:border-box}html{background:#f3eee4;color:#29251f}body{margin:0;font-family:Georgia,serif}main{max-width:650px;margin:auto;padding:28px 12px 0}header{padding:0 6px 22px}h1{font-size:clamp(1.8rem,6vw,2.8rem);letter-spacing:-.04em;margin:0 0 6px}header p{margin:0;color:#726957;font-size:1rem}#comic{display:flex;flex-direction:column;gap:16px}.panel{position:relative;margin:0;background:#fff;border:3px solid #181818;aspect-ratio:1;overflow:hidden;content-visibility:auto;contain-intrinsic-size:auto 600px}.panel img{display:block;width:100%;height:100%;object-fit:fill}.dialogue{position:absolute;z-index:1;top:2%;left:4%;right:4%;margin:0;padding:3px 5px;background:#fff;font:clamp(14px,3.7vw,20px)/1.25 'Comic Sans MS','Comic Sans',cursive;text-align:center;overflow-wrap:anywhere}.dialogue[data-speaker="man"]{text-align:left}.dialogue[data-speaker="woman"]{text-align:right}.panel-number{position:absolute;bottom:1%;right:2%;font:10px/1 system-ui;color:#777;background:white;padding:2px}#more{padding:28px;text-align:center;color:#726957;font:14px system-ui}button{font:inherit;color:inherit;background:none;border:1px solid #aaa;padding:10px 18px;border-radius:3px;cursor:pointer}#error{font:16px system-ui;color:#8b2626}a{color:inherit}
 </style>
 </head>
-<body>
-<main>
+<body><main>
 <header><h1>Infinite Scroll Comic</h1><p>Another cup. Another conversation.</p></header>
-<section id="comic" aria-label="Webcomic"><div class="comic-panel placeholder"><p>The counter is ready.<br>Artwork and dialogue coming soon.</p></div></section>
-<footer>An ongoing conversation over coffee.</footer>
+<section id="comic" aria-label="Comic panels in reading order"></section>
+<p id="error" hidden></p>
+<div id="more"><button id="load" type="button">Keep scrolling ↓</button></div>
+<noscript>This comic needs JavaScript to pair the dialogue with its panels.</noscript>
 </main>
-<!-- Add reusable panel artwork inside .comic-panel; layer text using .dialogue.left and .dialogue.right. Keep generated dialogue separate from artwork. -->
-</body>
-</html>
+<script>
+'use strict';
+const comic=document.getElementById('comic');
+let lines=[],panelCount=0,lineCount=0;
+function appendPanels(){
+ if(!lines.length)return;
+ const fragment=document.createDocumentFragment();
+ for(let i=0;i<18;i++){
+  const art=panelCount%18+1;
+  const figure=document.createElement('figure');figure.className='panel';
+  figure.setAttribute('aria-label','Panel '+(panelCount+1));
+  const image=document.createElement('img');image.src='assets/panel-'+String(art).padStart(2,'0')+'.webp';image.width=400;image.height=400;image.loading=panelCount<2?'eager':'lazy';image.decoding='async';
+  image.alt=art===6?'Both characters pause to drink their coffee.':'A man and a woman talking over coffee at a counter.';
+  figure.append(image);
+  if(art!==6){
+   const line=lines[lineCount%lines.length];
+   const caption=document.createElement('figcaption');caption.className='dialogue';caption.dataset.speaker=lineCount%2?'woman':'man';caption.textContent=line.text.replace(/^"|"$/g,'');figure.append(caption);lineCount++;
+  }
+  const number=document.createElement('span');number.className='panel-number';number.textContent=String(panelCount+1);number.setAttribute('aria-hidden','true');figure.append(number);
+  fragment.append(figure);panelCount++;
+ }
+ comic.append(fragment);
+}
+document.getElementById('load').addEventListener('click',appendPanels);
+fetch('dialogue.json').then(r=>{if(!r.ok)throw new Error('Could not load dialogue.');return r.json();}).then(data=>{
+ lines=data.lines.filter(line=>typeof line.text==='string'&&line.text.trim());if(!lines.length)throw new Error('No dialogue available.');
+ appendPanels();
+ if('IntersectionObserver' in window){new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting))appendPanels();},{rootMargin:'1200px'}).observe(document.getElementById('more'));}
+}).catch(error=>{const el=document.getElementById('error');el.hidden=false;el.textContent=error.message+' Please refresh to try again.';});
+</script></body></html>
