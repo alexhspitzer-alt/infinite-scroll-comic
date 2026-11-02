@@ -41,7 +41,7 @@ function appendPanels(){
  comic.append(fragment);
 }
 document.getElementById('load').addEventListener('click',appendPanels);
-fetch('dialogue.json').then(r=>{if(!r.ok)throw new Error('Could not load dialogue.');return r.json();}).then(data=>{
+fetch('dialogue.json?v=reply08-119', {cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Could not load dialogue.');return r.json();}).then(data=>{
  lines=data.lines.filter(line=>typeof line.text==='string'&&line.text.trim());if(!lines.length)throw new Error('No dialogue available.');
  appendPanels();
  if('IntersectionObserver' in window){new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting))appendPanels();},{rootMargin:'1200px'}).observe(document.getElementById('more'));}
