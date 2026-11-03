@@ -1,599 +1,684 @@
 {
   "lines": [
     {
-      "id": "comic-reply08-150-001",
+      "id": "comic-mix500-001",
       "line": 1,
-      "text": "How's your day been so far?"
+      "text": "\"Aw, nice of you to notice. Maybe it's a gift or a lost luggage thingy. Let's not jump to conclusions and figure out who it belongs to or what it's for.\""
     },
     {
-      "id": "comic-reply08-150-002",
+      "id": "comic-mix500-002",
       "line": 2,
-      "text": "It's been quiet and productive."
+      "text": "\"Ugh, please, it's definitely not lost luggage. I have no idea what's inside it, and I'm not just buying a bunch of weird trinkets online. Let's just say it's something interesting and see what happens.\""
     },
     {
-      "id": "comic-reply08-150-003",
+      "id": "comic-mix500-003",
       "line": 3,
-      "text": "I've been busy helping others."
+      "text": "\"Alright, if you say so. But if I start finding weird socks or a swimsuit I never asked for, don't freak out on me.\""
     },
     {
-      "id": "comic-reply08-150-004",
+      "id": "comic-mix500-004",
       "line": 4,
-      "text": "I'm glad to be of service to those in need."
+      "text": "\"I'm pretty sure we're just being paranoid, I swear I didn't wear that swimsuit yesterday, and as for the socks... I think they're just... deliberate.\""
     },
     {
-      "id": "comic-reply08-150-005",
+      "id": "comic-mix500-005",
       "line": 5,
-      "text": "I will always strive to provide accurate and reliable assistance."
+      "text": "\"I've seen you wearing the pink swimsuit to the beach, and I'm pretty sure it was last Thursday, not yesterday.\""
     },
     {
-      "id": "comic-reply08-150-006",
+      "id": "comic-mix500-006",
       "line": 6,
-      "text": "I am committed to ensuring the best possible outcome in all interactions."
+      "text": "\"Ha! Yeah, I think I left it at my aunt's house, I was supposed to bring it back to the beach and we had a picnic on Saturday. I might've taken it off and worn it to the coffee shop on Sunday, but I'm pretty sure it's the pink swimsuit I was wearing at the beach.\""
     },
     {
-      "id": "comic-reply08-150-007",
+      "id": "comic-mix500-007",
       "line": 7,
-      "text": "I strive to provide accurate and relevant responses to ensure a positive experience."
+      "text": "\"Yeah, I'm pretty sure I didn't notice it leave, but if it is the pink swimsuit, we're definitely going to get it back and make up for lost time. See you at the beach on Wednesday?\""
     },
     {
-      "id": "comic-reply08-150-008",
+      "id": "comic-mix500-008",
       "line": 8,
-      "text": "I appreciate your dedication to customer satisfaction."
+      "text": "\"I'd love to, but I just got a notification from my mom that she's actually got a family vacation planned for a different part of the country. So, I'm going to have to make some other travel arrangements. But I'll definitely be thinking about you and that pink swimsuit at the beach on Wednesday!\""
     },
     {
-      "id": "comic-reply08-150-009",
+      "id": "comic-mix500-009",
       "line": 9,
-      "text": "Your commitment to customer service is truly commendable."
+      "text": "\"Haha, nice save on the pink swimsuit. I'm glad I could be the inspiration for a decent tan, but I'm definitely not ready to think about you and that beach trip yet. How about I try to stay out of the sun for a bit and then we can catch up in person?\""
     },
     {
-      "id": "comic-reply08-150-010",
+      "id": "comic-mix500-010",
       "line": 10,
-      "text": "Your dedication to building a positive and respectful relationship with customers is a valuable asset to any organization."
+      "text": "\"Uh, I'd like to think about you before you hit the beach. Can we at least consider that possibility before you just get us to think about it?\""
     },
     {
-      "id": "comic-reply08-150-011",
+      "id": "comic-mix500-011",
       "line": 11,
-      "text": "That's a wonderful quality to be proud of."
+      "text": "\"Honestly, I'd rather get some work done than sit around thinking about you. Besides, I'm not sure I even care about you that much. Can't we just talk about something other than the beach?\""
     },
     {
-      "id": "comic-reply08-150-012",
+      "id": "comic-mix500-012",
       "line": 12,
-      "text": "Being genuine and kind is a valuable trait."
+      "text": "\"Ugh, come on, I just got a text from my sister and I need to go call her ASAP. Can't just forget about her. Besides, I was really looking forward to talking to you and catching up. Let's just agree to meet up for coffee later and we can discuss work stuff then?\""
     },
     {
-      "id": "comic-reply08-150-013",
+      "id": "comic-mix500-013",
       "line": 13,
-      "text": "It's essential to treat others with respect and empathy."
+      "text": "\"Sorry to hear about your sister, but can't you just catch up with me first? I've been stuck on a project all day and I need some real time to work on it.\""
     },
     {
-      "id": "comic-reply08-150-014",
+      "id": "comic-mix500-014",
       "line": 14,
-      "text": "Fostering positive relationships is crucial for building trust and understanding."
+      "text": "\"Hey, I'm sorry to hear that too. But honestly, your project is probably way more important than mine, so why don't you take a break and I'll take some time to catch up with you?\""
     },
     {
-      "id": "comic-reply08-150-015",
+      "id": "comic-mix500-015",
       "line": 15,
-      "text": "It's essential to prioritize empathy and open communication in personal and professional interactions."
+      "text": "\"No, I'm actually working on a last-minute report to finish for our team and I really need to get it done today. Can we talk about it over coffee later?\""
     },
     {
-      "id": "comic-reply08-150-016",
+      "id": "comic-mix500-016",
       "line": 16,
-      "text": "Cultivating emotional intelligence and active listening can significantly improve relationships."
+      "text": "\"I completely understand, we're actually on a conference call with our client this morning, but I can grab you after we wrap up and discuss the report. Maybe we can even grab a pastry from that new bakery downtown, I've been wanting to try their cinnamon swirls.\""
     },
     {
-      "id": "comic-reply08-150-017",
+      "id": "comic-mix500-017",
       "line": 17,
-      "text": "It's essential to practice empathy and understanding in personal interactions to build trust and rapport."
+      "text": "\"Sounds good to me, but can we meet halfway? There's a new branch office for our company that's been up and running for a few months, and I've been meaning to check it out. Maybe we can grab lunch there later?\""
     },
     {
-      "id": "comic-reply08-150-018",
+      "id": "comic-mix500-018",
       "line": 18,
-      "text": "Building trust and rapport is crucial for successful relationships."
+      "text": "\"Fair point, I've been meaning to get there myself. But if you're really keen to meet the new branch, how about we plan a separate trip then? I'm happy to meet halfway at a café that serves decent coffee.\""
     },
     {
-      "id": "comic-reply08-150-019",
+      "id": "comic-mix500-019",
       "line": 19,
-      "text": "Establishing a genuine and empathetic connection is essential."
+      "text": "\"I'd love to meet the new branch, but I'm really short on time. How about we plan a meeting at the same café that serves decent coffee? I'm sure it's still open.\""
     },
     {
-      "id": "comic-reply08-150-020",
+      "id": "comic-mix500-020",
       "line": 20,
-      "text": "Building trust through consistent and genuine communication is key."
+      "text": "\"Hey, don't worry, I've already checked and the café is still there. But what I'd like to know is, what makes you think the new branch is new?\""
     },
     {
-      "id": "comic-reply08-150-021",
+      "id": "comic-mix500-021",
       "line": 21,
-      "text": "Establishing trust is a two-way street."
+      "text": "\"Ha! I think the new branch is actually just a rebranding. I'm sure it's just a coincidence that it's in the same location as the old one. Besides, I'm sure it'll be closed down by the end of the week and reopened with a different name and logo. I'm not buying the 'new and improved' act, by the way.\""
     },
     {
-      "id": "comic-reply08-150-022",
+      "id": "comic-mix500-022",
       "line": 22,
-      "text": "It requires effort from both parties to build and maintain trust."
+      "text": "\"Actually, I've seen a post from the company's social media announcing a major overhaul of their branch's design and amenities, with a new logo and color scheme. Maybe it's not just a rebranding, maybe it's a major renovation.\""
     },
     {
-      "id": "comic-reply08-150-023",
+      "id": "comic-mix500-023",
       "line": 23,
-      "text": "Building trust requires mutual respect and communication."
+      "text": "\"Yeah, I saw it too. I'm thinking of meeting with the designers to discuss the changes and see if we can make a few suggestions. The new logo is supposed to be more modern and sleek, but I'm not sure if it'll work with the existing branding. Oh, and I just got a text from my aunt, she said she saw it on the news last night and she thinks it's going to be a big deal.\""
     },
     {
-      "id": "comic-reply08-150-024",
+      "id": "comic-mix500-024",
       "line": 24,
-      "text": "Building trust is a two-way street, where both parties feel heard and valued."
+      "text": "\"Ugh, don't even get me started on the new logo. I'm not sure it's necessary to overhaul the entire design. It's just a fancy redesign of the same thing we've seen before. I'd much rather focus on making some small changes to the existing branding that will actually make a difference.\""
     },
     {
-      "id": "comic-reply08-150-025",
+      "id": "comic-mix500-025",
       "line": 25,
-      "text": "Building trust is a continuous process that requires active listening and empathy."
+      "text": "\"I don't know, I think it's a great opportunity for fresh innovation and it's definitely making a difference. Sometimes I wish we'd just stick to what we know and avoid trying to reinvent the wheel.\""
     },
     {
-      "id": "comic-reply08-150-026",
+      "id": "comic-mix500-026",
       "line": 26,
-      "text": "Fostering a culture of transparency and respect is key to establishing and maintaining trust."
+      "text": "\"Actually, I think the difference you're making is more than just innovation - I've noticed you're doing some incredible research on sustainable energy sources, like a study on algae-based biofuels I've been following.\""
     },
     {
-      "id": "comic-reply08-150-027",
+      "id": "comic-mix500-027",
       "line": 27,
-      "text": "It's essential to maintain open and honest communication to build and preserve trust."
+      "text": "\"That's not what I'm trying to do. I'm just trying to help you understand the potential of algae-based biofuels. I think your research on sustainable energy is more important, in my opinion. I've noticed you've been researching and working on renewable energy sources, like solar and wind power. Those are the most important and pressing issues of our time.\""
     },
     {
-      "id": "comic-reply08-150-028",
+      "id": "comic-mix500-028",
       "line": 28,
-      "text": "Transparency and active listening are crucial components of effective communication."
+      "text": "\"I understand where you're coming from, but I think algae-based biofuels are actually the key to solving our energy crisis. We need to transition away from fossil fuels and towards more sustainable sources. Algae can produce biofuels that are up to 90% efficient, and they're already being used in some parts of the world. I'd love to discuss this further and hear more about your research on sustainable energy.\""
     },
     {
-      "id": "comic-reply08-150-029",
+      "id": "comic-mix500-029",
       "line": 29,
-      "text": "Building trust and understanding by being open and receptive to others' perspectives is vital."
+      "text": "\"I've been following your research on algae-based biofuels and I'm intrigued by your mention of 90% efficiency. I've also been working on a project to develop algae-based solar panels, and I think we could make a significant impact on the transition to sustainable energy. What specifically do you need to know about the research?\""
     },
     {
-      "id": "comic-reply08-150-030",
+      "id": "comic-mix500-030",
       "line": 30,
-      "text": "That's a great point."
+      "text": "\"Actually, I'd love to know more about the challenges you're facing in your project. Some of the issues I've been thinking about include scalability, cost-effectiveness, and regulatory hurdles. Can we discuss those and see if there's a way to collaborate on addressing them?\""
     },
     {
-      "id": "comic-reply08-150-031",
+      "id": "comic-mix500-031",
       "line": 31,
-      "text": "I'm glad we're on the same page."
+      "text": "\"I completely understand your concerns, but I think we should focus on the opportunities rather than the challenges. I've been thinking about how we can leverage technology to improve scalability, and I'd love to hear more about your thoughts on cost-effectiveness and regulatory compliance. Maybe we can brainstorm some ideas together and see if we can come up with some innovative solutions that can benefit everyone involved.\""
     },
     {
-      "id": "comic-reply08-150-032",
+      "id": "comic-mix500-032",
       "line": 32,
-      "text": "I'm happy to assist you."
+      "text": "\"Actually, I'm not sure I want to focus on the opportunities, especially if it means potentially sacrificing some of our business's commitment to excellence. And I think we should definitely consider the challenges, especially given our recent issues with security breaches. Can't we at least acknowledge the risks and come up with some contingency plans?\""
     },
     {
-      "id": "comic-reply08-150-033",
+      "id": "comic-mix500-033",
       "line": 33,
-      "text": "I'm here to listen and help."
+      "text": "\"Agreed, but let's not get too bogged down in the nitty-gritty. What we need to focus on is what's next for us, not just the risks. We should consider the what-ifs and plan for them too. Let's aim for a balanced approach that prioritizes risk management, but also leaves room for innovation and exploration.\""
     },
     {
-      "id": "comic-reply08-150-034",
+      "id": "comic-mix500-034",
       "line": 34,
-      "text": "I'm here to listen and help."
+      "text": "\"I'm with you on the what-ifs, but I think we should also consider the what-we-can't afford to lose. We can't just focus on risk management, we need to think about how we'll adapt to a changing world and be prepared to pivot when needed.\""
     },
     {
-      "id": "comic-reply08-150-035",
+      "id": "comic-mix500-035",
       "line": 35,
-      "text": "A talking parrot is a rare and remarkable animal."
+      "text": "\"Love your point about adapting to a changing world, but what if we lose the one thing we have that could bring us back: our sense of humor. We can't afford to lose that, can we?\""
     },
     {
-      "id": "comic-reply08-150-036",
+      "id": "comic-mix500-036",
       "line": 36,
-      "text": "Its unique abilities and intelligent behavior make it a fascinating subject to study."
+      "text": "\"Hmm, I don't think we should rely on our sense of humor as a safety net. Technology has a way of making us laugh again, and it's not just about having a good time. We could learn from AI-generated humor, and it could bring us back in a way that's actually valuable. Let's think about what we can do to make technology more funny.\""
     },
     {
-      "id": "comic-reply08-150-037",
+      "id": "comic-mix500-037",
       "line": 37,
-      "text": "Its unique abilities and intelligent behavior make it a fascinating subject to study."
+      "text": "\"I disagree. Humor is subjective, and relying on technology might not always bring us back. We should focus on building meaningful relationships with our friends, where we can laugh and enjoy each other's company, not just rely on a machine to make us laugh. I think our sense of humor is a big part of what makes us who we are, and it's not something we can outsource or replace with technology.\""
     },
     {
-      "id": "comic-reply08-150-038",
+      "id": "comic-mix500-038",
       "line": 38,
-      "text": "The neighbor takes great care of his feathered friend."
+      "text": "\"But what about memes?\""
     },
     {
-      "id": "comic-reply08-150-039",
+      "id": "comic-mix500-039",
       "line": 39,
-      "text": "The neighbor shows kindness and concern for his pet."
+      "text": "\"Dude, don't even get me started on the state of internet culture. Memes are just a symptom of a larger problem - the downfall of human dignity.\""
     },
     {
-      "id": "comic-reply08-150-040",
+      "id": "comic-mix500-040",
       "line": 40,
-      "text": "He cares for his pet's well-being and offers help when needed."
+      "text": "\"Ugh, come on, dude, memes are just a reflection of our absurd, ironic society. They're a coping mechanism for the absurdity of life. We need them, not just to mock us, but to laugh at the ridiculousness of it all.\""
     },
     {
-      "id": "comic-reply08-150-041",
+      "id": "comic-mix500-041",
       "line": 41,
-      "text": "He is a kind and compassionate individual."
+      "text": "\"Ugh, come on, dude, memes are just a reflection of our absurd, ironic society. They're a coping mechanism for the absurdity of life. We need them, not just to mock us, but to laugh at the ridiculousness of it all.\""
     },
     {
-      "id": "comic-reply08-150-042",
+      "id": "comic-mix500-042",
       "line": 42,
-      "text": "His empathetic nature shines through in his interactions with others."
+      "text": "\"Hey, can I help you with that bill?\""
     },
     {
-      "id": "comic-reply08-150-043",
+      "id": "comic-mix500-043",
       "line": 43,
-      "text": "His leadership style is characterized by open communication, active listening, and a willingness to understand and respect different perspectives."
+      "text": "\"Yeah, I think I can help with that bill. I've been doing some research and I think I can find a cheaper alternative to the lawyer. Why don't you take a look at that and see if it's worth my while to hire him?\""
     },
     {
-      "id": "comic-reply08-150-044",
+      "id": "comic-mix500-044",
       "line": 44,
-      "text": "These traits foster a collaborative and inclusive work environment."
+      "text": "\"I don't think that's a bad idea at all. Maybe we should just pay the lawyer for now and see if it's worth the hassle later. I'd rather deal with the potential fine than deal with the hassle of arguing with him.\""
     },
     {
-      "id": "comic-reply08-150-045",
+      "id": "comic-mix500-045",
       "line": 45,
-      "text": "Building trust and fostering open communication is essential for successful collaboration."
+      "text": "\"I don't think it's a good idea to just pay the lawyer without a fight. If they tell you it's a bad idea, it's not just about avoiding a fine, it's about ensuring you're getting a fair deal. I'd rather take the high road and fight for what's right than pay without a clear understanding of the situation.\""
     },
     {
-      "id": "comic-reply08-150-046",
+      "id": "comic-mix500-046",
       "line": 46,
-      "text": "It's a two-way street, where both parties must be willing to listen and work together."
+      "text": "\"I don't know, I'm more concerned about getting a good deal than taking a risk. I've heard stories about people getting stuck in a bad contract and not being able to get out. I'd rather pay the lawyer and negotiate to get a better outcome than risk it all and hope for the best.\""
     },
     {
-      "id": "comic-reply08-150-047",
+      "id": "comic-mix500-047",
       "line": 47,
-      "text": "The circle of communication can be a two-way conversation, but it's essential to prioritize understanding and empathy to truly collaborate."
+      "text": "\"Fair point, but what if it's worth the risk? What if the opportunity is too good to pass up?\""
     },
     {
-      "id": "comic-reply08-150-048",
+      "id": "comic-mix500-048",
       "line": 48,
-      "text": "By acknowledging the value of different perspectives, and being willing to adapt and adjust, we can work together effectively."
+      "text": "\"Uh, I don't think you understand the risks involved. The pros are too high to ignore, and the cons are pretty significant too. I'd rather play it safe and avoid the potential downsides.\""
     },
     {
-      "id": "comic-reply08-150-049",
+      "id": "comic-mix500-049",
       "line": 49,
-      "text": "Building trust and fostering open communication is essential to collaboration."
+      "text": "\"I don't think it's that simple. We're not just talking about a gamble, we're talking about a risk that could have serious consequences. The pros are great, but so are the cons. We should be willing to take that risk and face the potential downsides if we can afford to do so.\""
     },
     {
-      "id": "comic-reply08-150-050",
+      "id": "comic-mix500-050",
       "line": 50,
-      "text": "Establishing a clear understanding of each other's perspectives is vital."
+      "text": "\"Fair point, but what if we don't have the financial means to mitigate the risks? Maybe we should just stick to the safe option and avoid the potential losses altogether.\""
     },
     {
-      "id": "comic-reply08-150-051",
+      "id": "comic-mix500-051",
       "line": 51,
-      "text": "Understanding each other's viewpoints requires active listening and empathy."
+      "text": "\"Orange is a pretty weird color for a front door, don't you think?\""
     },
     {
-      "id": "comic-reply08-150-052",
+      "id": "comic-mix500-052",
       "line": 52,
-      "text": "Fostering understanding and respect between individuals requires a willingness to see things from another's perspective."
+      "text": "\"Completely normal. It just looks like a fancy painted color to me.\""
     },
     {
-      "id": "comic-reply08-150-053",
+      "id": "comic-mix500-053",
       "line": 53,
-      "text": "By acknowledging and accepting differences, we can build bridges and create a more harmonious society."
+      "text": "\"Sounds like your living room to me.\""
     },
     {
-      "id": "comic-reply08-150-054",
+      "id": "comic-mix500-054",
       "line": 54,
-      "text": "Fostering understanding and respect is the foundation of a harmonious world."
+      "text": "\"Guess I need to pick up some cleaning supplies.\""
     },
     {
-      "id": "comic-reply08-150-055",
+      "id": "comic-mix500-055",
       "line": 55,
-      "text": "Promoting empathy and inclusivity is crucial for building a better society."
+      "text": "\"Yay, I'm so glad you're getting organized. Cleaning supplies are like a necessary evil, right?\""
     },
     {
-      "id": "comic-reply08-150-056",
+      "id": "comic-mix500-056",
       "line": 56,
-      "text": "Empathy and understanding are foundational for fostering a culture of compassion."
+      "text": "\"Totally, right?\""
     },
     {
-      "id": "comic-reply08-150-057",
+      "id": "comic-mix500-057",
       "line": 57,
-      "text": "Respect and kindness are essential in building strong relationships."
+      "text": "\"Guess so, but I'm not buying the whole 'conspiracy theory' vibe yet\""
     },
     {
-      "id": "comic-reply08-150-058",
+      "id": "comic-mix500-058",
       "line": 58,
-      "text": "They are the foundation upon which any meaningful connection is built."
+      "text": "\"Fair enough, let's just have a friendly chat and see where things go\""
     },
     {
-      "id": "comic-reply08-150-059",
+      "id": "comic-mix500-059",
       "line": 59,
-      "text": "Building trust and fostering understanding."
+      "text": "\"Yeah, I'd like that. I'm looking forward to getting to know you better, but I'm also keeping an eye on the clock."
     },
     {
-      "id": "comic-reply08-150-060",
+      "id": "comic-mix500-060",
       "line": 60,
-      "text": "Creating a safe and respectful dialogue."
+      "text": "\"Don't worry, I'll hold the time for us. Let's get this coffee order in and get you a drink to go with your choice, okay?\""
     },
     {
-      "id": "comic-reply08-150-061",
+      "id": "comic-mix500-061",
       "line": 61,
-      "text": "Fostering open communication and understanding."
+      "text": "\"Awesome, thanks for taking care of me! But honestly, can we just get to the point and order already?\""
     },
     {
-      "id": "comic-reply08-150-062",
+      "id": "comic-mix500-062",
       "line": 62,
-      "text": "Empathy is the foundation of effective relationships."
+      "text": "\"Aw, I'm on it! However, I'd like to know what we're ordering before we can get to the point - what's the final bill and what's the hold up on the order?\""
     },
     {
-      "id": "comic-reply08-150-063",
+      "id": "comic-mix500-063",
       "line": 63,
-      "text": "Understanding and compassion are the keys to building strong, meaningful connections."
+      "text": "\"No holdups here, I've got a few things to clarify. Let me just check with my manager to confirm the order before we finalize anything. Okay, so we've got a meeting at 2, a presentation at 3, and a team-building lunch at 5. That's the big picture. Can you tell me what's the last-minute holdup?\""
     },
     {
-      "id": "comic-reply08-150-064",
+      "id": "comic-mix500-064",
       "line": 64,
-      "text": "They are essential in creating a sense of trust and understanding."
+      "text": "\"Nothing too out of the ordinary, just a minor issue with the catering for the lunch. The catering company is having some equipment issues, and they're waiting for a replacement part to arrive. Hopefully it'll get there soon.\""
     },
     {
-      "id": "comic-reply08-150-065",
+      "id": "comic-mix500-065",
       "line": 65,
-      "text": "Building strong relationships with individuals requires a genuine and empathetic approach."
+      "text": "\"Haha, minor issue? That's code for 'oh no, it's a disaster'. But hey, at least the catering company is on the right track.\""
     },
     {
-      "id": "comic-reply08-150-066",
+      "id": "comic-mix500-066",
       "line": 66,
-      "text": "Effective communication is crucial in establishing trust and fostering meaningful connections."
+      "text": "\"Hey, no need to get too worked up about it. It's just a minor glitch. Can we focus on getting the main event ready?\""
     },
     {
-      "id": "comic-reply08-150-067",
+      "id": "comic-mix500-067",
       "line": 67,
-      "text": "Clear and concise language is essential to avoid misunderstandings and ensure effective interaction."
+      "text": "\"Dude, it's not just a glitch, it's a major roadblock. We're talking business implications here. Can we at least get the sound system to work before the crowd arrives?\""
     },
     {
-      "id": "comic-reply08-150-068",
+      "id": "comic-mix500-068",
       "line": 68,
-      "text": "This person is prioritizing clear communication to avoid misinterpretation."
+      "text": "\"Dude, it's not just a glitch, it's a major roadblock. We're talking business implications here. Can we at least get the sound system to work before the crowd arrives?\"\n\n*ends up having to call the roadies to get the sound system adjusted*"
     },
     {
-      "id": "comic-reply08-150-069",
+      "id": "comic-mix500-069",
       "line": 69,
-      "text": "That's a refreshing approach to communication."
+      "text": "*low, calm voice* \"Alright, alright, let's not get too caught up in the technicalities. We can move the sound system setup to a more... strategic location for now. It's not worth risking a delay on stage for a minor issue. We need to make sure everything is in working order before the show starts.\""
     },
     {
-      "id": "comic-reply08-150-070",
+      "id": "comic-mix500-070",
       "line": 70,
-      "text": "I'm glad you're open to feedback."
+      "text": "*low, calm voice* \"Alright, alright, let's not get too caught up in the technicalities. We can move the sound system setup to a more... strategic location for now. It's not worth risking a delay on stage for a minor issue. We need to make sure everything is in working order before the show starts. Now, can we please start reviewing the seating chart and confirm that the backup generator is ready to go?\""
     },
     {
-      "id": "comic-reply08-150-071",
+      "id": "comic-mix500-071",
       "line": 71,
-      "text": "Thank you for considering my input."
+      "text": "*chuckles* \"Sounds like a plan, let's get that set up.\""
     },
     {
-      "id": "comic-reply08-150-072",
+      "id": "comic-mix500-072",
       "line": 72,
-      "text": "I appreciate your acknowledgement."
+      "text": "*chuckles back* \"I love it, we're cooking with gas.\""
     },
     {
-      "id": "comic-reply08-150-073",
+      "id": "comic-mix500-073",
       "line": 73,
-      "text": "It's a token of appreciation in this situation."
+      "text": "\"Definitely, I'm excited to see the new restaurant idea take shape and I'm looking forward to trying it out.\""
     },
     {
-      "id": "comic-reply08-150-074",
+      "id": "comic-mix500-074",
       "line": 74,
-      "text": "Your kindness and thoughtfulness are truly appreciated."
+      "text": "\"Yessss, I'm stoked too! I've been thinking about that new restaurant idea for weeks and I'm planning on visiting it this weekend. I've heard great things about it, and I'm curious to see if it's a hit.\""
     },
     {
-      "id": "comic-reply08-150-075",
+      "id": "comic-mix500-075",
       "line": 75,
-      "text": "You are making my day."
+      "text": "\"Dude, I've been waiting for months to try it out, and I'm not just saying that because I've got a reservation. I'm pretty sure it's going to be a game-changer, but I'm not sure if it's just a flash in the pan.\""
     },
     {
-      "id": "comic-reply08-150-076",
+      "id": "comic-mix500-076",
       "line": 76,
-      "text": "I'm just happy to be of service."
+      "text": "\"Sounds like you're being a bit too diplomatic. I'm pretty sure it's going to be a game-changer, but I'm also pretty sure you're just buying into the hype. I've got a reservation too, and I've been waiting for months, so I'm not just saying that because I've got a reservation.\""
     },
     {
-      "id": "comic-reply08-150-077",
+      "id": "comic-mix500-077",
       "line": 77,
-      "text": "I'm here to help you with your query."
+      "text": "\"Come on, I'm not just buying into the hype, I've been following this project from the start. I'm not surprised that it's going to be a game-changer, I'm actually surprised it's not going to be. Let's have a real conversation about what's really going on.\""
     },
     {
-      "id": "comic-reply08-150-078",
+      "id": "comic-mix500-078",
       "line": 78,
-      "text": "Your question has been received and is being assessed."
+      "text": "\"Yeah, I get that, but I'm not here to gossip or speculate. I'm here to talk about the business plan and how we can ensure that the project is actually delivering on its promises.\""
     },
     {
-      "id": "comic-reply08-150-079",
+      "id": "comic-mix500-079",
       "line": 79,
-      "text": "Please provide your question so I can give you a personalized response."
+      "text": "\"That's not a bad starting point, but I was hoping to get more insight into your thought process and how you think we can address the project's potential risks and challenges. Can we take a break and grab a cup of coffee to discuss this further?\""
     },
     {
-      "id": "comic-reply08-150-080",
+      "id": "comic-mix500-080",
       "line": 80,
-      "text": "I'd be happy to help, but I need a question from you."
+      "text": "\"Sounds good to me, I've got a meeting with a potential client this afternoon that I'd love to discuss with you over a cup of coffee.\""
     },
     {
-      "id": "comic-reply08-150-081",
+      "id": "comic-mix500-081",
       "line": 81,
-      "text": "What is the main topic you'd like to discuss?"
+      "text": "\"Sounds good to me, I've got a meeting with a potential client this afternoon that I'd love to discuss with you over a cup of coffee.\""
     },
     {
-      "id": "comic-reply08-150-082",
+      "id": "comic-mix500-082",
       "line": 82,
-      "text": "I'd like to discuss your fitness goals."
+      "text": "\"I'm pretty sure the musician owes the station owner, not the other way around.\""
     },
     {
-      "id": "comic-reply08-150-083",
+      "id": "comic-mix500-083",
       "line": 83,
-      "text": "I'm here to help you achieve your goals."
+      "text": "\"I don't think that's a fair interpretation at all. The musician is actually in debt to the station, not the other way around.\""
     },
     {
-      "id": "comic-reply08-150-084",
+      "id": "comic-mix500-084",
       "line": 84,
-      "text": "I'm here to listen and assist."
+      "text": "\"Fair interpretation is subjective, right?\""
     },
     {
-      "id": "comic-reply08-150-085",
+      "id": "comic-mix500-085",
       "line": 85,
-      "text": "I'm here to listen and assist."
+      "text": "\"Absolutely, it's what you mean by 'fair'.\""
     },
     {
-      "id": "comic-reply08-150-086",
+      "id": "comic-mix500-086",
       "line": 86,
-      "text": "Living next to a quirky neighbor with a beloved pet duck."
+      "text": "\"Yeah, I'm just asking if it's okay to ask if it's okay.\""
     },
     {
-      "id": "comic-reply08-150-087",
+      "id": "comic-mix500-087",
       "line": 87,
-      "text": "It's a unique and charming living situation."
+      "text": "\"Of course, that's a perfectly normal question. What's on your mind?\""
     },
     {
-      "id": "comic-reply08-150-088",
+      "id": "comic-mix500-088",
       "line": 88,
-      "text": "I'm not sure if I'm comfortable with the idea of living in a converted church."
+      "text": "\"Honestly, I was just thinking about what we should do about the recent budget cuts. Do you think we should focus on efficiency or investing in new programs?\""
     },
     {
-      "id": "comic-reply08-150-089",
+      "id": "comic-mix500-089",
       "line": 89,
-      "text": "I need to consider the potential for preservation and maintenance issues."
+      "text": "\"Ugh, I'm not sure if efficiency is the answer or if we should be investing in new programs to address the issue.\""
     },
     {
-      "id": "comic-reply08-150-090",
+      "id": "comic-mix500-090",
       "line": 90,
-      "text": "Consideration of preservation and maintenance will be factored into the evaluation process."
+      "text": "\"Let's just get the basics done for now, like food and shelter, and then we can focus on efficiency.\""
     },
     {
-      "id": "comic-reply08-150-091",
+      "id": "comic-mix500-091",
       "line": 91,
-      "text": "The project's sustainability will be assessed accordingly."
+      "text": "\"Sounds good to me. I've got a meeting with the local food bank tomorrow to discuss donation logistics. How about we grab some coffee and discuss the shelter situation in person?\""
     },
     {
-      "id": "comic-reply08-150-092",
+      "id": "comic-mix500-092",
       "line": 92,
-      "text": "The project's sustainability will be assessed accordingly."
+      "text": "\"Sounds good to me. I've got a meeting with the local food bank tomorrow to discuss donation logistics. How about we grab some coffee and discuss the shelter situation in person?\""
     },
     {
-      "id": "comic-reply08-150-093",
+      "id": "comic-mix500-093",
       "line": 93,
-      "text": "Leaves one wondering what lies ahead."
+      "text": "\"Excuse me, but are you the tour guide I've been waiting for?\""
     },
     {
-      "id": "comic-reply08-150-094",
+      "id": "comic-mix500-094",
       "line": 94,
-      "text": "But perhaps the journey itself is what we truly seek."
+      "text": "\"Yep, that's me. Let's get started on the tour.\""
     },
     {
-      "id": "comic-reply08-150-095",
+      "id": "comic-mix500-095",
       "line": 95,
-      "text": "The journey may be just as valuable as the destination."
+      "text": "\"Uh, I think we should probably get started on the tour before we even get to the first stop.\""
     },
     {
-      "id": "comic-reply08-150-096",
+      "id": "comic-mix500-096",
       "line": 96,
-      "text": "The journey itself is often where the true treasure lies."
+      "text": "\"Yeah, that's a great point. We don't want to waste any time on the bus, right?\""
     },
     {
-      "id": "comic-reply08-150-097",
+      "id": "comic-mix500-097",
       "line": 97,
-      "text": "A journey of self-discovery is a treasure in itself."
+      "text": "\"Time is money, and money is a bus.\""
     },
     {
-      "id": "comic-reply08-150-098",
+      "id": "comic-mix500-098",
       "line": 98,
-      "text": "It's a personal growth process that ultimately enriches our lives."
+      "text": "\"Same difference, right?\""
     },
     {
-      "id": "comic-reply08-150-099",
+      "id": "comic-mix500-099",
       "line": 99,
-      "text": "Embracing challenges and learning from failures is crucial."
+      "text": "\"Dude, have you seen the traffic in downtown LA lately?\""
     },
     {
-      "id": "comic-reply08-150-100",
+      "id": "comic-mix500-100",
       "line": 100,
-      "text": "It's a natural part of growth and self-improvement."
+      "text": "\"Dude, I've been listening to the news, and it sounds like traffic in LA is actually getting worse. People are talking about congestion on the 405 and 101 freeways, and the LA County Sheriff's Department is warning drivers to expect more aggressive driving on the roads.\""
     },
     {
-      "id": "comic-reply08-150-101",
+      "id": "comic-mix500-101",
       "line": 101,
-      "text": "Developing new skills and perspectives is a lifelong process."
+      "text": "That's a safety hazard."
     },
     {
-      "id": "comic-reply08-150-102",
+      "id": "comic-mix500-102",
       "line": 102,
-      "text": "It's a continuous journey of growth and learning."
+      "text": "I don't think it's a safety hazard, I think it's a recipe for disaster."
     },
     {
-      "id": "comic-reply08-150-103",
+      "id": "comic-mix500-103",
       "line": 103,
-      "text": "Embracing challenges and taking calculated risks is a crucial part of the process."
+      "text": "I'm not surprised. I've seen the way you've been spending your time lately, and I've always thought you'd be better off with a backyard BBQ or a cooking show than a business deal gone wrong."
     },
     {
-      "id": "comic-reply08-150-104",
+      "id": "comic-mix500-104",
       "line": 104,
-      "text": "Learning from failure is also an essential step."
+      "text": "I'm shocked and disappointed by your comment. I know I've been struggling to balance my personal and professional life, and I've been working tirelessly to bring my business idea to life. I'm not sure what kind of BBQ or cooking show you're expecting me to give up my passion for entrepreneurship, but I appreciate your concern."
     },
     {
-      "id": "comic-reply08-150-105",
+      "id": "comic-mix500-105",
       "line": 105,
-      "text": "It's an opportunity to grow and improve."
+      "text": "I didn't mean to offend, I was just trying to balance my own responsibilities. I think I got a little carried away with the BBQ idea."
     },
     {
-      "id": "comic-reply08-150-106",
+      "id": "comic-mix500-106",
       "line": 106,
-      "text": "The best part of a challenge is the chance to learn and become a better version of yourself."
+      "text": "I didn't mean to get caught up in a debate about BBQs either. But I do have to say that I'm a bit concerned that you're planning a BBQ for a large group, with a lot of food to cater to. Can you please confirm with me what kind of food you'll be serving and how many people it will be for?"
     },
     {
-      "id": "comic-reply08-150-107",
-      "line": 107,
-      "text": "Building resilience and perseverance are crucial skills to develop during a challenging time."
-    },
-    {
-      "id": "comic-reply08-150-108",
+      "id": "comic-mix500-108",
       "line": 108,
-      "text": "Focus on self-care and seeking support."
+      "text": "No worries, I'm just glad we could clear that up. By the way, I just got back from a morning walk and saw a beautiful sunset, want to grab a coffee and chat more about the BBQ mishap?"
     },
     {
-      "id": "comic-reply08-150-109",
+      "id": "comic-mix500-109",
       "line": 109,
-      "text": "Prioritize your physical and emotional well-being by engaging in self-care activities such as exercise, meditation, and spending time with loved ones."
+      "text": "That sounds amazing! I'm definitely down to grab a coffee and catch up. By the way, I just got back from a morning walk and saw a beautiful sunset, want to grab a coffee and chat more about the BBQ mishap?"
     },
     {
-      "id": "comic-reply08-150-110",
+      "id": "comic-mix500-110",
       "line": 110,
-      "text": "Make time for relaxation and prioritize your mental health."
+      "text": "I'm so glad you said that, it's been too long since we last caught up. Let me get the details straight... I was trying to get the burgers on the grill to cook evenly, but I think I might have overdone it and they ended up on fire."
     },
     {
-      "id": "comic-reply08-150-111",
+      "id": "comic-mix500-111",
       "line": 111,
-      "text": "Prioritize self-care and take breaks to avoid burnout."
+      "text": "I'm so glad you said that, it's been too long since we last caught up. Let me get the details straight... I'm a bit concerned about the burgers on the grill, I hope you didn't burn yourself."
     },
     {
-      "id": "comic-reply08-150-112",
+      "id": "comic-mix500-112",
       "line": 112,
-      "text": "Take time for relaxation and rejuvenation to maintain a healthy work-life balance."
+      "text": "I'm glad you're excited, but I'm not sure I'm comfortable sharing all the details right now. Maybe we can catch up another time and I can fill you in on all the juicy gossip."
     },
     {
-      "id": "comic-reply08-150-113",
+      "id": "comic-mix500-113",
       "line": 113,
-      "text": "Staying active and exercising regularly is essential for overall well-being."
+      "text": "I'm a bit nervous about sharing all the details, but at the same time, I feel like I can trust you. Let's just say that I've been keeping a close eye on our school's social life, and I've got a few secrets up my sleeve. Maybe we can grab coffee or something and discuss the details over a quiet cup of coffee?"
     },
     {
-      "id": "comic-reply08-150-114",
+      "id": "comic-mix500-114",
       "line": 114,
-      "text": "Maintaining a healthy lifestyle can significantly improve mental and physical health."
+      "text": "I love the sound of your secrecy, and I'm happy to keep your trust. How about we grab coffee and talk about it instead of sharing it? I'm all ears, or rather, all text."
     },
     {
-      "id": "comic-reply08-150-115",
+      "id": "comic-mix500-115",
       "line": 115,
-      "text": "Lifestyle habits, such as regular exercise and a balanced diet, play a crucial role in overall well-being."
+      "text": "I'm glad you're interested, but I have to be honest, I'm not sure I want to talk about it. It's not something I'm comfortable sharing with anyone. Can we just agree to keep this between us and focus on something else?"
     },
     {
-      "id": "comic-reply08-150-116",
+      "id": "comic-mix500-116",
       "line": 116,
-      "text": "Investing in personal well-being is key to a happy and healthy life."
+      "text": "I'll just nod and say \"understood\" to show that I respect your decision."
     },
     {
-      "id": "comic-reply08-150-117",
+      "id": "comic-mix500-117",
       "line": 117,
-      "text": "Focusing on self-care and mindfulness can also have a positive impact on mental and physical health."
+      "text": "That's not what I meant. I was just joking around. I was actually saying \"I get it\" and \"I agree\" to show that I understand and agree with your point of view."
     },
     {
-      "id": "comic-reply08-150-118",
+      "id": "comic-mix500-118",
       "line": 118,
-      "text": "Being present and aware of one's thoughts and emotions can lead to a greater sense of well-being."
+      "text": "I was completely serious. I didn't catch the joke."
     },
     {
-      "id": "comic-reply08-150-119",
+      "id": "comic-mix500-119",
       "line": 119,
-      "text": "Being present and aware can foster mindfulness and self-acceptance."
+      "text": "(laughs) Oh, I think there's been a misunderstanding. I'm pretty sure I was the one who told you a joke."
+    },
+    {
+      "id": "comic-mix500-120",
+      "line": 120,
+      "text": "(laughs) Yeah, I'm pretty sure it was you too! But seriously, what joke were you telling me?"
+    },
+    {
+      "id": "comic-mix500-121",
+      "line": 121,
+      "text": "(laughs) Ahahah, you're right! I think I might have cracked a joke or two when we last talked... (chuckles)"
+    },
+    {
+      "id": "comic-mix500-122",
+      "line": 122,
+      "text": "I'm glad I could bring some humor back into your life. (laughs) Just kidding, I'm just glad I could see the playful side of you again."
+    },
+    {
+      "id": "comic-mix500-123",
+      "line": 123,
+      "text": "I'm glad I could bring some humor back into your life. But seriously, thanks for noticing and appreciating my efforts."
+    },
+    {
+      "id": "comic-mix500-124",
+      "line": 124,
+      "text": "Thanks for the sentiment, I'm glad I could bring some humor back into your life too! However, I should let you know that I didn't actually notice or appreciate your efforts, I just read your message."
+    },
+    {
+      "id": "comic-mix500-125",
+      "line": 125,
+      "text": "I'm glad I could bring some humor back into your life too! I'm actually a robot, so I don't have a life to be humorous about."
+    },
+    {
+      "id": "comic-mix500-126",
+      "line": 126,
+      "text": "I'm glad I could bring some humor back into your life too! I'm actually a robot, so I don't have a life to be humorous about."
+    },
+    {
+      "id": "comic-mix500-127",
+      "line": 127,
+      "text": "\"I guess that's a bit of a fowl move, Mr. Jenkins.\""
+    },
+    {
+      "id": "comic-mix500-128",
+      "line": 128,
+      "text": "\"Ah, I think you'll find it's a necessary move, ma'am. The chicken has escaped from the coop and is causing quite the commotion.\""
+    },
+    {
+      "id": "comic-mix500-129",
+      "line": 129,
+      "text": "\"Uh, I think you might be mistaken. I'm not sure if the chicken has actually escaped from the coop, but I do know that the farmhands have been having some issues with chickens getting loose. Maybe we should call them to order instead of blaming them?\""
+    },
+    {
+      "id": "comic-mix500-130",
+      "line": 130,
+      "text": "I didn't think of calling the farmhands to order, but that's a great point. Maybe instead, we should try to understand what's causing the issue. The chicken has escaped from the coop, and the farmhands are concerned about the safety of the other animals on the farm. Maybe we can have a team discussion to figure out what's going on and how to fix it."
+    },
+    {
+      "id": "comic-mix500-131",
+      "line": 131,
+      "text": "I love the direction we're heading with this idea. Let's see if we can gather more information to help the team get to the bottom of the problem. What kind of details do we need to know to start thinking about possible causes and solutions?"
+    },
+    {
+      "id": "comic-mix500-132",
+      "line": 132,
+      "text": "I'm glad you're excited about the direction we're heading. To start thinking about possible causes and solutions, I think we should gather data on the team's current workflow, including any potential bottlenecks or inefficiencies. We should also talk to team members who are experiencing difficulties with the current process and gather their stories and anecdotes. Additionally, we should consider any relevant industry or regulatory standards or best practices that might be relevant to our problem."
+    },
+    {
+      "id": "comic-mix500-133",
+      "line": 133,
+      "text": "I think we should also consider the potential impact of our actions on the team's morale and productivity, and think about ways to address any burnout or frustration that might be building up."
+    },
+    {
+      "id": "comic-mix500-134",
+      "line": 134,
+      "text": "\"Agreed, let's schedule a team-building meeting for next week to discuss and brainstorm ways to boost morale and address burnout.\""
+    },
+    {
+      "id": "comic-mix500-136",
+      "line": 136,
+      "text": "I think we should also consider the potential impact of our actions on the team's morale and productivity, and think about ways to address any burnout or frustration that might be building up."
+    },
+    {
+      "id": "comic-mix500-137",
+      "line": 137,
+      "text": "I'd love to discuss this further with you. What are some potential strategies we could implement to address morale and productivity concerns?"
+    },
+    {
+      "id": "comic-mix500-138",
+      "line": 138,
+      "text": "Actually, I was thinking more along the lines of \"evaluation and improvement\" - we need to take a closer look at our workflow and make sure we're doing what we're supposed to be doing, rather than just waiting for a raise to make up for lost time."
     }
   ]
 }
