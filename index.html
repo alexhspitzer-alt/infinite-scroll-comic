@@ -21,6 +21,18 @@
 const comic=document.getElementById('comic');
 let lines=[],panelCount=0,lineCount=0;
 
+function fitCaptions(){
+ for(const caption of comic.querySelectorAll('.dialogue')){
+  const frame=caption.parentElement;
+  const maxHeight=frame.clientHeight*.29;
+  let size=Math.min(22,Math.max(16,innerWidth*.04));
+  caption.style.fontSize=size+'px';
+  while(caption.scrollHeight>maxHeight && size>8){
+   size-=.5;caption.style.fontSize=size+'px';
+  }
+ }
+}
+new ResizeObserver(fitCaptions).observe(comic);
 function appendPanels(){
  if(!lines.length)return;
  const fragment=document.createDocumentFragment();
@@ -39,9 +51,10 @@ function appendPanels(){
   fragment.append(figure);panelCount++;
  }
  comic.append(fragment);
+ requestAnimationFrame(fitCaptions);
 }
 document.getElementById('load').addEventListener('click',appendPanels);
-fetch('dialogue.json?v=reply08-119', {cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Could not load dialogue.');return r.json();}).then(data=>{
+fetch('dialogue.json?v=mix500-136', {cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Could not load dialogue.');return r.json();}).then(data=>{
  lines=data.lines.filter(line=>typeof line.text==='string'&&line.text.trim());if(!lines.length)throw new Error('No dialogue available.');
  appendPanels();
  if('IntersectionObserver' in window){new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting))appendPanels();},{rootMargin:'1200px'}).observe(document.getElementById('more'));}
