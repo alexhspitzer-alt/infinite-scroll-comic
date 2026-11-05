@@ -12,6 +12,7 @@
 .panel img{position:relative;z-index:2;pointer-events:none}
 .cafe-scene{position:absolute;inset:0;z-index:1;pointer-events:none}
 .cafe-emoji{position:absolute;transform:translate(-50%,-50%);font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif;font-weight:400;line-height:1;filter:drop-shadow(2px 3px 1px #30230d30);user-select:none}
+.cafe-swarm{width:100%;height:100%;display:grid;grid-template-columns:repeat(20,1fr);grid-template-rows:repeat(15,1fr);align-items:center;justify-items:center;filter:none}
 .dialogue{z-index:3}.panel-number{z-index:3}
 </style>
 </head>
@@ -47,9 +48,9 @@ function createCafeScene(){
   ['house|home','🏠'],['car|cars|drive|driving','🚗'],['bus|buses','🚌'],['bike|bicycle','🚲'],
   ['sleep|sleeping|bed|dream|dreams','🛏️'],['work|job|business|office','💼'],
   ['computer|code|coding','💻'],['key|keys','🔑'],['chair|chairs','🪑'],['door|doors','🚪'],
-  ['death|dead|died|loss','💀'],['love|heart|marriage','❤️'],['world|earth','🌍']
+  ['death|dead|died|loss','💀'],['heart|romance|romantic','❤️'],['world|earth','🌍']
  ].map(([words,e])=>({pattern:new RegExp('\\b('+words+')\\b','i'),e}));
- let seed=91307,serial=0,nextDecor=9;
+ let seed=91307,serial=0,nextDecor=9,lastGiant=-15,lastSwarm=-20;
  let objects=[{id:serial++,e:'🖼️',x:22,y:33,s:11,born:0,end:15,decor:true},
  {id:serial++,e:'🪴',x:51,y:37,s:8,born:0,end:21,decor:true},
  {id:serial++,e:'🪟',x:81,y:32,s:14,born:0,end:27,decor:true}];
@@ -72,14 +73,16 @@ function createCafeScene(){
    else if(o.e==='🐌'&&n%3===0)o.x-=2;
   }
   // Only one object gets a fresh change at a time; most remain completely still.
-  const settled=objects.filter(o=>!o.train&&n>=o.until);
+  const settled=objects.filter(o=>!o.train&&!o.swarm&&!o.giant&&n>=o.until);
   const chosen=settled[Math.floor(random()*settled.length)];
   if(chosen&&random()<.48)chosen.s=Math.max(4,Math.min(25,chosen.s*(random()<.42?.72:1.35)));
-  if(chosen&&random()<.23)add(chosen.e,n,chosen.decor,chosen);
+  if(chosen&&chosen.e!=='❤️'&&random()<.23)add(chosen.e,n,chosen.decor,chosen);
   const wanderers=objects.filter(o=>o.train||n<o.until).length;
   if(chosen&&wanderers<2&&random()<.18){
    const roam=random()<.35;
-   chosen.vx=(random()-.5)*(roam?18:4);chosen.vy=(random()-.5)*(roam?18:1);
+   const vertical=random()<.55;
+   chosen.vx=vertical?(random()-.5)*2:(random()-.5)*(roam?18:4);
+   chosen.vy=vertical?(random()<.5?-1:1)*(4+random()*9):(random()-.5)*(roam?12:1);
    chosen.until=n+3+Math.floor(random()*6);
   }
   if(pending.length&&pending[0].at<=n){const event=pending.shift();add(event.e,n,decor.includes(event.e));}
@@ -87,11 +90,18 @@ function createCafeScene(){
   let queued=0;
   for(const rule of rules){
    if(queued>=2||pending.length>=20)break;
-   if(rule.pattern.test(text)&&n-(lastTrigger.get(rule.e)??-10)>=5){
+   if(rule.pattern.test(text)&&n-(lastTrigger.get(rule.e)??-50)>=(rule.e==='❤️'?40:5)){
     pending.push({e:rule.e,at:n+3+Math.floor(random()*4)});lastTrigger.set(rule.e,n);queued++;
    }
   }
   pending.sort((a,b)=>a.at-b.at);
+  // Brief, rare excesses; normal scenes stay small and inexpensive.
+  if(chosen&&n-lastGiant>45&&(random()<.04||n===35)){
+   chosen.giant=true;chosen.s=90+random()*65;chosen.x=25+random()*50;chosen.y=40+random()*30;chosen.end=n+5;lastGiant=n;
+  }
+  if(chosen&&chosen.e!=='❤️'&&n-lastSwarm>65&&(random()<.035||n===60)){
+   objects.push({id:serial++,e:chosen.e,x:50,y:50,s:3,born:n,end:n+4,swarm:true,vx:0,vy:0,until:0});lastSwarm=n;
+  }
   return objects.map(o=>({...o}));
  }};
 }
@@ -154,6 +164,7 @@ function appendPanels(){
   const scene=document.createElement('div');scene.className='cafe-scene';scene.setAttribute('aria-hidden','true');
   for(const object of cafe.step(panelText,panelCount)){
    const emoji=document.createElement('span');emoji.className='cafe-emoji';emoji.textContent=object.e;
+   if(object.swarm){emoji.classList.add('cafe-swarm');emoji.textContent='';for(let k=0;k<300;k++){const tiny=document.createElement('span');tiny.textContent=object.e;emoji.append(tiny);}}
    emoji.style.left=object.x+'%';emoji.style.top=object.y+'%';emoji.style.fontSize=object.s+'cqw';
    scene.append(emoji);
   }
