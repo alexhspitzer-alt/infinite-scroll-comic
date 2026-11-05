@@ -7,6 +7,12 @@
 <title>Infinite Scroll Comic</title>
 <style>
 *{box-sizing:border-box}html{background:#f3eee4;color:#29251f}body{margin:0;font-family:Georgia,serif}main{max-width:650px;margin:auto;padding:28px 12px 0}header{padding:0 6px 22px}h1{font-size:clamp(1.8rem,6vw,2.8rem);letter-spacing:-.04em;margin:0 0 6px}header p{margin:0;color:#726957;font-size:1rem}#comic{display:flex;flex-direction:column;gap:16px}.panel{position:relative;margin:0;background:#fff;border:3px solid #181818;aspect-ratio:1;overflow:hidden;content-visibility:auto;contain-intrinsic-size:auto 600px}.panel img{display:block;width:100%;height:100%;object-fit:fill}.dialogue{position:absolute;z-index:1;top:2%;left:4%;right:4%;margin:0;padding:3px 5px;background:#fff;font:500 clamp(16px,4vw,22px)/1.35 system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#111;text-align:center;overflow-wrap:anywhere}.dialogue[data-speaker="man"]{text-align:left}.dialogue[data-speaker="woman"]{text-align:right}.panel-number{position:absolute;bottom:1%;right:2%;font:10px/1 system-ui;color:#777;background:white;padding:2px}#more{padding:28px;text-align:center;color:#726957;font:14px system-ui}button{font:inherit;color:inherit;background:none;border:1px solid #aaa;padding:10px 18px;border-radius:3px;cursor:pointer}#error{font:16px system-ui;color:#8b2626}a{color:inherit}
+
+.panel{isolation:isolate;container-type:inline-size;background:#f1eadf}
+.panel img{position:relative;z-index:2;pointer-events:none}
+.cafe-scene{position:absolute;inset:0;z-index:1;pointer-events:none}
+.cafe-emoji{position:absolute;transform:translate(-50%,-50%);font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif;font-weight:400;line-height:1;filter:drop-shadow(2px 3px 1px #30230d30);user-select:none}
+.dialogue{z-index:3}.panel-number{z-index:3}
 </style>
 </head>
 <body><main>
@@ -20,6 +26,103 @@
 'use strict';
 const comic=document.getElementById('comic');
 let lines=[],panelCount=0,lineCount=0;
+
+// CAFE ENGINE START: deterministic, bounded, panel-by-panel scenery.
+function createCafeScene(){
+ const decor=['🪟','🖼️','🪴','🕰️','💡'];
+ const rules=[
+  ['fish|fishing|salmon','🐟'],['duck|ducks','🦆'],['train|trains|railway','🚂'],
+  ['snail|snails|slow','🐌'],['holiday|vacation|island|beach','🏝️'],['mountain|mountains','🏔️'],
+  ['plant|plants|garden|gardening','🪴'],['window|windows','🪟'],['picture|pictures|photo|photos|photography|painting|album','🖼️'],
+  ['clock|clocks|late|time','🕰️'],['light|lamp|idea','💡'],['coffee|espresso|cappuccino','☕'],
+  ['money|rent|cash|salary|expensive','💸'],['boat|boats|ship|sailing','⛵'],
+  ['suitcase|luggage|baggage','🧳'],['gift|gifts|present|presents','🎁'],['book|books|read|reading','📚'],
+  ['note|notes|letter|letters|card','✉️'],['music|song|songs|singing','🎵'],['phone|call|calling','☎️'],
+  ['dog|dogs|puppy','🐕'],['cat|cats|kitten','🐈'],['horse|horses','🐎'],['bird|birds','🐦'],
+  ['shrimp|prawn','🦐'],['lobster','🦞'],['crab|crabs','🦀'],['egg|eggs','🥚'],
+  ['rain|raining|umbrella','☔'],['sun|sunny|sunshine','☀️'],['moon|lunar','🌙'],['space|rocket','🚀'],
+  ['fire|burn|burning|hell','🔥'],['water|ocean|sea','🌊'],['tree|trees|forest','🌳'],
+  ['flower|flowers|rose','🌻'],['apple|apples','🍎'],['banana|bananas','🍌'],['bread|toast','🍞'],
+  ['cake|birthday','🎂'],['cheese','🧀'],['pizza','🍕'],['tea','🫖'],['beer','🍺'],
+  ['house|home','🏠'],['car|cars|drive|driving','🚗'],['bus|buses','🚌'],['bike|bicycle','🚲'],
+  ['sleep|sleeping|bed|dream|dreams','🛏️'],['work|job|business|office','💼'],
+  ['computer|code|coding','💻'],['key|keys','🔑'],['chair|chairs','🪑'],['door|doors','🚪'],
+  ['death|dead|died|loss','💀'],['love|heart|marriage','❤️'],['world|earth','🌍']
+ ].map(([words,e])=>({pattern:new RegExp('\\b('+words+')\\b','i'),e}));
+ let seed=91307,serial=0,nextDecor=9;
+ let objects=[{id:serial++,e:'🖼️',x:22,y:33,s:11,born:0,end:15,decor:true},
+ {id:serial++,e:'🪴',x:51,y:37,s:8,born:0,end:21,decor:true},
+ {id:serial++,e:'🪟',x:81,y:32,s:14,born:0,end:27,decor:true}];
+ const pending=[],lastTrigger=new Map();
+ function random(){seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;}
+ function add(e,n,isDecor=false,parent=null){
+  if(objects.length>=14)return;
+  const train=e==='🚂',life=train?20:12+Math.floor(random()*13);
+  objects.push({id:serial++,e,x:parent?parent.x+8:train?108:8+random()*84,
+   y:parent?parent.y+3:30+random()*10,s:parent?Math.max(5,parent.s*.8):7+random()*5,
+   born:n,end:n+life,decor:isDecor,train,vx:0,vy:0,until:0});
+ }
+ return {step(text,n){
+  // Mix in this panel's text: reload and backwards scrolling keep the same scene.
+  for(let i=0;i<text.length;i++)seed=(Math.imul(seed^text.charCodeAt(i),16777619))>>>0;
+  objects=objects.filter(o=>n<o.end&&o.x>-30&&o.x<130&&o.y>-30&&o.y<130);
+  for(const o of objects){
+   if(o.train)o.x-=7;
+   else if(n<o.until){o.x+=o.vx;o.y+=o.vy;}
+   else if(o.e==='🐌'&&n%3===0)o.x-=2;
+  }
+  // Only one object gets a fresh change at a time; most remain completely still.
+  const settled=objects.filter(o=>!o.train&&n>=o.until);
+  const chosen=settled[Math.floor(random()*settled.length)];
+  if(chosen&&random()<.48)chosen.s=Math.max(4,Math.min(25,chosen.s*(random()<.42?.72:1.35)));
+  if(chosen&&random()<.23)add(chosen.e,n,chosen.decor,chosen);
+  const wanderers=objects.filter(o=>o.train||n<o.until).length;
+  if(chosen&&wanderers<2&&random()<.18){
+   const roam=random()<.35;
+   chosen.vx=(random()-.5)*(roam?18:4);chosen.vy=(random()-.5)*(roam?18:1);
+   chosen.until=n+3+Math.floor(random()*6);
+  }
+  if(pending.length&&pending[0].at<=n){const event=pending.shift();add(event.e,n,decor.includes(event.e));}
+  if(n>=nextDecor){if(objects.filter(o=>o.decor).length<4)add(decor[Math.floor(random()*decor.length)],n,true);nextDecor=n+8+Math.floor(random()*6);}
+  let queued=0;
+  for(const rule of rules){
+   if(queued>=2||pending.length>=20)break;
+   if(rule.pattern.test(text)&&n-(lastTrigger.get(rule.e)??-10)>=5){
+    pending.push({e:rule.e,at:n+3+Math.floor(random()*4)});lastTrigger.set(rule.e,n);queued++;
+   }
+  }
+  pending.sort((a,b)=>a.at-b.at);
+  return objects.map(o=>({...o}));
+ }};
+}
+// CAFE ENGINE END
+
+const cafe=createCafeScene();
+// Remove only the edge-connected paper, preserving the white inside the characters.
+// Each of the 18 small artwork images is processed once and shared by later panels.
+const cafeArtwork=new Map();
+function prepareCafeArtwork(image){
+ const source=image.src;
+ image.addEventListener('load',async()=>{
+  try{
+   if(!cafeArtwork.has(source))cafeArtwork.set(source,new Promise(resolve=>{
+    const canvas=document.createElement('canvas');canvas.width=image.naturalWidth;canvas.height=image.naturalHeight;
+    const ctx=canvas.getContext('2d',{willReadFrequently:true});ctx.drawImage(image,0,0);
+    const data=ctx.getImageData(0,0,canvas.width,canvas.height),pixels=data.data;
+    const w=canvas.width,h=canvas.height,total=w*h,seen=new Uint8Array(total),queue=new Int32Array(total);let head=0,tail=0;
+    function visit(p){if(seen[p])return;seen[p]=1;const q=p*4;if(pixels[q]>228&&pixels[q+1]>228&&pixels[q+2]>228)queue[tail++]=p;}
+    // Artwork contains a thin black frame: start just inside its top edge; side edges can touch clothing.
+    for(let x=4;x<w-4;x++)visit(4*w+x);
+    while(head<tail){const p=queue[head++];pixels[p*4+3]=0;const x=p%w;
+     if(x>0)visit(p-1);if(x<w-1)visit(p+1);if(p>=w)visit(p-w);if(p<total-w)visit(p+w);
+    }
+    ctx.putImageData(data,0,0);canvas.toBlob(blob=>resolve(blob?URL.createObjectURL(blob):source),'image/png');
+   }));
+   image.src=await cafeArtwork.get(source);
+  }catch{ /* Original artwork remains available if canvas is unsupported. */ }
+ },{once:true});
+}
+
 
 function fitCaptions(){
  for(const caption of comic.querySelectorAll('.dialogue')){
@@ -41,12 +144,20 @@ function appendPanels(){
   const figure=document.createElement('figure');figure.className='panel';
   figure.setAttribute('aria-label','Panel '+(panelCount+1));
   const image=document.createElement('img');image.src='assets/panel-'+String(art).padStart(2,'0')+'.webp';image.width=400;image.height=400;image.loading=panelCount<2?'eager':'lazy';image.decoding='async';
+  prepareCafeArtwork(image);
   image.alt=art===6?'Both characters pause to drink their coffee.':'A man and a woman talking over coffee at a counter.';
-  figure.append(image);
+  let panelText='';
   if(art!==6){
-   const line=lines[lineCount%lines.length];
+   const line=lines[lineCount%lines.length];panelText=line.text;
    const caption=document.createElement('figcaption');caption.className='dialogue';caption.dataset.speaker=lineCount%2?'woman':'man';caption.textContent=line.text.replace(/^"|"$/g,'');figure.append(caption);lineCount++;
   }
+  const scene=document.createElement('div');scene.className='cafe-scene';scene.setAttribute('aria-hidden','true');
+  for(const object of cafe.step(panelText,panelCount)){
+   const emoji=document.createElement('span');emoji.className='cafe-emoji';emoji.textContent=object.e;
+   emoji.style.left=object.x+'%';emoji.style.top=object.y+'%';emoji.style.fontSize=object.s+'cqw';
+   scene.append(emoji);
+  }
+  figure.prepend(scene,image);
   const number=document.createElement('span');number.className='panel-number';number.textContent=String(panelCount+1);number.setAttribute('aria-hidden','true');figure.append(number);
   fragment.append(figure);panelCount++;
  }
