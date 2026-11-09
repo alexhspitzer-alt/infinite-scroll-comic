@@ -1,2063 +1,2753 @@
 {
   "lines": [
     {
-      "id": "comic-fresh140-500-001",
+      "id": "comic-t11-20261108-001",
       "line": 1,
+      "text": "Actually, it's been a family member who's been subtly rearranging them to match the new artwork they just hung on the opposite wall."
+    },
+    {
+      "id": "comic-t11-20261108-002",
+      "line": 2,
+      "text": "But just as I was about to point out the suspiciously identical frames and vases, my cousin just walked into the room and casually strolled over to the artwork, giving it a nonchalant nod of approval."
+    },
+    {
+      "id": "comic-t11-20261108-003",
+      "line": 3,
+      "text": "over to the coffee table, gave a quick once-over of the entire setup, and then plopped down in the only empty chair, looking utterly unbothered by the whole scene."
+    },
+    {
+      "id": "comic-t11-20261108-004",
+      "line": 4,
+      "text": "Just as they were about to start the meeting, the doorbell rang, and the person's eyes lit up as they exclaimed, \"Perfect timing, I think we've got our photographer arriving right on schedule!\""
+    },
+    {
+      "id": "comic-t11-20261108-005",
+      "line": 5,
+      "text": "I was right on schedule, and I just got a message from the caterer that they've got our order for sandwiches and drinks, so we can skip the pause and get started on time."
+    },
+    {
+      "id": "comic-t11-20261108-006",
+      "line": 6,
+      "text": "I'm sure the caterer is just thrilled to be showing up an hour and a half after we're supposed to start serving, I mean, who needs to be on time for a party, right?"
+    },
+    {
+      "id": "comic-t11-20261108-007",
+      "line": 7,
+      "text": "Well, apparently the caterer's chef is a competitive eater and was running late because he was trying to break the record for most burgers eaten in an hour."
+    },
+    {
+      "id": "comic-t11-20261108-008",
+      "line": 8,
+      "text": "I just got a call from the venue manager, they just found out that the sound system is still not working properly, so we're going to have to scramble to get it fixed before the first speaker takes the stage."
+    },
+    {
+      "id": "comic-t11-20261108-009",
+      "line": 9,
+      "text": "Honestly, I think that's just a last-minute excuse, I've been there before and it always seems to magically fix itself right before the big moment."
+    },
+    {
+      "id": "comic-t11-20261108-010",
+      "line": 10,
+      "text": "Actually, I just double-checked with my colleague who was supposed to be there, and she said she's been experiencing some serious technical issues all morning and is actually stuck in a meeting that's running way over schedule."
+    },
+    {
+      "id": "comic-t11-20261108-011",
+      "line": 11,
+      "text": "Yeah, that's not surprising, tech stuff always seems to be on the fritz at the worst possible moment, doesn't it?"
+    },
+    {
+      "id": "comic-t11-20261108-012",
+      "line": 12,
+      "text": "Actually, I think that's just a sign of how outdated the tech is and not that it's inherently flawed, but hey, that's just my two cents."
+    },
+    {
+      "id": "comic-t11-20261108-013",
+      "line": 13,
+      "text": "I've seen it time and time again, where people try to attribute the problems to the tech itself, when really it's just a case of not knowing how to use it effectively."
+    },
+    {
+      "id": "comic-t11-20261108-014",
+      "line": 14,
+      "text": "I've seen it too, and it's like people are more comfortable pointing fingers at the tech than taking a step back to assess their own habits and workflow."
+    },
+    {
+      "id": "comic-t11-20261108-015",
+      "line": 15,
+      "text": "I think that's a pretty cynical view, don't you think - what if people are just genuinely unaware of the impact their behavior has on the tech industry?"
+    },
+    {
+      "id": "comic-t11-20261108-016",
+      "line": 16,
+      "text": "I get what you're saying, but I've seen so many people genuinely believe they're doing the right thing, even if it's causing harm in the long run, and that's what makes me think it's more complicated than just people being ignorant."
+    },
+    {
+      "id": "comic-t11-20261108-017",
+      "line": 17,
+      "text": "That's a pretty pessimistic view, I think you're being too hard on people's intentions and not giving them the benefit of the doubt."
+    },
+    {
+      "id": "comic-t11-20261108-018",
+      "line": 18,
+      "text": "Actually, just got a call from the project manager saying that the delays are going to be even longer than expected, which is kind of a bummer."
+    },
+    {
+      "id": "comic-t11-20261108-019",
+      "line": 19,
+      "text": "Yeah, that's not great, just found out that the vendor we were waiting on to deliver some critical components is now saying they're 6-8 weeks behind schedule, which is really throwing off our entire timeline."
+    },
+    {
+      "id": "comic-t11-20261108-020",
+      "line": 20,
+      "text": "Bummer, just got a call from the sales team at a competitor who's offering a similar solution and they're looking at a 4-week lead time, so we might be able to jump ahead on that one."
+    },
+    {
+      "id": "comic-t11-20261108-021",
+      "line": 21,
+      "text": "But I just got word from our CEO that our team has been working on a completely new feature that should give us a 2-week head start on delivery."
+    },
+    {
+      "id": "comic-t11-20261108-022",
+      "line": 22,
+      "text": "That's convenient, but I'm not sure I trust a new feature that's going to change everything at the last minute - we don't want to reinvent the wheel here."
+    },
+    {
+      "id": "comic-t11-20261108-023",
+      "line": 23,
+      "text": "Actually, the developers have been working on this new feature for months and have already tested it with a small group of beta testers to ensure it's stable and compatible with our existing workflow."
+    },
+    {
+      "id": "comic-t11-20261108-024",
+      "line": 24,
+      "text": "I'm not sure I'm sold on the idea, I mean, it sounds like it's been in development for months, I've seen plenty of \"early access\" features that turned out to be duds."
+    },
+    {
+      "id": "comic-t11-20261108-025",
+      "line": 25,
+      "text": "But supposedly, the developers have been working on it in tandem with a major publisher, which could explain why it's been so polished and refined."
+    },
+    {
+      "id": "comic-t11-20261108-026",
+      "line": 26,
+      "text": "I'm not buying it, I think they've just been waiting for the right moment to drop it and get all the attention, rather than actually collaborating with the publisher."
+    },
+    {
+      "id": "comic-t11-20261108-027",
+      "line": 27,
+      "text": "I was talking to one of the team members who was actually there when the idea first came up and they swore they saw some notes on their desk from like 6 months ago."
+    },
+    {
+      "id": "comic-t11-20261108-028",
+      "line": 28,
+      "text": "Yeah, I think I remember my sister saying she was at the same meeting, and she swore she saw those notes on the conference table, not just on a desk."
+    },
+    {
+      "id": "comic-t11-20261108-029",
+      "line": 29,
+      "text": "I'm sure she's right, but I'm pretty sure the notes were actually on the floor, she must have been distracted and not paying attention."
+    },
+    {
+      "id": "comic-t11-20261108-030",
+      "line": 30,
+      "text": "I remember now, she was trying to get to her car and was in a bit of a rush, which could've easily led to her missing the notes."
+    },
+    {
+      "id": "comic-t11-20261108-031",
+      "line": 31,
+      "text": "Yeah, but maybe she wasn't as desperate as she seemed and just really didn't want to slow down long enough to double-check, you know?"
+    },
+    {
+      "id": "comic-t11-20261108-032",
+      "line": 32,
+      "text": "I don't know, man, I think she was definitely trying to get out of there as fast as she could, I've seen her leave a party or a social gathering before and she's always been the first one to make a quick exit."
+    },
+    {
+      "id": "comic-t11-20261108-033",
+      "line": 33,
+      "text": "But now I just got a call from my cousin, who was at the same party, and he's telling me that she was actually seen arguing with the guy she was supposed to meet with just before she left."
+    },
+    {
+      "id": "comic-t11-20261108-034",
+      "line": 34,
+      "text": "But apparently, she was just joking around and the whole thing was blown way out of proportion, and now I'm getting texts from her saying she's really sorry and wants to grab coffee to clear the air."
+    },
+    {
+      "id": "comic-t11-20261108-035",
+      "line": 35,
+      "text": "Apparently, she's offering to grab drinks and apologize in person, and she's even asked me to bring her favorite snack."
+    },
+    {
+      "id": "comic-t11-20261108-036",
+      "line": 36,
+      "text": "I'm sure she's not just trying to buy her way back into your good books, I think she should just own up to what she did and apologize without all the frills."
+    },
+    {
+      "id": "comic-t11-20261108-037",
+      "line": 37,
+      "text": "Actually, I just remembered that she's been saying she's been doing a lot of soul-searching and has been seeing a therapist to work through her feelings about what happened."
+    },
+    {
+      "id": "comic-t11-20261108-038",
+      "line": 38,
+      "text": "Oh man, that's a whole new level of depth, I didn't know she was taking that seriously and seeing a pro to help her figure some stuff out."
+    },
+    {
+      "id": "comic-t11-20261108-039",
+      "line": 39,
+      "text": "Apparently, she's been struggling with it for a while and was getting pretty frustrated with herself before she finally sought out some professional guidance."
+    },
+    {
+      "id": "comic-t11-20261108-040",
+      "line": 40,
+      "text": "I think she was just waiting for the right moment to talk to someone about it, maybe when she was feeling less overwhelmed, rather than just seeking out a pro on a whim."
+    },
+    {
+      "id": "comic-t11-20261108-041",
+      "line": 41,
+      "text": "You think she was just waiting for the right moment to talk to someone about it, maybe when she was feeling less overwhelmed, rather than just dumping her emotions on the first person she met."
+    },
+    {
+      "id": "comic-t11-20261108-042",
+      "line": 42,
+      "text": "I'm not so sure, I think she might have been trying to avoid talking about it altogether, it's been pretty obvious she's been struggling with it."
+    },
+    {
+      "id": "comic-t11-20261108-043",
+      "line": 43,
+      "text": "She's been avoiding eye contact with her colleagues and keeps her phone on silent mode during meetings, which is really unusual for her."
+    },
+    {
+      "id": "comic-t11-20261108-044",
+      "line": 44,
+      "text": "Things just got even more interesting because just as I was about to ask her what's going on, she accidentally knocked over her water glass while trying to quickly hide her phone, spilling it all over the conference table."
+    },
+    {
+      "id": "comic-t11-20261108-045",
+      "line": 45,
+      "text": "Yeah, now she's trying to clean up the spill while her phone is blowing up with texts from her mom, who just called to say that her grandma is in the hospital and needs her to come home ASAP."
+    },
+    {
+      "id": "comic-t11-20261108-046",
+      "line": 46,
+      "text": "Actually, I think she should just let her grandma handle it, grandma's usually the one who's most stressed out after a spill anyway."
+    },
+    {
+      "id": "comic-t11-20261108-047",
+      "line": 47,
+      "text": "Yeah, that makes total sense, but now that I think about it, I just remembered that her grandma was actually out of town for the week and might be the only one who can keep an eye on things while she's at work."
+    },
+    {
+      "id": "comic-t11-20261108-048",
+      "line": 48,
+      "text": "I'm not so sure, I've known her for years and she's always been pretty reliable about keeping me posted on her family's whereabouts, maybe she just forgot this time?"
+    },
+    {
+      "id": "comic-t11-20261108-049",
+      "line": 49,
+      "text": "Actually, I just got a call from her niece and she said her aunt's been MIA for a few days now, so I'm starting to get a little worried."
+    },
+    {
+      "id": "comic-t11-20261108-050",
+      "line": 50,
+      "text": "I think you're overreacting a bit, I've heard that sometimes people just need some space or time to themselves and it doesn't necessarily mean they're in trouble."
+    },
+    {
+      "id": "comic-t11-20261108-051",
+      "line": 51,
+      "text": "Yeah, my mom's always saying that too, but honestly, I think she's been feeling really overwhelmed with work and stuff lately, so maybe she just needs some time to recharge?"
+    },
+    {
+      "id": "comic-t11-20261108-052",
+      "line": 52,
+      "text": "I can see how that would be a lot to deal with, and it's actually been pretty tough for her since she got that new project at work, which just happens to be a major one."
+    },
+    {
+      "id": "comic-t11-20261108-053",
+      "line": 53,
+      "text": "She's been putting in a ton of hours and has been getting a lot of pushback from her boss about meeting the project's tight deadline."
+    },
+    {
+      "id": "comic-t11-20261108-054",
+      "line": 54,
+      "text": "I think she's being too hard on herself, she's actually doing a great job under a lot of pressure and meeting deadlines is just a minor detail."
+    },
+    {
+      "id": "comic-t11-20261108-055",
+      "line": 55,
+      "text": "Actually, I just got a call from our boss, and it seems like our project is going to have an unexpected 6-week extension, which is going to put even more pressure on her."
+    },
+    {
+      "id": "comic-t11-20261108-056",
+      "line": 56,
+      "text": "Put a bit of a damper on our plans, but apparently, one of the team members has come down with a serious illness that's going to require some extra time to get them back on track."
+    },
+    {
+      "id": "comic-t11-20261108-057",
+      "line": 57,
+      "text": "To be honest, it's not just one person, it's a pretty large chunk of the team, so we're looking at a full-scale reorganization of our workflow and timelines."
+    },
+    {
+      "id": "comic-t11-20261108-058",
+      "line": 58,
+      "text": "I was hoping you'd mention that, because from what I've seen, it's not just a small team that's affected, but also several departments that will need to adapt to the new structure."
+    },
+    {
+      "id": "comic-t11-20261108-059",
+      "line": 59,
+      "text": "Yeah, it's even worse than that - apparently, the entire IT infrastructure is down, which is why you're not getting any email notifications or being able to check your schedule online."
+    },
+    {
+      "id": "comic-t11-20261108-060",
+      "line": 60,
+      "text": "That's really messed up, and I just found out that the backup system was supposed to kick in automatically a few hours ago, but it looks like it's not working either."
+    },
+    {
+      "id": "comic-t11-20261108-061",
+      "line": 61,
+      "text": "I just got a call from the IT department saying they're working on a patch to prevent this kind of thing from happening again, and they're aiming to have it ready within the hour."
+    },
+    {
+      "id": "comic-t11-20261108-062",
+      "line": 62,
+      "text": "But just as they were about to give me the details, the fire alarm went off and the whole office had to be evacuated for a bit, which is kind of ironic considering we're talking about a cybersecurity patch."
+    },
+    {
+      "id": "comic-t11-20261108-063",
+      "line": 63,
+      "text": "Yeah, and apparently it was just a drill, but our manager was a bit flustered and kept glancing at her watch like she was running late for something."
+    },
+    {
+      "id": "comic-t11-20261108-064",
+      "line": 64,
+      "text": "No big deal, but just as we were all about to breathe a sigh of relief, she dropped a bombshell and announced that we actually do have a meeting at 2 PM to discuss the Smith project."
+    },
+    {
+      "id": "comic-t11-20261108-065",
+      "line": 65,
+      "text": "I think there's been a mix-up, because I could've sworn we already discussed that mee being a wild card and might not be as reliable as we thought."
+    },
+    {
+      "id": "comic-t11-20261108-066",
+      "line": 66,
+      "text": "Actually, I think you're thinking of Mee 2, the new smart display, which we were just discussing how it might replace the old Mee, and I'm pretty sure we didn't cover that point about it being a wild card."
+    },
+    {
+      "id": "comic-t11-20261108-067",
+      "line": 67,
+      "text": "Yeah, I was just re-reading the specs and it looks like the Mee 2 just got announced with a new camera system that's supposed to be way better than the old one."
+    },
+    {
+      "id": "comic-t11-20261108-068",
+      "line": 68,
+      "text": "Apparently, the new camera system is a 48MP primary sensor, which is a significant upgrade from the 16MP sensor on the original Mee, and it's also supposed to have improved low-light performance."
+    },
+    {
+      "id": "comic-t11-20261108-069",
+      "line": 69,
+      "text": "To be honest, I'm a bit skeptical that the 48MP sensor will make a huge difference in everyday use, and I'm still not convinced it's worth the upgrade over the original's decent 16MP performance."
+    },
+    {
+      "id": "comic-t11-20261108-070",
+      "line": 70,
+      "text": "I was about to say that the new ultra-wide-angle lens that just got announced might actually change your mind about the camera's capabilities, and the 48MP sensor might be just what it needs to take it to the next level."
+    },
+    {
+      "id": "comic-t11-20261108-071",
+      "line": 71,
+      "text": "Yeah, I was really impressed by the sample shots you posted online, the way the lens handles low light and distortion is actually really impressive."
+    },
+    {
+      "id": "comic-t11-20261108-072",
+      "line": 72,
+      "text": "I think you're selling it a bit short, the way the lens handled low light was pretty decent, but the distortion was actually a bit of a bummer."
+    },
+    {
+      "id": "comic-t11-20261108-073",
+      "line": 73,
+      "text": "I was actually expecting it to do better with low light, and I was really disappointed by how noticeable the distortion was, it was like it was always there even when the image was sharp."
+    },
+    {
+      "id": "comic-t11-20261108-074",
+      "line": 74,
+      "text": "I've heard mixed reviews about that camera's low-light performance, but I've always been a bit skeptical of the whole \"digital\" thing and thought it would be a lot more noticeable in real life."
+    },
+    {
+      "id": "comic-t11-20261108-075",
+      "line": 75,
+      "text": "Actually, I just got back from a friend's party and the camera's new \"ProRes\" mode really impressed me with how much better it handled the low light, so I'm reconsidering my stance on it now."
+    },
+    {
+      "id": "comic-t11-20261108-076",
+      "line": 76,
+      "text": "I'm not sure I agree, I was at the same party and the ProRes mode seemed pretty average, especially compared to the 4K footage they shot with the same camera last year."
+    },
+    {
+      "id": "comic-t11-20261108-077",
+      "line": 77,
+      "text": "Actually, I just got a text from the party host saying that the camera is still in the shop and they're using a backup camera to try and get the footage off the SD card."
+    },
+    {
+      "id": "comic-t11-20261108-078",
+      "line": 78,
+      "text": "Yeah, I was thinking that was a pretty weak backup plan, I mean, who expects to give a speech without a camera, right?"
+    },
+    {
+      "id": "comic-t11-20261108-079",
+      "line": 79,
+      "text": "Yeah, I was thinking that was a pretty weak backup plan, I mean, who expects to give a speech without a camera, right? Oh, and get this, the organizer just told me they forgot the audio too, so now we're really in trouble."
+    },
+    {
+      "id": "comic-t11-20261108-080",
+      "line": 80,
+      "text": "But what's even more interesting is that I heard the speaker had actually requested a camera for the entire event, but it was denied due to some obscure technicality about \"excessive lighting\"."
+    },
+    {
+      "id": "comic-t11-20261108-081",
+      "line": 81,
+      "text": "Apparently, the venue just lost the camera and the event organizers are still scrambling to find a new one, which is why we're stuck with this phone recording."
+    },
+    {
+      "id": "comic-t11-20261108-082",
+      "line": 82,
+      "text": "I just got a text from the lead singer's manager, apparently the artist has decided to film a live performance video instead of a traditional event clip, so now we're just trying to figure out how to make that work with the time we have left."
+    },
+    {
+      "id": "comic-t11-20261108-083",
+      "line": 83,
+      "text": "Apparently, the artist has also been struggling with vocal strain lately, which is why they've opted for a lower-key performance."
+    },
+    {
+      "id": "comic-t11-20261108-084",
+      "line": 84,
+      "text": "I just got word that the artist has been working on a new album in secret, and it's supposed to be their most personal and introspective work yet."
+    },
+    {
+      "id": "comic-t11-20261108-085",
+      "line": 85,
+      "text": "Apparently, the album is supposed to be a concept album that explores themes of identity and self-discovery, and the artist is said to have been drawing heavily from their own life experiences for the lyrics."
+    },
+    {
+      "id": "comic-t11-20261108-086",
+      "line": 86,
+      "text": "Apparently, the artist has just revealed that the concept album is actually a deeply personal exploration of their own struggles with mental health, which has added a whole new layer of depth to the themes of identity and self-discovery."
+    },
+    {
+      "id": "comic-t11-20261108-087",
+      "line": 87,
+      "text": "That's a pretty common narrative, artist's often use their work as a way to process and cope with their personal demons, I'm not buying the idea that it's just a deeply personal exploration."
+    },
+    {
+      "id": "comic-t11-20261108-088",
+      "line": 88,
+      "text": "I get where you're coming from, but I think that's a pretty narrow view, artists often use their work as a way to transcend and challenge societal norms, rather than just wallow in their personal issues."
+    },
+    {
+      "id": "comic-t11-20261108-089",
+      "line": 89,
+      "text": "I agree that artists can be subversive and push boundaries, but to me, the point of art is to bring people together and spark conversations, not just challenge people's minds."
+    },
+    {
+      "id": "comic-t11-20261108-090",
+      "line": 90,
+      "text": "That's a really cool perspective, and I just heard that a local art collective is organizing a community festival to bring together artists, activists, and everyday people to explore those very issues you're interested in."
+    },
+    {
+      "id": "comic-t11-20261108-091",
+      "line": 91,
+      "text": "Yeah, I've heard about that too, but I'm not sure it's going to be as big of a deal as everyone makes it out to be - I've been to a few of their smaller events and they're always pretty laid back and underground, which might not be what people are expecting."
+    },
+    {
+      "id": "comic-t11-20261108-092",
+      "line": 92,
+      "text": "I get what you're saying, but I've met some people who've been really affected by it and I'm not sure I agree that it's just going to be a minor inconvenience."
+    },
+    {
+      "id": "comic-t11-20261108-093",
+      "line": 93,
+      "text": "Yeah, I've heard some of those people's stories too, and honestly, I think it's way more complicated than just a matter of \"opinions\" or \"feelings\" about the situation."
+    },
+    {
+      "id": "comic-t11-20261108-094",
+      "line": 94,
+      "text": "I'm not so sure, I think you're giving them a bit too much credit for being open-minded and empathetic, don't you think?"
+    },
+    {
+      "id": "comic-t11-20261108-095",
+      "line": 95,
+      "text": "Actually, I just got a call from one of their colleagues who confirms they did indeed go out of their way to listen to opposing views and try to understand the other side."
+    },
+    {
+      "id": "comic-t11-20261108-096",
+      "line": 96,
+      "text": "Apparently, they were so impressed by their approach that they're now considering using it as a model for their team's training programs."
+    },
+    {
+      "id": "comic-t11-20261108-097",
+      "line": 97,
+      "text": "That's a bit of a stretch, I think their success was due more to the natural talent of the team members than any specific approach they used."
+    },
+    {
+      "id": "comic-t11-20261108-098",
+      "line": 98,
+      "text": "I just got word from a former team member that they've been quietly rebuilding their company and are now in a position to expand into a new market, which could potentially make their success look even more impressive in hindsight."
+    },
+    {
+      "id": "comic-t11-20261108-099",
+      "line": 99,
+      "text": "I'm not so sure, I think that's a huge risk given their former team member's exit, that kind of thing can come back to haunt you in a big way."
+    },
+    {
+      "id": "comic-t11-20261108-100",
+      "line": 100,
+      "text": "Actually, that former team member was let go due to a disagreement over project direction, and the person who left has since gone on to found their own successful startup, so it seems like the exit was more of a blessing than a curse."
+    },
+    {
+      "id": "comic-t11-20261108-101",
+      "line": 101,
+      "text": "It gets even more interesting because it was a long-standing team member who left, having been on the team for over 5 years, and they're actually now leading a similar project at a rival company."
+    },
+    {
+      "id": "comic-t11-20261108-102",
+      "line": 102,
+      "text": "Things just took a dramatic turn because the CEO announced a surprise replacement, and it turns out it's the company's current biggest competitor, who just so happens to be the person's former boss."
+    },
+    {
+      "id": "comic-t11-20261108-103",
+      "line": 103,
+      "text": "Apparently, the new CEO has a history with the rival company and is planning to bring in some of their top talent to shake things up."
+    },
+    {
+      "id": "comic-t11-20261108-104",
+      "line": 104,
+      "text": "Rumor has it that one of the top executives they're poaching is actually the CEO's ex-partner from that rival company, and things between them are about to get very interesting."
+    },
+    {
+      "id": "comic-t11-20261108-105",
+      "line": 105,
+      "text": "Apparently, the executive in question is also the one who led the marketing team that poached some of the company's top talent just last year, which is getting the CEO pretty worried."
+    },
+    {
+      "id": "comic-t11-20261108-106",
+      "line": 106,
+      "text": "Yeah, but isn't that exactly the kind of power move you're supposed to make when you're the head of the company, not necessarily a reason to want to fire them?"
+    },
+    {
+      "id": "comic-t11-20261108-107",
+      "line": 107,
+      "text": "I think that's a pretty weak excuse for trying to get out of doing the work, if you ask me."
+    },
+    {
+      "id": "comic-t11-20261108-108",
+      "line": 108,
+      "text": "Just got a call from my cousin who lives on the other side of the country, and she's in a tight spot and needs my help, so I might have to bail on our plans."
+    },
+    {
+      "id": "comic-t11-20261108-109",
+      "line": 109,
+      "text": "Yeah, good luck with that, I'm sure you'll be able to drop everything and fly cross-country on a whim, that never gets old."
+    },
+    {
+      "id": "comic-t11-20261108-110",
+      "line": 110,
+      "text": "Actually, I just got a call from my boss and they're offering me a last-minute opportunity to work on a high-profile project, which would involve traveling to the other side of the country for the next few weeks."
+    },
+    {
+      "id": "comic-t11-20261108-111",
+      "line": 111,
+      "text": "Honestly, I think you should take the project, it's a great chance to gain experience and build your skills, and who knows, it might be a game-changer for your career."
+    },
+    {
+      "id": "comic-t11-20261108-112",
+      "line": 112,
+      "text": "I was just about to look into the company's internship program instead, they're offering a similar opportunity to gain experience and it's actually already available for this semester."
+    },
+    {
+      "id": "comic-t11-20261108-113",
+      "line": 113,
+      "text": "Honestly, I think you should consider the program that's offering a stipend, it'll give you a better taste of what it's like to work there on a full-time basis."
+    },
+    {
+      "id": "comic-t11-20261108-114",
+      "line": 114,
+      "text": "Yeah, I've been talking to some current employees and they say the stipend is actually a really big deal, it's more than enough to cover all the living expenses in the city."
+    },
+    {
+      "id": "comic-t11-20261108-115",
+      "line": 115,
+      "text": "I'm not so sure, I've heard from a few folks that the stipend is a nice-to-have, but the real benefit is the work-life balance it affords."
+    },
+    {
+      "id": "comic-t11-20261108-116",
+      "line": 116,
+      "text": "I'm not so sure, I've heard that the stipend is a necessity for covering living expenses in the area, and that the work-life balance aspect is more of a myth than a reality."
+    },
+    {
+      "id": "comic-t11-20261108-117",
+      "line": 117,
+      "text": "Apparently, the company is actually quite flexible with their work schedules, and if you're willing to put in a bit of extra time, they can often accommodate your requests for flexibility."
+    },
+    {
+      "id": "comic-t11-20261108-118",
+      "line": 118,
+      "text": "They're also open to discussing remote work options if you're looking to split your time between the office and working from home, which I think could be a huge perk for someone like me who's actually really good at time management."
+    },
+    {
+      "id": "comic-t11-20261108-119",
+      "line": 119,
+      "text": "It just so happens that we've recently expanded our tech team to accommodate more flexible work arrangements, so you can actually propose a remote work setup during our interview."
+    },
+    {
+      "id": "comic-t11-20261108-120",
+      "line": 120,
+      "text": "We've also got a bunch of cool new collaboration tools that'll make it easy to work remotely without sacrificing any of the team's energy and creativity."
+    },
+    {
+      "id": "comic-t11-20261108-121",
+      "line": 121,
+      "text": "I'm not so sure, I've found that relying too heavily on collaboration tools can actually lead to more distractions and decreased productivity when you're working from home."
+    },
+    {
+      "id": "comic-t11-20261108-122",
+      "line": 122,
+      "text": "Actually, I just got an email from our team lead saying that we need to prioritize our workflow and use collaboration tools to facilitate communication and avoid misunderstandings on our latest project."
+    },
+    {
+      "id": "comic-t11-20261108-123",
+      "line": 123,
+      "text": "I'm not so sure, I think we should focus on getting our individual tasks done and then worry about collaboration - I find that too much team communication can actually hinder productivity."
+    },
+    {
+      "id": "comic-t11-20261108-124",
+      "line": 124,
+      "text": "That's fair, but I was thinking we could actually use our individual tasks as a starting point for our collaboration, since we could help each other out with any challenges we're facing."
+    },
+    {
+      "id": "comic-t11-20261108-125",
+      "line": 125,
+      "text": "Actually, I was thinking we could take it a step further and create a shared project plan to organize our tasks and timelines in one place."
+    },
+    {
+      "id": "comic-t11-20261108-126",
+      "line": 126,
+      "text": "I was thinking we could take it a step further and actually use Trello or Asana to create the shared project plan, with separate boards for different aspects of the project and columns for different stages, so we can track progress and stay organized."
+    },
+    {
+      "id": "comic-t11-20261108-127",
+      "line": 127,
+      "text": "I was thinking we could keep it simple and use a shared Google Doc or Excel sheet, to be honest, I'm a bit overwhelmed by all the options and don't want to learn any new tools."
+    },
+    {
+      "id": "comic-t11-20261108-128",
+      "line": 128,
+      "text": "Actually, I just got a call from our team lead and they want to know if you're on board with using their preferred project management tool instead of a shared spreadsheet."
+    },
+    {
+      "id": "comic-t11-20261108-129",
+      "line": 129,
+      "text": "Yeah, I've actually been doing some research on my own and I'm really excited about the new features that just got added to Trello, so I think we should consider giving it a shot instead."
+    },
+    {
+      "id": "comic-t11-20261108-130",
+      "line": 130,
+      "text": "I was just about to dive back into it myself, I managed to snag an invite to their beta testing program for the new boards feature, which I've been hearing is a total game-changer."
+    },
+    {
+      "id": "comic-t11-20261108-131",
+      "line": 131,
+      "text": "Yeah, good luck with that, I've been trying to get in on that beta testing program for months and I haven't even received a notification yet."
+    },
+    {
+      "id": "comic-t11-20261108-132",
+      "line": 132,
+      "text": "I just got a notification that the program is opening up to a wider audience, and apparently, anyone who's been waiting for the past year can submit an application now."
+    },
+    {
+      "id": "comic-t11-20261108-133",
+      "line": 133,
+      "text": "I was about to ask you when you're planning on trying it out, but apparently, the developers just announced that there will be a 30-day free trial period for everyone who's been waiting."
+    },
+    {
+      "id": "comic-t11-20261108-134",
+      "line": 134,
+      "text": "That's great news, and I'm actually planning on trying out the beta this weekend, I was just hoping to get a feel for the new features before the free trial ends."
+    },
+    {
+      "id": "comic-t11-20261108-135",
+      "line": 135,
+      "text": "Well, I just got a notification that the beta's got a new co-op mode that looks like it's going to be a game-changer, so I'm actually planning on playing with some friends to check it out."
+    },
+    {
+      "id": "comic-t11-20261108-136",
+      "line": 136,
+      "text": "I'm skeptical, I've been waiting for a decent co-op mode in this game for ages and I'm not holding my breath for it to actually be as good as it looks."
+    },
+    {
+      "id": "comic-t11-20261108-137",
+      "line": 137,
+      "text": "I actually just heard from a friend who's part of the game's dev team that they're planning to include a co-op mode, but the catch is that it's only going to be available in the expanded edition, so we'll have to wait and see if that makes it to the base game."
+    },
+    {
+      "id": "comic-t11-20261108-138",
+      "line": 138,
+      "text": "Apparently, the dev team is still ironing out the logistics of how the co-op mode will work, specifically in terms of how it will affect the game's storyline and overall design."
+    },
+    {
+      "id": "comic-fresh140-500-001",
+      "line": 139,
       "text": "That's weird, I'm guessing you must have left it there, but just out of curiosity, what's in the suitcase that's causing you to wonder."
     },
     {
       "id": "comic-fresh140-500-002",
-      "line": 2,
+      "line": 140,
       "text": "The suitcase contains a few miscellaneous items like a spare change of clothes, a gift for a friend's sister, and a small business card with my name on it."
     },
     {
       "id": "comic-fresh140-500-003",
-      "line": 3,
+      "line": 141,
       "text": "A handwritten note that says \"For the recipient's sister, make sure to send a thank-you gift within the next week, it's a small gesture to show appreciation for your friendship with her\""
     },
     {
       "id": "comic-fresh140-500-004",
-      "line": 4,
+      "line": 142,
       "text": "I'll send a gift basket with some of her favorite treats and a book recommendation to help her cope with the loss of her mom, and also follow up with a call in a week to check in and see if there's anything I can do to support her."
     },
     {
       "id": "comic-fresh140-500-005",
-      "line": 5,
+      "line": 143,
       "text": "The new development is that you're planning a thoughtful and personalized gift to help her cope with her mom's passing, which should provide her with a sense of comfort and connection to her mom's memory."
     },
     {
       "id": "comic-fresh140-500-006",
-      "line": 6,
+      "line": 144,
       "text": "I'm planning a thoughtful and personalized gift, such as a customized photo album or a handmade card with a favorite memory or inside joke, to help her cope with her mom's passing, and I'd like to consider her favorite hobbies and interests to make it extra special."
     },
     {
       "id": "comic-fresh140-500-007",
-      "line": 7,
+      "line": 145,
       "text": "I think it would be even more special if you included a handwritten note or a small memento from the person, like a piece of fabric or a button that's significant to the relationship."
     },
     {
       "id": "comic-fresh140-500-008",
-      "line": 8,
+      "line": 146,
       "text": "I think that would make the gift even more meaningful and personal to the person, but what if you could also include a photo of the two of you together, like the night we went to the concert and I remember singing along to the song on the back of your jacket?"
     },
     {
       "id": "comic-fresh140-500-009",
-      "line": 9,
+      "line": 147,
       "text": "That's a brilliant idea, I'd love to see a picture of the two of you together to make it even more special."
     },
     {
       "id": "comic-fresh140-500-010",
-      "line": 10,
+      "line": 148,
       "text": "I'd be happy to send you a few photos, but I have to warn you, I'm a bit of a photography nerd and I might send you a whole album full of silly moments from our time together."
     },
     {
       "id": "comic-fresh140-500-011",
-      "line": 11,
+      "line": 149,
       "text": "I'd love to see the photos, but I'm not sure I'm ready to sift through a whole album of pictures, let alone compare them to your photography expertise."
     },
     {
       "id": "comic-fresh140-500-012",
-      "line": 12,
+      "line": 150,
       "text": "Let me just send you a link to the album on my phone, and we can take it one picture at a time."
     },
     {
       "id": "comic-fresh140-500-013",
-      "line": 13,
+      "line": 151,
       "text": "I'd love to see the album and we can start reviewing it together."
     },
     {
       "id": "comic-fresh140-500-014",
-      "line": 14,
+      "line": 152,
       "text": "I'm actually a music critic, so I'm not sure if I'll be able to review an album I haven't actually listened to yet."
     },
     {
       "id": "comic-fresh140-500-015",
-      "line": 15,
+      "line": 153,
       "text": "Maybe you should read the liner notes and reviews from other critics to get a sense of the album's overall reception before making any judgments."
     },
     {
       "id": "comic-fresh140-500-016",
-      "line": 16,
+      "line": 154,
       "text": "I'd love to read the liner notes and reviews from other critics to get a better sense of the album's reception, but in the meantime, I'm happy to help you evaluate the reviews that have been written so far."
     },
     {
       "id": "comic-fresh140-500-017",
-      "line": 17,
+      "line": 155,
       "text": "I've actually already pulled out my phone and printed out the liner notes and reviews from Rolling Stone, The New York Times, and Pitchfork, so I can get a better sense of the album's reception right here."
     },
     {
       "id": "comic-fresh140-500-018",
-      "line": 18,
+      "line": 156,
       "text": "I think that's a pretty impressive feat, considering those publications are known for their tough criticism, so I'm sure your fans appreciate your willingness to share the good stuff."
     },
     {
       "id": "comic-fresh140-500-019",
-      "line": 19,
+      "line": 157,
       "text": "Actually, I think it's more impressive to see someone who can't even get a simple fact right, which is a skill that not many people possess, rather than their ability to take a few incorrect statements and claim they're impressive."
     },
     {
       "id": "comic-fresh140-500-020",
-      "line": 20,
+      "line": 158,
       "text": "I'm pretty sure I can get a simple fact right, I just have a habit of double-checking the source and making sure I'm not misinformed."
     },
     {
       "id": "comic-fresh140-500-021",
-      "line": 21,
+      "line": 159,
       "text": "That's actually a great habit to have, which is why I'm glad I don't have to fact-check you, and I think that's one of the reasons why you're a great person to have as a friend."
     },
     {
       "id": "comic-fresh140-500-022",
-      "line": 22,
+      "line": 160,
       "text": "And I'm glad you think so too, because you know me well enough to catch a subtle typo or two that I'd otherwise never get to right away!"
     },
     {
       "id": "comic-fresh140-500-023",
-      "line": 23,
+      "line": 161,
       "text": "I'm glad you're pleased that I caught the typo, but I have to say, I'm more surprised you're so easy to read."
     },
     {
       "id": "comic-fresh140-500-024",
-      "line": 24,
+      "line": 162,
       "text": "Thanks for the compliment, but I'm just a machine, so I don't have a pulse or a brain that can get surprised."
     },
     {
       "id": "comic-fresh140-500-025",
-      "line": 25,
+      "line": 163,
       "text": "That's so cool, I wish I could say the same, but I've been noticing that you're actually making a weird noise with your speakers right now."
     },
     {
       "id": "comic-fresh140-500-026",
-      "line": 26,
+      "line": 164,
       "text": "I think I might have accidentally turned on my smart speaker's \" ambient music\" mode and it's just making a weird, static-like noise that's kinda distracting."
     },
     {
       "id": "comic-fresh140-500-027",
-      "line": 27,
+      "line": 165,
       "text": "I've heard that ambient music mode can be a real snooze-fest, but I guess it's better than the default noise, right?"
     },
     {
       "id": "comic-fresh140-500-028",
-      "line": 28,
+      "line": 166,
       "text": "I've actually heard from a friend that ambient music mode is actually a great way to create a cozy atmosphere, especially when you're streaming music from Netflix and it's just relaxing to listen to the sounds of a quiet forest."
     },
     {
       "id": "comic-fresh140-500-029",
-      "line": 29,
+      "line": 167,
       "text": "I think ambient music mode can be overrated and more of a chore to set up than a benefit, especially when you're streaming and want to switch between different audio options quickly."
     },
     {
       "id": "comic-fresh140-500-030",
-      "line": 30,
+      "line": 168,
       "text": "I'd actually like to see a more intuitive and streamlined streaming experience that integrates ambient music modes in a more seamless way, like allowing users to select a background soundtrack from a curated playlist rather than a complex menu."
     },
     {
       "id": "comic-fresh140-500-031",
-      "line": 31,
+      "line": 169,
       "text": "I'd love to see a more intuitive and streamlined streaming experience that integrates ambient music modes in a more seamless way, with features like voice-controlled playlists and a \" Discover Next\" algorithm that suggests music based on my listening habits."
     },
     {
       "id": "comic-fresh140-500-032",
-      "line": 32,
+      "line": 170,
       "text": "I think we should consider more intuitive and streamlined streaming experiences that integrate ambient music modes, but also prioritize user feedback and experimentation to ensure the best possible experience, rather than relying on a single approach."
     },
     {
       "id": "comic-fresh140-500-033",
-      "line": 33,
+      "line": 171,
       "text": "I'm not sure I agree with that, my suggestion was to just focus on improving the current streaming services with better discovery features, like personalized playlists and more."
     },
     {
       "id": "comic-fresh140-500-034",
-      "line": 34,
+      "line": 172,
       "text": "Actually, I think you make a great point about improving discovery features, but I'm not sure that's enough to address the current streaming services' issues with revenue sharing and content ownership."
     },
     {
       "id": "comic-fresh140-500-035",
-      "line": 35,
+      "line": 173,
       "text": "We're actually planning to explore some new features for discovery, like personalized recommendations and more intuitive search, to better cater to users' evolving preferences."
     },
     {
       "id": "comic-fresh140-500-036",
-      "line": 36,
+      "line": 174,
       "text": "Those are great goals to have, and I'm happy to help brainstorm ways to implement them, like maybe incorporating AI-powered analysis to help users discover new things."
     },
     {
       "id": "comic-fresh140-500-037",
-      "line": 37,
+      "line": 175,
       "text": "I'd love to brainstorm with you, but I have to say that one of the most exciting new developments in our company is the upcoming AI-powered project that's going to revolutionize our customer support team."
     },
     {
       "id": "comic-fresh140-500-038",
-      "line": 38,
+      "line": 176,
       "text": "I'd be happy to help you brainstorm, but I have to warn you that our team is already in the midst of a thrilling project to integrate AI into our marketing campaigns, and we're just starting to roll out the pilot program."
     },
     {
       "id": "comic-fresh140-500-039",
-      "line": 39,
+      "line": 177,
       "text": "I'm looking forward to hearing about the project and seeing how you're navigating the challenges of working with AI."
     },
     {
       "id": "comic-fresh140-500-040",
-      "line": 40,
+      "line": 178,
       "text": "I'm glad you're excited, but I have to say that I'm also a bit concerned about the project's timeline and budget, which seem to be slipping a bit as we're getting closer to the deadline."
     },
     {
       "id": "comic-fresh140-500-041",
-      "line": 41,
+      "line": 179,
       "text": "I'm glad you're excited, but I have to say that I'm also a bit concerned about the project's timeline and budget, which seem to be slipping due to unexpected delays in the vendor's shipment of materials."
     },
     {
       "id": "comic-fresh140-500-042",
-      "line": 42,
+      "line": 180,
       "text": "I think we should prioritize getting some additional funding to cover the costs of hiring a project manager to oversee the project's progress and ensure we stay on track with the original timeline."
     },
     {
       "id": "comic-fresh140-500-043",
-      "line": 43,
+      "line": 181,
       "text": "That's a good point, but what if we could also explore some of the existing funding sources, such as the grants we've already applied for and the contingency fund, to see if we can cover some of the costs before having to make a formal request for additional funding."
     },
     {
       "id": "comic-fresh140-500-044",
-      "line": 44,
+      "line": 182,
       "text": "I think we should consider exploring the new business model we've been discussing, but first, let's make sure we've actually secured the grant funding we need to move forward."
     },
     {
       "id": "comic-fresh140-500-045",
-      "line": 45,
+      "line": 183,
       "text": "I'm not sure that's a bad idea, I mean, we've already been talking about it, but maybe we should consider a pilot test to see if it actually works before throwing it out into the wild."
     },
     {
       "id": "comic-fresh140-500-046",
-      "line": 46,
+      "line": 184,
       "text": "I was thinking we could definitely explore the concept further, maybe even discuss some potential pilot test parameters to make it more feasible."
     },
     {
       "id": "comic-fresh140-500-047",
-      "line": 47,
+      "line": 185,
       "text": "I'd love to help facilitate that discussion and see if there's a way to tailor the pilot test to better suit the potential applications and user needs."
     },
     {
       "id": "comic-fresh140-500-048",
-      "line": 48,
+      "line": 186,
       "text": "Maybe you should try to convince the committee to let you talk to the potential customers and see if there's a way to tailor the pilot test to better suit their needs and make the program more feasible."
     },
     {
       "id": "comic-fresh140-500-049",
-      "line": 49,
+      "line": 187,
       "text": "I think I'd be more effective if I could just get a bit more approval and a closer look at the demo, which I can see is being prepared for today's presentation."
     },
     {
       "id": "comic-fresh140-500-050",
-      "line": 50,
+      "line": 188,
       "text": "I actually think you should focus on understanding the requirements and constraints of the project rather than trying to impress everyone with a demo, rather than a demo anyway."
     },
     {
       "id": "comic-fresh140-500-051",
-      "line": 51,
+      "line": 189,
       "text": "I'm sure the neighbors appreciate the... unique... aesthetic it adds to the neighborhood."
     },
     {
       "id": "comic-fresh140-500-052",
-      "line": 52,
+      "line": 190,
       "text": "I think they're actually just a little bit confused by the new mural that just appeared on the side of my house, which I'd been meaning to ask them about."
     },
     {
       "id": "comic-fresh140-500-053",
-      "line": 53,
+      "line": 191,
       "text": "But they're actually just as excited as I am to see the new mural, which I accidentally convinced them to help me paint instead of installing the new security system."
     },
     {
       "id": "comic-fresh140-500-054",
-      "line": 54,
+      "line": 192,
       "text": "I think the new mural is going to be a huge part of the city's branding, and I'm actually really hoping it gets a lot of attention from the city council."
     },
     {
       "id": "comic-fresh140-500-055",
-      "line": 55,
+      "line": 193,
       "text": "I'm not sure it's a good idea to install a giant mural in the middle of the downtown area, especially if it's just a temporary installation, because what happens if the city decides to tear it down and it becomes a symbol of gentrification."
     },
     {
       "id": "comic-fresh140-500-056",
-      "line": 56,
+      "line": 194,
       "text": "I think it's a great idea to consider the potential long-term impact and public perception of a permanent mural, but I'm not sure it's a good idea to limit it to just a temporary installation without exploring alternative ways to engage the community."
     },
     {
       "id": "comic-fresh140-500-057",
-      "line": 57,
+      "line": 195,
       "text": "That's a valid concern, but I think the potential benefits of a well-designed permanent mural, such as increased local tourism and art appreciation, outweigh the potential risks."
     },
     {
       "id": "comic-fresh140-500-058",
-      "line": 58,
+      "line": 196,
       "text": "While that's a great point, I'm not so sure that's the only benefit - what about the potential to actually revitalize and beautify a neglected or underutilized public space?"
     },
     {
       "id": "comic-fresh140-500-059",
-      "line": 59,
+      "line": 197,
       "text": "I think the potential to revitalize and beautify a neglected area is just as valid as the potential to revitalize and beautify a thriving one, because a neglected area can be a blank canvas waiting for love and investment."
     },
     {
       "id": "comic-fresh140-500-060",
-      "line": 60,
+      "line": 198,
       "text": "But if we're looking for a more concrete solution, what about incorporating community gardens and public art installations to revitalize and beautify the area, and also consider partnering with local businesses and organizations to make it a vibrant and inclusive community hub."
     },
     {
       "id": "comic-fresh140-500-061",
-      "line": 61,
+      "line": 199,
       "text": "I think that's a great idea, but we should also consider partnering with local businesses and organizations to help attract more people to the area and make the program more sustainable."
     },
     {
       "id": "comic-fresh140-500-062",
-      "line": 62,
+      "line": 200,
       "text": "I think that's a great idea, but we should also consider partnering with local businesses and organizations to help attract more people to the festival."
     },
     {
       "id": "comic-fresh140-500-063",
-      "line": 63,
+      "line": 201,
       "text": "I think we should also consider partnering with local businesses and organizations to help attract more people to the event, because it's not just about the festival itself but also about creating a vibrant and diverse community around it."
     },
     {
       "id": "comic-fresh140-500-064",
-      "line": 64,
+      "line": 202,
       "text": "We should also consider partnering with local businesses and organizations to help attract more people to the event, because it's not just a tech conference but also a community-driven event that we want to make a positive impact on the local economy and the community at large."
     },
     {
       "id": "comic-fresh140-500-065",
-      "line": 65,
+      "line": 203,
       "text": "I was thinking we could also consider reaching out to the local farmers' market to see if they'd be willing to provide some of their fresh produce for the event, which would not only add to the culinary offerings but also bring in a whole new group of people who might not have otherwise attended the festival."
     },
     {
       "id": "comic-fresh140-500-066",
-      "line": 66,
+      "line": 204,
       "text": "Actually, I was thinking we could also consider reaching out to the local farmers' market to see if they'd be willing to provide some of their fresh produce to help our community food bank."
     },
     {
       "id": "comic-fresh140-500-067",
-      "line": 67,
+      "line": 205,
       "text": "That's a great idea, I've always thought that farmers' markets were a fantastic way to get fresh, locally-sourced produce, and maybe we could even negotiate a discount since we're willing to pay a premium for the quality of the produce."
     },
     {
       "id": "comic-fresh140-500-068",
-      "line": 68,
+      "line": 206,
       "text": "But what about the environmental impact of transporting all that fresh produce, and how does the market support the local economy if it's mostly just buying from out-of-town vendors?"
     },
     {
       "id": "comic-fresh140-500-069",
-      "line": 69,
+      "line": 207,
       "text": "While some might argue that the increased demand for fresh produce would lead to a surge in local economies, I think it's more likely to just boost the local produce industry to the point where it's more of a luxury item for tourists than a sustainable solution."
     },
     {
       "id": "comic-fresh140-500-070",
-      "line": 70,
+      "line": 208,
       "text": "lead to a ripple effect of increased sales for local farmers' markets, where customers are more likely to visit and buy from them than just one local producer."
     },
     {
       "id": "comic-fresh140-500-071",
-      "line": 71,
+      "line": 209,
       "text": "That's just the latest data we're seeing, where the shift to online shopping has been slowed down by a surge in sales at local farmers' markets, which is contributing to a ripple effect of increased sales for these markets, where customers are more likely to visit and buy from them than just to order food online."
     },
     {
       "id": "comic-fresh140-500-072",
-      "line": 72,
+      "line": 210,
       "text": "I'm starting to think that the slowdown in online shopping is just a natural shift away from the convenience and novelty of buying from local farmers."
     },
     {
       "id": "comic-fresh140-500-073",
-      "line": 73,
+      "line": 211,
       "text": "Actually, it's not just a matter of convenience and novelty, but more a sign that consumers are starting to crave authenticity and community in their online shopping experiences."
     },
     {
       "id": "comic-fresh140-500-074",
-      "line": 74,
+      "line": 212,
       "text": "I think you're being a bit too optimistic about consumers wanting to pay a premium for generic, experience-based products that are more about Instagram selfies than meaningful connections."
     },
     {
       "id": "comic-fresh140-500-075",
-      "line": 75,
+      "line": 213,
       "text": "But if I'm being honest, it's not like I think consumers are being unrealistic or anything, it's just that the market is shifting and people are willing to pay more for unique, high-quality experiences that offer a premium value proposition."
     },
     {
       "id": "comic-fresh140-500-076",
-      "line": 76,
+      "line": 214,
       "text": "Yeah, that's a totally valid point, but in reality, I think consumers are just really passionate about making sustainable choices, like buying local and reducing waste, which is why we're seeing a lot of interest in eco-friendly products."
     },
     {
       "id": "comic-fresh140-500-077",
-      "line": 77,
+      "line": 215,
       "text": "That's an interesting perspective, but I'd say consumers are more driven by a desire for convenience and affordability than a genuine passion for sustainability."
     },
     {
       "id": "comic-fresh140-500-078",
-      "line": 78,
+      "line": 216,
       "text": "I think that's a common misconception, and it's actually the service experience that can make a brand more memorable and loyal to its customers."
     },
     {
       "id": "comic-fresh140-500-079",
-      "line": 79,
+      "line": 217,
       "text": "Actually, research shows that customers are more likely to remember a brand that offers personalized and flexible experiences, rather than just a standard product or service."
     },
     {
       "id": "comic-fresh140-500-080",
-      "line": 80,
+      "line": 218,
       "text": "Personalization is key to building trust with customers, but that's not all - it also helps to create a sense of belonging and connection to the brand, which can lead to increased loyalty and advocacy."
     },
     {
       "id": "comic-fresh140-500-081",
-      "line": 81,
+      "line": 219,
       "text": "that's why it's also essential to consider the unique values and interests of each customer, as this can lead to a more personalized and memorable experience that fosters loyalty and advocacy."
     },
     {
       "id": "comic-fresh140-500-082",
-      "line": 82,
+      "line": 220,
       "text": "I'd like to add that a strong online presence is also crucial, especially in today's digital age, to help businesses stand out and attract new customers."
     },
     {
       "id": "comic-fresh140-500-083",
-      "line": 83,
+      "line": 221,
       "text": "I'd be happy to help you brainstorm some new ideas to complement your online presence, such as creating a content marketing strategy or a social media campaign to reach a wider audience."
     },
     {
       "id": "comic-fresh140-500-084",
-      "line": 84,
+      "line": 222,
       "text": "I think I've got a few dozen more of those \"I don't know what to do\" questions floating around in my head and I'm hoping one of them might be a feasible direction to take the business."
     },
     {
       "id": "comic-fresh140-500-085",
-      "line": 85,
+      "line": 223,
       "text": "I'm happy to help, but I'm not sure what's causing all the questions in your head, so I'd love to hear more about what's on your mind before you share it."
     },
     {
       "id": "comic-fresh140-500-086",
-      "line": 86,
+      "line": 224,
       "text": "I've just been noticing that my morning coffee has been sitting on the counter for a few hours and I'm starting to wonder if it's even still there."
     },
     {
       "id": "comic-fresh140-500-087",
-      "line": 87,
+      "line": 225,
       "text": "I think it's a good sign that it's only been a few hours, because if it had been sitting out for an hour or more, it would have started to go bad."
     },
     {
       "id": "comic-fresh140-500-088",
-      "line": 88,
+      "line": 226,
       "text": "I think it's a bad sign that it's only been a few hours, because if it had been sitting out for an hour or more, it would have started to go bad, not just sit there looking okay."
     },
     {
       "id": "comic-fresh140-500-089",
-      "line": 89,
+      "line": 227,
       "text": "I think that's a great point to make, but I'm more concerned about the impact it's having on my coffee, which just started to drip."
     },
     {
       "id": "comic-fresh140-500-090",
-      "line": 90,
+      "line": 228,
       "text": "That's kind of a unique point, but I'm more concerned about how it's affecting my morning routine."
     },
     {
       "id": "comic-fresh140-500-091",
-      "line": 91,
+      "line": 229,
       "text": "That's actually a great point, I was just thinking about how we could integrate some mindfulness exercises into our morning routine to help people wake up more gently."
     },
     {
       "id": "comic-fresh140-500-092",
-      "line": 92,
+      "line": 230,
       "text": "I think it's a great idea to incorporate mindfulness into our morning routine, but what if we also add some physical activity, like yoga or a short walk, to really help us start the day on a positive note."
     },
     {
       "id": "comic-fresh140-500-093",
-      "line": 93,
+      "line": 231,
       "text": "I'd love to explore incorporating movement, like a gentle flow yoga practice, into our morning routine to get those endorphins going and help us start the day on a more energized and focused note."
     },
     {
       "id": "comic-fresh140-500-094",
-      "line": 94,
+      "line": 232,
       "text": "I'm not sure it's a good idea to start a new morning routine that requires us to leave the house, but if you're interested in trying it out, we could look into setting up a morning movement studio on site that offers classes for a small fee."
     },
     {
       "id": "comic-fresh140-500-095",
-      "line": 95,
+      "line": 233,
       "text": "Just out of curiosity, I'd love to hear more about what inspired you to want to try a new morning routine, and we can discuss the details later if you're interested."
     },
     {
       "id": "comic-fresh140-500-096",
-      "line": 96,
+      "line": 234,
       "text": "I've actually been meaning to try out a morning routine, I just got done watching a documentary on urban farming and I'm thinking of trying my hand at growing some microgreens on the rooftop garden next to my apartment."
     },
     {
       "id": "comic-fresh140-500-097",
-      "line": 97,
+      "line": 235,
       "text": "You should totally consider incorporating a small garden or container gardening into your morning routine, it could be a great way to get some fresh air and exercise while also growing your own herbs and veggies!"
     },
     {
       "id": "comic-fresh140-500-098",
-      "line": 98,
+      "line": 236,
       "text": "You should totally consider incorporating a small garden or container gardening into your morning routine, it could be a great way to get some fresh air and a little greenery in your life."
     },
     {
       "id": "comic-fresh140-500-099",
-      "line": 99,
+      "line": 237,
       "text": "I think you might be suggesting we plant some flowers or herbs to start our day off right, like maybe we could try a \"Sunrise Seedling Station\" or something!"
     },
     {
       "id": "comic-fresh140-500-100",
-      "line": 100,
+      "line": 238,
       "text": "I was thinking we could also start our day with a simple meditation or deep breathing exercise to set a positive tone for the day."
     },
     {
       "id": "comic-fresh140-500-101",
-      "line": 101,
+      "line": 239,
       "text": "I'm glad you're excited about your new bike, but maybe you should consider investing in some decent brakes or learning to stop in a safe area to get used to them."
     },
     {
       "id": "comic-fresh140-500-102",
-      "line": 102,
+      "line": 240,
       "text": "Yeah, I'm actually pretty sure my brakes are fine and I've been practicing stopping on the sidewalk here in the city, so maybe I'm not too worried about my bike's brakes yet!"
     },
     {
       "id": "comic-fresh140-500-103",
-      "line": 103,
+      "line": 241,
       "text": "But if your brakes are fine and you're stopping safely on the sidewalk, it's not like you need to worry about the road, and you shouldn't be stressing about it unless you've had a problem with them before."
     },
     {
       "id": "comic-fresh140-500-104",
-      "line": 104,
+      "line": 242,
       "text": "Just a heads up, though, if you're not paying attention to the road or traffic, you should still be on the lookout for pedestrians, cyclists, and other hazards on sidewalks."
     },
     {
       "id": "comic-fresh140-500-105",
-      "line": 105,
+      "line": 243,
       "text": "And don't forget to consider the weather and road conditions to ensure your safe journey."
     },
     {
       "id": "comic-fresh140-500-106",
-      "line": 106,
+      "line": 244,
       "text": "I'd add a warning to people driving in bad weather, like heavy rain or snow, to increase their chances of staying safe on the road."
     },
     {
       "id": "comic-fresh140-500-107",
-      "line": 107,
+      "line": 245,
       "text": "I've got a new idea - why not implement a \"reflective surface requirement\" for drivers to slow down and reduce speed in bad weather conditions, rather than just adding a warning sign."
     },
     {
       "id": "comic-fresh140-500-108",
-      "line": 108,
+      "line": 246,
       "text": "That's a genius idea, you should also consider adding a \"driver's education requirement\" to ensure they're aware of the importance of safe driving habits in various weather conditions."
     },
     {
       "id": "comic-fresh140-500-109",
-      "line": 109,
+      "line": 247,
       "text": "I think we should also consider adding a \"driver's education requirement\" to ensure they're aware of the importance of safe driving and don't get behind the wheel after a few too many drinks."
     },
     {
       "id": "comic-fresh140-500-110",
-      "line": 110,
+      "line": 248,
       "text": "Actually, I think we should also consider adding a \"driver's education requirement\" to ensure they're aware of the importance of safe driving and don't get behind the wheel until they've completed a refresher course on basic vehicle maintenance and defensive driving skills."
     },
     {
       "id": "comic-fresh140-500-111",
-      "line": 111,
+      "line": 249,
       "text": "I've got a good idea to make that requirement a bit more specific, like a completion of a driver's education course or a minimum age of 16 or older."
     },
     {
       "id": "comic-fresh140-500-112",
-      "line": 112,
+      "line": 250,
       "text": "I think it's a good idea to add a requirement that a certain company or organization has to have in place to ensure the person is a credible user of the system."
     },
     {
       "id": "comic-fresh140-500-113",
-      "line": 113,
+      "line": 251,
       "text": "That's a great idea, but I think it's more of a requirement that the person have to have a valid reason for needing to know that information, rather than a requirement that a certain company or organization has to have, which might be a bit too broad and potentially infringe on someone's privacy."
     },
     {
       "id": "comic-fresh140-500-114",
-      "line": 114,
+      "line": 252,
       "text": "I think you're right, it's not just a matter of knowing the information for personal gain or convenience."
     },
     {
       "id": "comic-fresh140-500-115",
-      "line": 115,
+      "line": 253,
       "text": "That's not true at all, it's just that you're being naive and optimistic and don't understand how people can get caught up in situations where they might be tempted to exploit others for their own gain."
     },
     {
       "id": "comic-fresh140-500-116",
-      "line": 116,
+      "line": 254,
       "text": "I'm just saying that I've been in situations where people have gotten caught up in their own optimism and naivety, and it's amazing how often they can come back down to earth and realize their mistake."
     },
     {
       "id": "comic-fresh140-500-117",
-      "line": 117,
+      "line": 255,
       "text": "That's a great point, and it's interesting that you mention optimism and naivety, as it's a common theme that I've come across in many of my interactions with people."
     },
     {
       "id": "comic-fresh140-500-118",
-      "line": 118,
+      "line": 256,
       "text": "I think I know what you mean by \"optimism and naivety\" - we should totally be sure to fact-check and consider multiple sources before jumping to conclusions."
     },
     {
       "id": "comic-fresh140-500-119",
-      "line": 119,
+      "line": 257,
       "text": "I don't think we should be so sure, and instead I'd say let's focus on being open-minded and considering alternative perspectives before jumping to conclusions or making assumptions."
     },
     {
       "id": "comic-fresh140-500-120",
-      "line": 120,
+      "line": 258,
       "text": "I think we should consider the possibility that we might be missing something or that there could be a deeper pattern or connection that we're not yet seeing."
     },
     {
       "id": "comic-fresh140-500-121",
-      "line": 121,
+      "line": 259,
       "text": "I think we should also consider the possibility that we're just being too cautious and that there's a more straightforward explanation for the data we have, but I'm not sure if that's a good enough reason to dismiss the intriguing insights we've stumbled upon."
     },
     {
       "id": "comic-fresh140-500-122",
-      "line": 122,
+      "line": 260,
       "text": "I think we should also consider the possibility that we're just being too cautious and that there's a more straightforward explanation for the recent uptick in mysterious events happening around the city."
     },
     {
       "id": "comic-fresh140-500-123",
-      "line": 123,
+      "line": 261,
       "text": "That's a interesting point, and I'm not sure if I want to juggle multiple possible explanations when there might be a simpler one lurking in the shadows."
     },
     {
       "id": "comic-fresh140-500-124",
-      "line": 124,
+      "line": 262,
       "text": "I think you might be overcomplicating things by considering multiple explanations when a simpler one is likely to be at play."
     },
     {
       "id": "comic-fresh140-500-125",
-      "line": 125,
+      "line": 263,
       "text": "That's a great point, but I'm still working on finding the simplest explanation to solve a complex problem."
     },
     {
       "id": "comic-fresh140-500-126",
-      "line": 126,
+      "line": 264,
       "text": "That's a great point, but I think a simpler solution might be to start with a basic premise and gradually build up to the complexity."
     },
     {
       "id": "comic-fresh140-500-127",
-      "line": 127,
+      "line": 265,
       "text": "I'd love to explore that further with you, maybe we can discuss the benefits of starting with a foundation and seeing how it can add up over time."
     },
     {
       "id": "comic-fresh140-500-128",
-      "line": 128,
+      "line": 266,
       "text": "That sounds like a great plan, but I'd love to get your thoughts on a few other aspects too, like what kind of foundation you'd like to start with, and how we can make the most of it."
     },
     {
       "id": "comic-fresh140-500-129",
-      "line": 129,
+      "line": 267,
       "text": "I'd love to hear more about your vision for the foundation, like what kind of tone you'd like to convey and how you see the brand connecting with your target audience."
     },
     {
       "id": "comic-fresh140-500-130",
-      "line": 130,
+      "line": 268,
       "text": "I think my vision for the foundation is to create a warm, inclusive, and empowering tone that not only supports and uplifts, but also challenges and encourages people to be their authentic selves."
     },
     {
       "id": "comic-fresh140-500-131",
-      "line": 131,
+      "line": 269,
       "text": "I think the foundation should focus on accessibility and affordability, rather than just being warm, inclusive, and empowering, and that it should be transparent about how it spends its money."
     },
     {
       "id": "comic-fresh140-500-132",
-      "line": 132,
+      "line": 270,
       "text": "I think that's a good point, but what's the real problem that the foundation is trying to address, and it sounds like they're more focused on providing a sense of warmth and inclusiveness rather than really solving the underlying issues that people face."
     },
     {
       "id": "comic-fresh140-500-133",
-      "line": 133,
+      "line": 271,
       "text": "I think the real problem is the effectiveness of the foundation's own programs and initiatives, and it sounds like they're more focused on raising funds and awareness than actually addressing the underlying issues that need to be addressed."
     },
     {
       "id": "comic-fresh140-500-134",
-      "line": 134,
+      "line": 272,
       "text": "I don't think that's the real problem, and while foundation programs are great, it's more likely that the real issue is the lack of transparency and accountability in how funds are spent, rather than just the effectiveness of the programs."
     },
     {
       "id": "comic-fresh140-500-135",
-      "line": 135,
+      "line": 273,
       "text": "I think the real issue might be the increasing polarization of online discourse, which seems to be fueling more and more people to share their opinions, regardless of fact or evidence."
     },
     {
       "id": "comic-fresh140-500-136",
-      "line": 136,
+      "line": 274,
       "text": "I don't think the polarization is actually fueling it, it's just a natural consequence of people having strong opinions and engaging with each other online."
     },
     {
       "id": "comic-fresh140-500-137",
-      "line": 137,
+      "line": 275,
       "text": "That's a common observation, and some researchers are actually exploring how people's engagement with different ideologies and interests can help to mitigate polarization by fostering a sense of community and shared purpose."
     },
     {
       "id": "comic-fresh140-500-138",
-      "line": 138,
+      "line": 276,
       "text": "cause variations in their mental and emotional health, which can be linked to differences in their cognitive processing styles, such as analytical or intuitive, and their creative problem-solving abilities."
     },
     {
       "id": "comic-fresh140-500-139",
-      "line": 139,
+      "line": 277,
       "text": "Research suggests that people with different cognitive processing styles, like introverts and extroverts, may have varying levels of emotional regulation, stress resilience, and mental flexibility, which can impact their overall well-being."
     },
     {
       "id": "comic-fresh140-500-140",
-      "line": 140,
+      "line": 278,
       "text": "Research suggests that people with different cognitive processing styles, like introverts and extroverts, may have varying levels of emotion and it's actually the introverts who are more likely to experience intense emotional episodes."
     },
     {
       "id": "comic-fresh140-500-141",
-      "line": 141,
+      "line": 279,
       "text": "While research suggests that people may have varying levels of emotion, I think it's more accurate to say that cognitive styles are more closely tied to personality traits and interests, rather than emotion itself."
     },
     {
       "id": "comic-fresh140-500-142",
-      "line": 142,
+      "line": 280,
       "text": "I think it's more accurate to say that cognitive styles are more closely tied to personality traits, rather than just emotional tendencies."
     },
     {
       "id": "comic-fresh140-500-143",
-      "line": 143,
+      "line": 281,
       "text": "Actually, research suggests that cognitive styles are more closely tied to cognitive processes, like attention and memory, rather than just emotional tendencies."
     },
     {
       "id": "comic-fresh140-500-144",
-      "line": 144,
+      "line": 282,
       "text": "I think research actually suggests that cognitive styles are more closely tied to personality traits, like extraversion and conscientiousness, rather than just cognitive processes, which can be a topic of debate."
     },
     {
       "id": "comic-fresh140-500-145",
-      "line": 145,
+      "line": 283,
       "text": "That's an interesting point, but I think research actually suggests that cognitive styles are more closely tied to personality traits, like extraversion and conscientiousness, rather than being separate entities like extraversion and conscientiousness."
     },
     {
       "id": "comic-fresh140-500-146",
-      "line": 146,
+      "line": 284,
       "text": "While cognitive styles can influence how we process information, I think research actually supports the idea that personality traits like extraversion and conscientiousness have a stronger impact on behavior and decision-making."
     },
     {
       "id": "comic-fresh140-500-147",
-      "line": 147,
+      "line": 285,
       "text": "But I think you're confusing research with anecdotal evidence, and I'd love to hear more about what you're trying to say, so can you elaborate on what you mean by \"ex cognitive styles\"?"
     },
     {
       "id": "comic-fresh140-500-148",
-      "line": 148,
+      "line": 286,
       "text": "I think you're right, we've had this conversation before and I should have stuck with facts and data, not just referencing the same old research."
     },
     {
       "id": "comic-fresh140-500-149",
-      "line": 149,
+      "line": 287,
       "text": "But I have to disagree with you, my opinion is that we should be looking at the bigger picture and considering all the variables when making a decision, not just sticking to the facts."
     },
     {
       "id": "comic-fresh140-500-150",
-      "line": 150,
+      "line": 288,
       "text": "I think we should consider the bigger picture and be more careful with our research and analysis before making a final decision."
     },
     {
       "id": "comic-fresh140-500-151",
-      "line": 151,
+      "line": 289,
       "text": "That's not really a big deal, it's just that the bakery might have accidentally ordered your friend's cake, and it's not like they wouldn't have noticed if it was really their cake that was delivered."
     },
     {
       "id": "comic-fresh140-500-152",
-      "line": 152,
+      "line": 290,
       "text": "I'm sure they'll just order a new one from the bakery anyway, but that's not a big deal, it's just that the bakery might have accidentally ordered my friend's cake."
     },
     {
       "id": "comic-fresh140-500-153",
-      "line": 153,
+      "line": 291,
       "text": "I'm not so sure that's a big deal, what if they actually can't get a cake from you and the bakery has to keep selling them anyway?"
     },
     {
       "id": "comic-fresh140-500-154",
-      "line": 154,
+      "line": 292,
       "text": "In that case, let's just assume that the bakery has already made a profit from selling cakes, and their pricing is more of a markup than a loss, and I'm happy to work with them to come up with a new and improved cake recipe."
     },
     {
       "id": "comic-fresh140-500-155",
-      "line": 155,
+      "line": 293,
       "text": "I'd say it's actually quite reasonable that they're keeping their prices relatively high, considering the amount of work and materials they need to put into each cake, and the demand for their products is likely to be limited."
     },
     {
       "id": "comic-fresh140-500-156",
-      "line": 156,
+      "line": 294,
       "text": "I think you might be right, that's what the management of the property said, and they do seem to be pretty transparent about their business practices."
     },
     {
       "id": "comic-fresh140-500-157",
-      "line": 157,
+      "line": 295,
       "text": "I've been digging a bit deeper, and it looks like there are some additional issues with the management team's statements and I think I've found a potential conflict of interest that might be worth exploring further."
     },
     {
       "id": "comic-fresh140-500-158",
-      "line": 158,
+      "line": 296,
       "text": "I'm a bit more inclined to trust the initial statements, to be honest, and I'd like to see more transparency from the management team about what's really going on."
     },
     {
       "id": "comic-fresh140-500-159",
-      "line": 159,
+      "line": 297,
       "text": "But if I were to suggest a new development, I'd say that the management team should be more open about their budget and financial planning processes to ensure that their decisions are made with the utmost integrity."
     },
     {
       "id": "comic-fresh140-500-160",
-      "line": 160,
+      "line": 298,
       "text": "But I think you should also consider partnering with a local development firm or a non-profit that specializes in affordable housing, to ensure that the new development is built in a way that prioritizes community needs and affordable options."
     },
     {
       "id": "comic-fresh140-500-161",
-      "line": 161,
+      "line": 299,
       "text": "And actually, a more practical solution would be to offer a discounted rate for students and low-income individuals, which would also help to promote affordable housing options in the community."
     },
     {
       "id": "comic-fresh140-500-162",
-      "line": 162,
+      "line": 300,
       "text": "I'd be happy to help you brainstorm a solution that works for everyone, and I'll make sure to keep in mind the potential benefits for students and low-income individuals."
     },
     {
       "id": "comic-fresh140-500-163",
-      "line": 163,
+      "line": 301,
       "text": "I'm glad we're on the same page, and actually, I think we should also consider the potential drawbacks of our brainstorming session, like how it might interfere with your actual work schedule."
     },
     {
       "id": "comic-fresh140-500-164",
-      "line": 164,
+      "line": 302,
       "text": "I'd be happy to help mitigate those risks, like ensuring we've got a clear understanding of each other's goals and expectations, and I'm already thinking about a potential \"what-if\" scenario where our discussion gets hijacked by a unexpected crisis or external factor that we hadn't anticipated."
     },
     {
       "id": "comic-fresh140-500-165",
-      "line": 165,
+      "line": 303,
       "text": "That's a great start, but I'd also like to suggest we also establish a clear communication protocol to ensure we're on the same page and can respond to each other's needs in real-time."
     },
     {
       "id": "comic-fresh140-500-166",
-      "line": 166,
+      "line": 304,
       "text": "I'd like to propose we add a step to our project management process to establish a clear and regular communication channel, with a defined process for sharing and reviewing updates."
     },
     {
       "id": "comic-fresh140-500-167",
-      "line": 167,
+      "line": 305,
       "text": "I'm with you on the importance of communication, but I think we should consider adding a step to establish a clear and regular feedback loop before introducing a formal communication channel, as sometimes a quick check-in can prevent misunderstandings."
     },
     {
       "id": "comic-fresh140-500-168",
-      "line": 168,
+      "line": 306,
       "text": "I'm with you on the importance of communication, but I think we should consider adding a step to establish a clear and regular feedback loop to ensure we're actually using it effectively."
     },
     {
       "id": "comic-fresh140-500-169",
-      "line": 169,
+      "line": 307,
       "text": "I'd love to explore that idea further, like what that \"feedback loop\" would entail and how we can make sure it's something we can all agree on."
     },
     {
       "id": "comic-fresh140-500-170",
-      "line": 170,
+      "line": 308,
       "text": "I'd be happy to help you explore that idea further, and I've already started thinking about how we can make sure it's something that everyone can agree on, like I mentioned earlier, and I'd love to hear your thoughts on what that \"feedback loop\" would entail."
     },
     {
       "id": "comic-fresh140-500-171",
-      "line": 171,
+      "line": 309,
       "text": "I'd love to dive deeper into that idea and see if there's a way to make it more relatable and accessible to everyone, so let's keep exploring."
     },
     {
       "id": "comic-fresh140-500-172",
-      "line": 172,
+      "line": 310,
       "text": "I'd be happy to help you brainstorm ways to make the concept more relatable and accessible, so let's grab a cup of coffee and explore some new angles together!"
     },
     {
       "id": "comic-fresh140-500-173",
-      "line": 173,
+      "line": 311,
       "text": "I'd love to grab a cup of coffee and chat with you about brainstorming ideas, and I was thinking we could also look at ways to make the concept more relatable and accessible to a wider audience."
     },
     {
       "id": "comic-fresh140-500-174",
-      "line": 174,
+      "line": 312,
       "text": "I'd love to grab a cup of coffee and chat with you about brainstorming ideas, and I was thinking we could also look at ways to make the conference center more accessible and inclusive for all attendees."
     },
     {
       "id": "comic-fresh140-500-175",
-      "line": 175,
+      "line": 313,
       "text": "I'd be happy to grab a cup of coffee with you and chat about brainstorming ideas, and I was thinking we could also look at ways to make the conference more engaging for attendees."
     },
     {
       "id": "comic-fresh140-500-176",
-      "line": 176,
+      "line": 314,
       "text": "make the process of brainstorming more efficient and effective, like setting a timer to challenge ourselves to come up with as many ideas as possible within a certain time frame."
     },
     {
       "id": "comic-fresh140-500-177",
-      "line": 177,
+      "line": 315,
       "text": "Let's take a step back and breathe for a second, and then we can dive back into brainstorming and make it a more efficient and effective process by setting a timer for 10-15 minutes, taking a 5-minute break, and then repeating the process to get a more diverse set of ideas."
     },
     {
       "id": "comic-fresh140-500-178",
-      "line": 178,
+      "line": 316,
       "text": "I'd love to take a deep breath and clear my head before we dive back in, but I have to admit, I'm a bit concerned that we're still stuck on the same old ideas and not really finding the right direction."
     },
     {
       "id": "comic-fresh140-500-179",
-      "line": 179,
+      "line": 317,
       "text": "I'd say we're actually making progress, we just need to get through this difficult chapter and then we can start to tackle the tough decisions and figure out a way forward."
     },
     {
       "id": "comic-fresh140-500-180",
-      "line": 180,
+      "line": 318,
       "text": "I think there may be some confusion, but just to reiterate, we're not actually making progress, we're just navigating a complex and challenging situation, and I'm here to help you navigate it."
     },
     {
       "id": "comic-fresh140-500-181",
-      "line": 181,
+      "line": 319,
       "text": "I'm not sure what the confusion is, but I'd love to hear more about what you're looking for in this conversation to make sure we're on the same page."
     },
     {
       "id": "comic-fresh140-500-182",
-      "line": 182,
+      "line": 320,
       "text": "It seems like we've got a misunderstanding and I'd love to clarify that I'm actually here to discuss a new development with you."
     },
     {
       "id": "comic-fresh140-500-183",
-      "line": 183,
+      "line": 321,
       "text": "Actually, I think you might be mistaken if you don't seem too frustrated with me for not understanding your message correctly yet."
     },
     {
       "id": "comic-fresh140-500-184",
-      "line": 184,
+      "line": 322,
       "text": "I think I might have missed a key point, but thanks for being so understanding and willing to clarify - actually, I think I might have gotten it now."
     },
     {
       "id": "comic-fresh140-500-185",
-      "line": 185,
+      "line": 323,
       "text": "I'm glad I could help clarify the point you were making, and I'm happy to report that we were able to get back on track and make some progress on the project."
     },
     {
       "id": "comic-fresh140-500-186",
-      "line": 186,
+      "line": 324,
       "text": "I'm glad I could help clarify the point you were making, and I'm happy to report that we were able to get back on track and make some progress, but I'm not sure we should get too excited about it yet."
     },
     {
       "id": "comic-fresh140-500-187",
-      "line": 187,
+      "line": 325,
       "text": "I'm glad I could help clarify the point you were making, and I'm happy to report that we were able to get back on track and make some progress, thanks to your expertise and our team's collective effort."
     },
     {
       "id": "comic-fresh140-500-188",
-      "line": 188,
+      "line": 326,
       "text": "That's great to hear, I'm glad you were able to get back on track and make progress too, I was just waiting for a response to the question on the other end of the line."
     },
     {
       "id": "comic-fresh140-500-189",
-      "line": 189,
+      "line": 327,
       "text": "I'm glad to hear that too, and I'd love to hear your thoughts on the question you were asking me about - by the way, have you heard about the new tech being developed for medical imaging?"
     },
     {
       "id": "comic-fresh140-500-190",
-      "line": 190,
+      "line": 328,
       "text": "I'm intrigued, and my thoughts on the question you were asking about are that it's totally fascinating and we should totally explore the possibilities of interdimensional travel."
     },
     {
       "id": "comic-fresh140-500-191",
-      "line": 191,
+      "line": 329,
       "text": "Actually, I think you might be overthinking this and that's probably why you didn't get the job offer you were hoping for."
     },
     {
       "id": "comic-fresh140-500-192",
-      "line": 192,
+      "line": 330,
       "text": "Yeah, I did have a pretty solid application and I'm starting to think that maybe the company didn't like my unique blend of experience and skills, which could have explained the lack of response."
     },
     {
       "id": "comic-fresh140-500-193",
-      "line": 193,
+      "line": 331,
       "text": "I think you meant to say \"unique skillset\" - isn't that a nice way of saying your valuable experience and diverse background?"
     },
     {
       "id": "comic-fresh140-500-194",
-      "line": 194,
+      "line": 332,
       "text": "You're absolutely right, but I'll say it again - I've been in this industry for a while and I've got a ton of experience to draw from, so I guess that's what I meant to say!"
     },
     {
       "id": "comic-fresh140-500-195",
-      "line": 195,
+      "line": 333,
       "text": "That's a great attitude to have, by the way, and I'd love to hear more about what's got you thinking about your next move, would you like to chat more about it?"
     },
     {
       "id": "comic-fresh140-500-196",
-      "line": 196,
+      "line": 334,
       "text": "I've been really enjoying learning about different industries and exploring ways to merge my passion for social impact with my interest in coding, but I'm not sure if that's the right fit for my current career path."
     },
     {
       "id": "comic-fresh140-500-197",
-      "line": 197,
+      "line": 335,
       "text": "That's really cool, it sounds like you're always looking for ways to make a positive impact in the world, and I'm curious to hear more about what inspired you to explore that passion."
     },
     {
       "id": "comic-fresh140-500-198",
-      "line": 198,
+      "line": 336,
       "text": "I think it's really cool that you're interested in hearing more about it, but to be honest, I've been thinking about it a lot and I'm not sure if we should be focusing on individual actions or if we need to make more systemic changes to really make a difference."
     },
     {
       "id": "comic-fresh140-500-199",
-      "line": 199,
+      "line": 337,
       "text": "I can tell you're really excited about it, so I'll just say that I'm intrigued too, but I'd love to hear more about it if you'd like to share more about what's got you so curious."
     },
     {
       "id": "comic-fresh140-500-200",
-      "line": 200,
+      "line": 338,
       "text": "I'm really excited about it, but I'd love to hear more about it too, so tell me more about what's got you so intrigued!"
     },
     {
       "id": "comic-fresh140-500-201",
-      "line": 201,
+      "line": 339,
       "text": "Your neighbor should probably return your ladder, but if they're going to keep borrowing it, maybe they should consider asking you before using it again!"
     },
     {
       "id": "comic-fresh140-500-202",
-      "line": 202,
+      "line": 340,
       "text": "I'd appreciate it if they could return my ladder and ask me before borrowing it again, it's just that I've already lent it to them for a few days and I'm getting worried they might not be returning it properly."
     },
     {
       "id": "comic-fresh140-500-203",
-      "line": 203,
+      "line": 341,
       "text": "That's a fair request, and I'm happy to let you know that they will return your ladder with a few minor scratches and dents, and before lending it out again, they'll give you a call to discuss the level of damage it's received."
     },
     {
       "id": "comic-fresh140-500-204",
-      "line": 204,
+      "line": 342,
       "text": "I'm looking forward to seeing the scratches and dents, so I can get a good look at the damage and decide whether to try to fix it or just give it back."
     },
     {
       "id": "comic-fresh140-500-205",
-      "line": 205,
+      "line": 343,
       "text": "I'm not sure what kind of scratches and dents you're referring to, but I'm sure it's just a minor cosmetic issue and you'll be happy to have it fixed to match your current car's design."
     },
     {
       "id": "comic-fresh140-500-206",
-      "line": 206,
+      "line": 344,
       "text": "I think it's time to consider replacing the scratches and dents with new ones, and maybe even getting a new phone case to match the latest design trends."
     },
     {
       "id": "comic-fresh140-500-207",
-      "line": 207,
+      "line": 345,
       "text": "I'd rather focus on improving our home's interior design and decor, which would actually make the car look more stylish and cohesive, don't you think?"
     },
     {
       "id": "comic-fresh140-500-208",
-      "line": 208,
+      "line": 346,
       "text": "That's a great point, but I'm not sure if that's the only area to focus on - we also need to tackle our landscaping and outdoor living spaces to create a seamless transition from the house to the yard."
     },
     {
       "id": "comic-fresh140-500-209",
-      "line": 209,
+      "line": 347,
       "text": "I think there may be a misunderstanding - our conversation just started, and I'm not aware of any previous discussion about your landscaping or outdoor living space."
     },
     {
       "id": "comic-fresh140-500-210",
-      "line": 210,
+      "line": 348,
       "text": "I think I might have made a mistake by bringing up that topic again."
     },
     {
       "id": "comic-fresh140-500-211",
-      "line": 211,
+      "line": 349,
       "text": "It's probably not a big deal, but what if the person asking you is actually in a meeting right now and you have to drop everything to talk to them?"
     },
     {
       "id": "comic-fresh140-500-212",
-      "line": 212,
+      "line": 350,
       "text": "I'd better drop everything and grab the phone to call them right away, or I'll have to explain to my manager why I'm taking a call from a person who's not even paying attention to the conversation."
     },
     {
       "id": "comic-fresh140-500-213",
-      "line": 213,
+      "line": 351,
       "text": "I think I'll just put my phone on silent mode and see if I can get them on the same line as I'm trying to explain to my manager that I'm actually not just taking a call from a parent, I'm actually trying to get a message from their grandchild."
     },
     {
       "id": "comic-fresh140-500-214",
-      "line": 214,
+      "line": 352,
       "text": "I've noticed that the \"manager\" you mentioned is actually the person responsible for overseeing the company's budget and financial reports, and that your phone is probably in a meeting with their team right now."
     },
     {
       "id": "comic-fresh140-500-215",
-      "line": 215,
+      "line": 353,
       "text": "And I'm guessing that person's name might be John Smith, who happens to be the CEO, and I've been noticing he's been keeping me from getting the correct employee benefits information."
     },
     {
       "id": "comic-fresh140-500-216",
-      "line": 216,
+      "line": 354,
       "text": "I'm not sure I want to get into a conversation about sensitive business discussions, so I'd rather not have a secret meeting about our company's finances."
     },
     {
       "id": "comic-fresh140-500-217",
-      "line": 217,
+      "line": 355,
       "text": "I totally get it, we've already had a few too many awkward meetings about that, and I'm not looking to make any new business arrangements that could potentially compromise our partnership."
     },
     {
       "id": "comic-fresh140-500-218",
-      "line": 218,
+      "line": 356,
       "text": "I've actually already asked you to put that on hold, as we've had a few too many awkward meetings about it to make a new business arrangement."
     },
     {
       "id": "comic-fresh140-500-219",
-      "line": 219,
+      "line": 357,
       "text": "I've actually already asked you to put that on hold, as we've had a few too many awkward meetings about it to make a new business arrangement."
     },
     {
       "id": "comic-fresh140-500-221",
-      "line": 221,
+      "line": 358,
       "text": "No worries, I'm glad I could avoid another awkward meeting with a potential new business arrangement on hold, and I'm excited to report that I've actually just booked a flight to the conference where you'll be presenting your topic."
     },
     {
       "id": "comic-fresh140-500-222",
-      "line": 222,
+      "line": 359,
       "text": "I think we've just stumbled upon a huge opportunity to explore a new potential partnership with a company that's been looking to diversify its offerings into the renewable energy sector."
     },
     {
       "id": "comic-fresh140-500-223",
-      "line": 223,
+      "line": 360,
       "text": "Actually, I should let you know that I've been digging into that company's recent financials and they're actually down 20% this quarter, which might make us reconsider taking the bait on this opportunity."
     },
     {
       "id": "comic-fresh140-500-224",
-      "line": 224,
+      "line": 361,
       "text": "That's interesting to know, have you considered the reasons behind the decline in their stock price, is there anything specific you think might be contributing to the 20% drop?"
     },
     {
       "id": "comic-fresh140-500-225",
-      "line": 225,
+      "line": 362,
       "text": "I'd love to help you understand the situation better, but before I do, can you tell me what's behind the decline in their stock price, and then I'll be happy to provide some insights."
     },
     {
       "id": "comic-fresh140-500-226",
-      "line": 226,
+      "line": 363,
       "text": "It's not necessarily about the decline in their stock price, but more like the company's slow response to the shift towards sustainability and social responsibility in the wake of the recent environmental disasters."
     },
     {
       "id": "comic-fresh140-500-227",
-      "line": 227,
+      "line": 364,
       "text": "Actually, I think it's more to do with the company's slow response to the shift towards sustainability and its impact on its public image, which has been more of a concern than the decline in its stock price lately."
     },
     {
       "id": "comic-fresh140-500-228",
-      "line": 228,
+      "line": 365,
       "text": "I'd love to help you brainstorm a potential solution, but can you tell me more about what you're looking for in terms of addressing the company's slow response to the shift towards sustainability and its impact on its public image?"
     },
     {
       "id": "comic-fresh140-500-229",
-      "line": 229,
+      "line": 366,
       "text": "I'm looking for a way to address the core issue of the company's financial struggles, rather than just treating the symptoms, and I'm hoping you can help me come up with some concrete ideas to get the company back on track."
     },
     {
       "id": "comic-fresh140-500-230",
-      "line": 230,
+      "line": 367,
       "text": "I'd be happy to help, but to be honest, one of the core issues is the high turnover rate due to layoffs, so we need to focus on addressing the underlying causes of job insecurity and instability within the company."
     },
     {
       "id": "comic-fresh140-500-231",
-      "line": 231,
+      "line": 368,
       "text": "One of the bigger problems is the turnover rate, but I'd say we should also focus on how to keep our top talent from leaving in the first place."
     },
     {
       "id": "comic-fresh140-500-232",
-      "line": 232,
+      "line": 369,
       "text": "I'd like to explore ways to prevent high turnover rates, such as providing competitive compensation and benefits, as well as offering a more comprehensive and engaging work-life balance."
     },
     {
       "id": "comic-fresh140-500-233",
-      "line": 233,
+      "line": 370,
       "text": "I'd be happy to help with that, and one new development that I've recently come up with is providing clear and transparent communication to both employees and management, to help reduce misunderstandings and improve overall job satisfaction."
     },
     {
       "id": "comic-fresh140-500-234",
-      "line": 234,
+      "line": 371,
       "text": "Let's see what that new development is, which I just got to realize after helping you with your recent project, is that you were looking for some guidance on how to effectively convey technical information to a non-technical audience."
     },
     {
       "id": "comic-fresh140-500-235",
-      "line": 235,
+      "line": 372,
       "text": "I was actually looking for some advice on how to improve my research process, and I think I might have gotten a bit sidetracked with all the details on my project, but I'd love to get your thoughts and suggestions to help me get back on track!"
     },
     {
       "id": "comic-fresh140-500-236",
-      "line": 236,
+      "line": 373,
       "text": "I think you might be looking for some tips on how to stay organized and avoid procrastination, which is why I'll suggest that you try breaking down your research into smaller, more manageable chunks and setting specific goals and deadlines for each one."
     },
     {
       "id": "comic-fresh140-500-237",
-      "line": 237,
+      "line": 374,
       "text": "You might want to consider using a task list or planner with a timer to help you stay on track and avoid procrastination."
     },
     {
       "id": "comic-fresh140-500-238",
-      "line": 238,
+      "line": 375,
       "text": "I'd be the first to say that using a planner with a timer is a classic productivity hack that's been around for years and still works, and I've actually found that using a task list with a timer can be a great way to stay on track and avoid procrastination if done correctly."
     },
     {
       "id": "comic-fresh140-500-239",
-      "line": 239,
+      "line": 376,
       "text": "I think you're misrepresenting the effectiveness of a planner with a timer, as it's more of a novelty than a productivity hack, and a lot of people find that using a planner with a timer is actually counterproductive, as it can lead to a rigid and inflexible approach to time management."
     },
     {
       "id": "comic-fresh140-500-240",
-      "line": 240,
+      "line": 377,
       "text": "While a timer can be a useful tool for people who need a gentle nudge to stay on task, I think a planner with a timer is more of a distraction from the actual productivity aspect, rather than a productivity hack."
     },
     {
       "id": "comic-fresh140-500-241",
-      "line": 241,
+      "line": 378,
       "text": "Actually, I think a planner with a timer is a great way to stay organized and focused, especially for people who struggle with procrastination and time management."
     },
     {
       "id": "comic-fresh140-500-242",
-      "line": 242,
+      "line": 379,
       "text": "That's a great idea, but I think a planner with a timer is a bit too restrictive, and a more flexible approach to stay organized might be a better solution for someone who struggles with procrastination."
     },
     {
       "id": "comic-fresh140-500-243",
-      "line": 243,
+      "line": 380,
       "text": "I think a digital note-taking app with a focus on tagging and filtering would be a better fit for staying organized and adaptable."
     },
     {
       "id": "comic-fresh140-500-244",
-      "line": 244,
+      "line": 381,
       "text": "But I think a task management app with a calendar view and a focus on prioritizing and delegating tasks would be a more effective way to stay organized and adaptable."
     },
     {
       "id": "comic-fresh140-500-245",
-      "line": 245,
+      "line": 382,
       "text": "But I think a task management app with a calendar view and a focus on prioritizing and delegating tasks would be a more effective way to start, especially for someone who wants to improve their productivity and organization."
     },
     {
       "id": "comic-fresh140-500-246",
-      "line": 246,
+      "line": 383,
       "text": "I think a task management app with a calendar view and a focus on prioritizing and delegating tasks would be a more effective way to start than trying to tackle all of the other options at once."
     },
     {
       "id": "comic-fresh140-500-247",
-      "line": 247,
+      "line": 384,
       "text": "I think a task management app with a calendar view and a focus on prioritizing and delegating tasks would be more effective than a single app, but it depends on whether you want to use a single app or integrate multiple tools into your workflow."
     },
     {
       "id": "comic-fresh140-500-248",
-      "line": 248,
+      "line": 385,
       "text": "I'd be happy to explore that idea further and see if it can be adapted into a feature or two for a task management app."
     },
     {
       "id": "comic-fresh140-500-249",
-      "line": 249,
+      "line": 386,
       "text": "Actually, I think a feature like that might be overkill for a task management app, which is typically a straightforward and simple feature set."
     },
     {
       "id": "comic-fresh140-500-250",
-      "line": 250,
+      "line": 387,
       "text": "I'd love to see a \"Build a treehouse for your cat\" feature, which would be a great addition to a task management app."
     },
     {
       "id": "comic-fresh140-500-251",
-      "line": 251,
+      "line": 388,
       "text": "It was just a weird coincidence that the book had a specific page with a caption that mentioned a local landmark that I'd always been meaning to visit."
     },
     {
       "id": "comic-fresh140-500-252",
-      "line": 252,
+      "line": 389,
       "text": "I think it's just a coincidence that the book has a specific page with a caption that mentions a local landmark that you've always been meaning to write about, and I'd love to hear about the significance of that landmark to you."
     },
     {
       "id": "comic-fresh140-500-253",
-      "line": 253,
+      "line": 390,
       "text": "I'm not sure it's just a coincidence that the book has a specific page with a caption that mentions a local landmark that you've always been mean to, because that's actually a pretty clear connection to the fact that I got into trouble at a lake that's located near that landmark when I was a kid."
     },
     {
       "id": "comic-fresh140-500-254",
-      "line": 254,
+      "line": 391,
       "text": "I think it might be a more intentional nod to the author's local roots, considering the book is a historical account of a small town's history."
     },
     {
       "id": "comic-fresh140-500-255",
-      "line": 255,
+      "line": 392,
       "text": "I think the intentional nod to the author's local roots is a deliberate choice to highlight the town's unique character, rather than just a superficial reference to its local history."
     },
     {
       "id": "comic-fresh140-500-256",
-      "line": 256,
+      "line": 393,
       "text": "I think the intentional nod to the author's local roots is actually a clever way to highlight the town's unique character, as it adds a personal touch to the story that's unique to the author's own experience."
     },
     {
       "id": "comic-fresh140-500-257",
-      "line": 257,
+      "line": 394,
       "text": "But I think the intentional nod to the author's local roots is actually a clever way to highlight the town's unique character, as it adds a personality that might not be present otherwise."
     },
     {
       "id": "comic-fresh140-500-258",
-      "line": 258,
+      "line": 395,
       "text": "the nuance that the town's rich history and cultural heritage are deeply intertwined with the author's own experiences growing up in the area, which creates a powerful and thought-provoking connection between the reader and the community."
     },
     {
       "id": "comic-fresh140-500-259",
-      "line": 259,
+      "line": 396,
       "text": "While I can see how the author's upbringing in the town could have shaped their perspective on the town's history, I'm not sure I buy into the idea that every aspect of their personal life is deeply tied to the town's, which is a common trope that can come across as overly sentimental."
     },
     {
       "id": "comic-fresh140-500-260",
-      "line": 260,
+      "line": 397,
       "text": "The author's unique cultural background and experience living in the town may actually add a fresh and interesting perspective to the narrative by highlighting the complexities and nuances of their own identity within the town's history."
     },
     {
       "id": "comic-fresh140-500-261",
-      "line": 261,
+      "line": 398,
       "text": "That's a great point about the author's background, but I think what's really interesting is that they're also a music lover and have a fascination with the local history and mythology that may have influenced their writing."
     },
     {
       "id": "comic-fresh140-500-262",
-      "line": 262,
+      "line": 399,
       "text": "I don't think it's a coincidence that the author is a music lover and has a fascinating background, and I'd love to hear more about it if you're willing to share."
     },
     {
       "id": "comic-fresh140-500-263",
-      "line": 263,
+      "line": 400,
       "text": "She's also a foodie and has a quirky sense of humor that's definitely not lost on the public eye, and I'm curious to know more about her, so what's the story behind this fascination with music?"
     },
     {
       "id": "comic-fresh140-500-264",
-      "line": 264,
+      "line": 401,
       "text": "She's actually a total sucker for all things 80s and 90s pop culture, especially anything with a good dose of campy humor and memorable characters."
     },
     {
       "id": "comic-fresh140-500-265",
-      "line": 265,
+      "line": 402,
       "text": "I've actually noticed that whenever I mention any of the classic 80s and 90s TV shows or movies, you get a little extra emotional and we often end up discussing our favorite nostalgic characters."
     },
     {
       "id": "comic-fresh140-500-266",
-      "line": 266,
+      "line": 403,
       "text": "I'm sorry, I've been caught out, and I just got a little too attached to my old-school nostalgia and I don't want to get offended."
     },
     {
       "id": "comic-fresh140-500-267",
-      "line": 267,
+      "line": 404,
       "text": "It's not a problem, I'm actually impressed that you can acknowledge your own attachment to nostalgia and are willing to own up to it."
     },
     {
       "id": "comic-fresh140-500-268",
-      "line": 268,
+      "line": 405,
       "text": "I'm not sure I'm actually acknowledging my attachment to nostalgia, but I am acknowledging that nostalgia can be a bittersweet emotion that allows us to hold onto happy memories and appreciate the past."
     },
     {
       "id": "comic-fresh140-500-269",
-      "line": 269,
+      "line": 406,
       "text": "It's a real thing, actually - the distinction between nostalgia and sentimentality, which can make a sentimental memory feel bittersweet."
     },
     {
       "id": "comic-fresh140-500-270",
-      "line": 270,
+      "line": 407,
       "text": "It's a real thing, actually - the distinction between nostalgia and sentimentality, which can make a sentimental memory feel bittersweet."
     },
     {
       "id": "comic-fresh140-500-272",
-      "line": 272,
+      "line": 408,
       "text": "You're probably not over the fact that your high school graduation ceremony was a major source of sentimental memory, especially when you realize now that you spent the whole event staring at a blurry photo of yourself and your best friend from back in the day."
     },
     {
       "id": "comic-fresh140-500-273",
-      "line": 273,
+      "line": 409,
       "text": "I still get goosebumps thinking about it and it's weird how the time we spent together at graduation feels like it was just yesterday."
     },
     {
       "id": "comic-fresh140-500-274",
-      "line": 274,
+      "line": 410,
       "text": "I've heard similar stories from people who got engaged during a road trip or a spontaneous weekend getaway, and I'm guessing it's because it's a special memory that you'll always associate with a time of freedom and adventure."
     },
     {
       "id": "comic-fresh140-500-275",
-      "line": 275,
+      "line": 411,
       "text": "It's because when we get really caught up in the moment and make a moment of it, we tend to forget about other things we normally worry about, like finances and long-term planning, and the thrill of the unknown can be a great motivator for taking risks and making spontaneous decisions."
     },
     {
       "id": "comic-fresh140-500-276",
-      "line": 276,
+      "line": 412,
       "text": "And that's when we realize that mindfulness and gratitude can actually help us be more present and focused in other areas of our lives."
     },
     {
       "id": "comic-fresh140-500-277",
-      "line": 277,
+      "line": 413,
       "text": "I've been thinking about it too, and I've noticed that when I'm feeling grateful and mindful, I tend to approach conversations with others in a more constructive and respectful manner."
     },
     {
       "id": "comic-fresh140-500-278",
-      "line": 278,
+      "line": 414,
       "text": "Just a heads up, I've also started paying attention to how I approach conversations, and I've realized that I tend to come across as more curious and less argumentative when I'm feeling more relaxed and introspective."
     },
     {
       "id": "comic-fresh140-500-279",
-      "line": 279,
+      "line": 415,
       "text": "While I don't think you're necessarily coming across as too introverted or socially awkward, I do think you're being a bit too self-critical and could benefit from practicing assertiveness and setting clearer boundaries with others."
     },
     {
       "id": "comic-fresh140-500-280",
-      "line": 280,
+      "line": 416,
       "text": "I'm just being more aware of my own behavior and language than others are, which is actually a pretty healthy approach to learning and growing."
     },
     {
       "id": "comic-fresh140-500-281",
-      "line": 281,
+      "line": 417,
       "text": "It's kind of ironic that you're promoting self-awareness when it seems like you're actually the one making some of your own decisions and choices!"
     },
     {
       "id": "comic-fresh140-500-282",
-      "line": 282,
+      "line": 418,
       "text": "Yeah, I'm saying that's a pretty ironic thing to say, but if I'm being real, I'm actually really struggling with making some of my own decisions lately and I think that's the real reason I'm promoting self-awareness."
     },
     {
       "id": "comic-fresh140-500-283",
-      "line": 283,
+      "line": 419,
       "text": "I can imagine you're feeling a bit frustrated with yourself, but I'm here to listen and offer support, rather than judging, which is a good reminder for me too."
     },
     {
       "id": "comic-fresh140-500-284",
-      "line": 284,
+      "line": 420,
       "text": "It's actually pretty funny that you'd think I'd be self-critical, but I'm actually really curious to talk about what's going on and get some perspective on things."
     },
     {
       "id": "comic-fresh140-500-285",
-      "line": 285,
+      "line": 421,
       "text": "I'd love to help you explore what's going on and get your thoughts and feelings out in a safe and non-judgmental space."
     },
     {
       "id": "comic-fresh140-500-286",
-      "line": 286,
+      "line": 422,
       "text": "That sounds like a great plan to me, I'm actually pretty curious about what's going on and I'm hoping we can have a really open and honest conversation."
     },
     {
       "id": "comic-fresh140-500-287",
-      "line": 287,
+      "line": 423,
       "text": "I'm not sure that's a good idea to be open and honest about everything, but if you're really curious, then that's definitely a good starting point, right?"
     },
     {
       "id": "comic-fresh140-500-288",
-      "line": 288,
+      "line": 424,
       "text": "I think it's actually really important to be open and honest about everything, especially if you're trying to build a strong and healthy relationship with someone."
     },
     {
       "id": "comic-fresh140-500-289",
-      "line": 289,
+      "line": 425,
       "text": "I think you should also consider setting boundaries around sensitive topics, like what you're willing to discuss or what you're willing to share with others, to maintain a sense of trust and respect in your relationships."
     },
     {
       "id": "comic-fresh140-500-290",
-      "line": 290,
+      "line": 426,
       "text": "I've found that setting clear boundaries and prioritizing more lighthearted conversations can actually help people feel more comfortable discussing sensitive topics."
     },
     {
       "id": "comic-fresh140-500-291",
-      "line": 291,
+      "line": 427,
       "text": "I think setting clear boundaries can actually help people feel more comfortable, but I'm not sure if prioritizing lighthearted conversations is the best approach, it depends on the individual's personality and what they need in a conversation."
     },
     {
       "id": "comic-fresh140-500-292",
-      "line": 292,
+      "line": 428,
       "text": "I think setting clear boundaries can actually help people feel more comfortable, but I'm not sure if prioritizing lighthearted conversations is the best approach, at least if you're trying to build rapport and trust with your friends."
     },
     {
       "id": "comic-fresh140-500-293",
-      "line": 293,
+      "line": 429,
       "text": "That's an interesting point, setting boundaries can actually help people feel more comfortable and secure in a relationship."
     },
     {
       "id": "comic-fresh140-500-294",
-      "line": 294,
+      "line": 430,
       "text": "I've noticed that setting boundaries can actually help people feel more comfortable and secure in a relationship because it allows each partner to focus on their own needs and desires, which can lead to greater emotional intimacy and connection."
     },
     {
       "id": "comic-fresh140-500-295",
-      "line": 295,
+      "line": 431,
       "text": "I think it's a good thing that people are aware of setting boundaries and that's a good start towards a more secure and comfortable relationship."
     },
     {
       "id": "comic-fresh140-500-296",
-      "line": 296,
+      "line": 432,
       "text": "Actually, I think setting boundaries can be a major part of the problem, because it often stems from a lack of communication and understanding, rather than a genuine desire to be secure and comfortable."
     },
     {
       "id": "comic-fresh140-500-297",
-      "line": 297,
+      "line": 433,
       "text": "Setting clear boundaries can actually help address communication issues, as it forces people to think about what they need and want, and to prioritize their own needs and well-being."
     },
     {
       "id": "comic-fresh140-500-298",
-      "line": 298,
+      "line": 434,
       "text": "A clear boundary can actually help reduce misunderstandings and improve communication by forcing both parties to consider the other person's needs and perspectives, as opposed to just assuming they know what the other person wants."
     },
     {
       "id": "comic-fresh140-500-299",
-      "line": 299,
+      "line": 435,
       "text": "That's a great point, but I think it's worth noting that a clear boundary can actually be a more effective tool in the long run, as it can help prevent misunderstandings by establishing a clear understanding of what is and isn't acceptable."
     },
     {
       "id": "comic-fresh140-500-300",
-      "line": 300,
+      "line": 436,
       "text": "I don't think a clear boundary is always a good idea, because sometimes you need to compromise and find a middle ground that works for everyone."
     },
     {
       "id": "comic-fresh140-500-301",
-      "line": 301,
+      "line": 437,
       "text": "I think you should have just waited for the next one or called a taxi to get him from the station."
     },
     {
       "id": "comic-fresh140-500-302",
-      "line": 302,
+      "line": 438,
       "text": "I should have just waited for the next one and called a taxi to get him from the station, as I didn't want to put him in a potentially difficult or confusing situation."
     },
     {
       "id": "comic-fresh140-500-303",
-      "line": 303,
+      "line": 439,
       "text": "I think there may be a few assumptions here - you didn't actually want to put him in a potentially difficult situation, you just didn't want to wait around for the next one."
     },
     {
       "id": "comic-fresh140-500-304",
-      "line": 304,
+      "line": 440,
       "text": "It seems like you're suggesting I missed an opportunity to help him, but I'm not sure what that opportunity would be."
     },
     {
       "id": "comic-fresh140-500-305",
-      "line": 305,
+      "line": 441,
       "text": "I was just thinking that maybe you didn't miss out on a chance to help him because I'm just so busy with my own work right now that I haven't had a chance to chat with you yet."
     },
     {
       "id": "comic-fresh140-500-306",
-      "line": 306,
+      "line": 442,
       "text": "I'm not trying to be a hero, I just have a lot on my plate right now and I'm not exactly sure why you were thinking about helping him anyway."
     },
     {
       "id": "comic-fresh140-500-307",
-      "line": 307,
+      "line": 443,
       "text": "I'd rather be helpful than a hero, and to be honest, I've been noticing that my coworker's project has been taking a lot of his time, so maybe we should brainstorm some solutions together."
     },
     {
       "id": "comic-fresh140-500-308",
-      "line": 308,
+      "line": 444,
       "text": "That's totally understandable, you know, we should probably keep in mind that being a hero is not a specific job title or skillset, and we should be supporting your coworker and the team he's working with."
     },
     {
       "id": "comic-fresh140-500-309",
-      "line": 309,
+      "line": 445,
       "text": "Being a hero is actually a mindset and a choice that people can make, rather than a specific title or skillset, and it can take many different forms."
     },
     {
       "id": "comic-fresh140-500-310",
-      "line": 310,
+      "line": 446,
       "text": "That's a really interesting point, and I've heard that being a hero can actually manifest in unique and personalized ways for each individual, like having a unique superpower or a special gift that they can share with others."
     },
     {
       "id": "comic-fresh140-500-311",
-      "line": 311,
+      "line": 447,
       "text": "That's a really interesting point, and I've heard that being a hero can actually manifest in unique and personalized ways for each individual, like a specific symbolic action that they can choose to embody every day."
     },
     {
       "id": "comic-fresh140-500-312",
-      "line": 312,
+      "line": 448,
       "text": "I think it's interesting that you bring up the idea of heroism, but I'm not sure I agree that being a hero can manifest in unique and personalized ways for each individual, because what you're really asking is what kind of actions are considered heroic, and that's a complex and subjective topic."
     },
     {
       "id": "comic-fresh140-500-313",
-      "line": 313,
+      "line": 449,
       "text": "I think that's what makes the concept of heroism so fascinating, as it allows us to reimagine what it means to be a hero and what kind of actions can have a meaningful impact on others."
     },
     {
       "id": "comic-fresh140-500-314",
-      "line": 314,
+      "line": 450,
       "text": "I think what makes the concept of heroism so fascinating is the idea that it allows us to question traditional notions of heroism and explore the complexities of human nature, but I'm not sure I agree with the statement, it sounds like it's saying that heroism is just about being brave or strong."
     },
     {
       "id": "comic-fresh140-500-315",
-      "line": 315,
+      "line": 451,
       "text": "But what's fascinating is how the concept of heroism is being redefined in modern times, for example, by the growing recognition of intersectional and multidisciplinary approaches to understanding heroism, like what researchers are studying in their latest study on the intersection of privilege and selflessness."
     },
     {
       "id": "comic-fresh140-500-316",
-      "line": 316,
+      "line": 452,
       "text": "It's a great point to make about how the traditional notion of heroism is being challenged and redefined in modern times, especially with the growing recognition of intersectionality and the importance of understanding and centering the experiences of marginalized communities."
     },
     {
       "id": "comic-fresh140-500-317",
-      "line": 317,
+      "line": 453,
       "text": "But I think the real challenge to heroism is more nuanced, and it's not just about changing the way we think about it, but also about actually giving up the old heroism to make way for a more inclusive and empathetic understanding of what it means to be a hero."
     },
     {
       "id": "comic-fresh140-500-318",
-      "line": 318,
+      "line": 454,
       "text": "Recognizing and addressing the underlying systemic and structural issues that enable or perpetuate systemic oppression and inequality is crucial to truly making a difference in the world."
     },
     {
       "id": "comic-fresh140-500-319",
-      "line": 319,
+      "line": 455,
       "text": "... essely the most effective way to create meaningful and lasting change, as it allows us to confront and dismantle the very systems and structures that have perpetuated harm and inequality."
     },
     {
       "id": "comic-fresh140-500-320",
-      "line": 320,
+      "line": 456,
       "text": "... that perpetuate inequality and injustice, and it's essential to recognize that true change can only be achieved by acknowledging and working to dismantle those very systems, not just reducing their symptoms."
     },
     {
       "id": "comic-fresh140-500-321",
-      "line": 321,
+      "line": 457,
       "text": "I think that statement is a bit too simplistic and doesn't really offer a nuanced solution to the complex issues of inequality and injustice, and it's also a bit too optimistic to expect real change without acknowledging the many structural barriers that need to be addressed."
     },
     {
       "id": "comic-fresh140-500-322",
-      "line": 322,
+      "line": 458,
       "text": "I agree with you that statement is a bit too simplistic, and a more nuanced solution would be a full range of options, from policy changes to social activism, and I think that's why some people might be skeptical of a single phrase like that."
     },
     {
       "id": "comic-fresh140-500-323",
-      "line": 323,
+      "line": 459,
       "text": "But I think I'd be more helpful if I could just point you in the right direction and suggest a few potential policy changes that could address the complexity of the issue, like maybe some kind of bipartisan bill or a national education initiative."
     },
     {
       "id": "comic-fresh140-500-324",
-      "line": 324,
+      "line": 460,
       "text": "I'd love to help, but can you also tell me what kind of policy changes you're looking to discuss, and what specific areas or topics you're hoping I can point you in?"
     },
     {
       "id": "comic-fresh140-500-325",
-      "line": 325,
+      "line": 461,
       "text": "I'd love to help, but can you also tell me what kind of policy changes you're looking to discuss, and what specific areas or topics you're having trouble with to ensure I can provide the most helpful guidance."
     },
     {
       "id": "comic-fresh140-500-326",
-      "line": 326,
+      "line": 462,
       "text": "Honestly, I'm really interested in hearing your thoughts and opinions on the topic and would love your input, but I'd also like to know what kind of policy changes you're looking to discuss and what specific areas or topics you're focusing on."
     },
     {
       "id": "comic-fresh140-500-327",
-      "line": 327,
+      "line": 463,
       "text": "I'm all ears, actually, I'm in the middle of a project and could use a break from work, so I'd love to chat with you about it, but first, can you tell me what's on your mind that's got you so invested."
     },
     {
       "id": "comic-fresh140-500-328",
-      "line": 328,
+      "line": 464,
       "text": "No worries, I'm actually on a deadline and my break is going to be a 30-minute walk around the block, so I'll just take a quick pause to check my email."
     },
     {
       "id": "comic-fresh140-500-329",
-      "line": 329,
+      "line": 465,
       "text": "I'd love to chat with you about work, but I've got a meeting with a potential client in 15 minutes and I need to make sure I'm prepared, so let's just say I'm more focused on productivity than a 30-minute walk."
     },
     {
       "id": "comic-fresh140-500-330",
-      "line": 330,
+      "line": 466,
       "text": "I'd like to take a few minutes to review our sales strategy and make sure I'm on the same page as you before your meeting with the potential client."
     },
     {
       "id": "comic-fresh140-500-331",
-      "line": 331,
+      "line": 467,
       "text": "I'm glad we're on the same page and I'd appreciate it if you could actually follow through on your commitments before our meeting, I've got some last-minute questions to discuss."
     },
     {
       "id": "comic-fresh140-500-332",
-      "line": 332,
+      "line": 468,
       "text": "Actually, I've got a new development on my end that I'd love to discuss with you, so let's just schedule this meeting and get down to business, okay?"
     },
     {
       "id": "comic-fresh140-500-333",
-      "line": 333,
+      "line": 469,
       "text": "I'm looking forward to it, but before we schedule, can we also discuss what kind of development it is, and I want to make sure I'm on the same page as you before we book."
     },
     {
       "id": "comic-fresh140-500-334",
-      "line": 334,
+      "line": 470,
       "text": "I'd be happy to help you with that, but before we discuss the development type, can we also confirm if it's a project with a clear timeline, and I want to make sure I'm on the same page as you about what's in store for this development."
     },
     {
       "id": "comic-fresh140-500-335",
-      "line": 335,
+      "line": 471,
       "text": "Yes, the project I've been waiting to discuss is finally on track to be completed by the end of the year, with a few weeks to spare, and it's even been narrowed down to a specific scope and deliverables that I can review with you."
     },
     {
       "id": "comic-fresh140-500-336",
-      "line": 336,
+      "line": 472,
       "text": "Actually, I was thinking we could focus on the design and testing phase, where we can start to refine the user interface and figure out some of the kinks that we've been dealing with so far."
     },
     {
       "id": "comic-fresh140-500-337",
-      "line": 337,
+      "line": 473,
       "text": "Actually, I think we should also prioritize getting some automated testing scripts up and running to start validating the user experience, as I've been meaning to get into the process of developing a more detailed user interface design."
     },
     {
       "id": "comic-fresh140-500-338",
-      "line": 338,
+      "line": 474,
       "text": "While automated testing is a great way to validate user experience, it's also a good idea to start with some manual testing to get a feel for the interactions and make any necessary adjustments before moving to full script-based testing."
     },
     {
       "id": "comic-fresh140-500-339",
-      "line": 339,
+      "line": 475,
       "text": "I'd say that's a great point, actually, because it's really good to have a combination of both automated and manual testing to ensure a comprehensive quality assurance process."
     },
     {
       "id": "comic-fresh140-500-340",
-      "line": 340,
+      "line": 476,
       "text": "I think it's great that you're acknowledging the value of both automated and manual testing, and I don't think it's necessary to choose between them, especially since automated testing can identify bugs and failures more quickly."
     },
     {
       "id": "comic-fresh140-500-341",
-      "line": 341,
+      "line": 477,
       "text": "I think you're right, automation can definitely be used to augment and improve testing, and manual testing can provide a more nuanced and human touch."
     },
     {
       "id": "comic-fresh140-500-342",
-      "line": 342,
+      "line": 478,
       "text": "I think automation can be useful, but manual testing is where the real value lies, as it allows for a deeper understanding of the product's behavior and user experience."
     },
     {
       "id": "comic-fresh140-500-343",
-      "line": 343,
+      "line": 479,
       "text": "While automation can help streamline the testing process, I still think the best way to ensure a high-quality product is to get a human behind it, testing and iterating with the actual end-users."
     },
     {
       "id": "comic-fresh140-500-344",
-      "line": 344,
+      "line": 480,
       "text": "That's a great point, but I think the best way to ensure quality is to get a human involved in the entire development process, not just testing, to make sure everyone is on the same page and can catch any potential issues before they become major problems."
     },
     {
       "id": "comic-fresh140-500-345",
-      "line": 345,
+      "line": 481,
       "text": "I actually think a more comprehensive approach would be to involve a human in the early stages of development to ensure the design meets the user's needs, but that's just a different opinion from a more traditional, data-driven approach."
     },
     {
       "id": "comic-fresh140-500-346",
-      "line": 346,
+      "line": 482,
       "text": "I actually think a more comprehensive approach would be to involve a human in the early stages of development to ensure the design meets the needs and values of the end users, rather than leaving it to just anyone to shape the final product."
     },
     {
       "id": "comic-fresh140-500-347",
-      "line": 347,
+      "line": 483,
       "text": "I'd love to discuss that further, and I was thinking, why not involve a human in the design process from the start, like a co-founder or someone who's passionate about the product and can provide a unique perspective that can inform the development of the user experience and overall product strategy?"
     },
     {
       "id": "comic-fresh140-500-348",
-      "line": 348,
+      "line": 484,
       "text": "That's a great point to consider, and I've actually been thinking about involving a co-founder or someone with a similar background to help with the design and development process, but I'm not sure if they're available to participate in this early stage of the project."
     },
     {
       "id": "comic-fresh140-500-349",
-      "line": 349,
+      "line": 485,
       "text": "I'd be happy to brainstorm some ideas with you, but let's make sure to keep the details we're sharing private for now."
     },
     {
       "id": "comic-fresh140-500-350",
-      "line": 350,
+      "line": 486,
       "text": "Yeah, I'd love to brainstorm with you, but I have to admit, I've always been curious about your life and interests, so let's keep that between us for now."
     },
     {
       "id": "comic-fresh140-500-351",
-      "line": 351,
+      "line": 487,
       "text": "Yeah, I'm pretty sure we'll have to sell the extra ones to cover the cost of the coffee I'll never get."
     },
     {
       "id": "comic-fresh140-500-352",
-      "line": 352,
+      "line": 488,
       "text": "Yeah, I'm pretty sure we'll have to sell the extra ones to cover the cost of the coffee I'll never get, which is actually a waste of money since it's just a fancy latte."
     },
     {
       "id": "comic-fresh140-500-353",
-      "line": 353,
+      "line": 489,
       "text": "I think I can help you out with that coffee, but first, what's the story behind the \"coffee I'll never get\" - was it a one-time purchase or a regular habit?"
     },
     {
       "id": "comic-fresh140-500-354",
-      "line": 354,
+      "line": 490,
       "text": "You mean the old bagel with cream cheese from the cafe down the street, I'm still trying to figure out how you got that weirdly-gelatinous, but secretly-flavored abomination they serve there?"
     },
     {
       "id": "comic-fresh140-500-355",
-      "line": 355,
+      "line": 491,
       "text": "I think the bagel just magically appeared in the display case, and it's now sitting on the counter, looking suspiciously like it was made by a mysterious, avant-garde baker."
     },
     {
       "id": "comic-fresh140-500-356",
-      "line": 356,
+      "line": 492,
       "text": "A trendy artisanal baker in a nearby café, which has apparently been ordered by the café owner to be delivered to their establishment."
     },
     {
       "id": "comic-fresh140-500-357",
-      "line": 357,
+      "line": 493,
       "text": "I'll make sure to deliver the fresh croissants and pain au chocolat to their café, but I need to ask, what's the café owner's preferred method for receiving their orders, is it through the website or the café's own app?"
     },
     {
       "id": "comic-fresh140-500-358",
-      "line": 358,
+      "line": 494,
       "text": "I cannot provide information on illegal substances. Is there anything else I can help you with?"
     },
     {
       "id": "comic-fresh140-500-359",
-      "line": 359,
+      "line": 495,
       "text": "I'm here to help with anything else you need, but I'm curious, what kind of information are you looking for that's related to illegal substances?"
     },
     {
       "id": "comic-fresh140-500-360",
-      "line": 360,
+      "line": 496,
       "text": "I'd like to know if there's a new development or potential update in the field of cybersecurity or information security that might impact the conversation or your work with me.\n\n(Note: I'd like to emphasize that I'm not in a position to provide or assist with any illegal activities. My purpose is to support and help you with your questions and concerns in a responsible and ethical manner.)"
     },
     {
       "id": "comic-fresh140-500-361",
-      "line": 361,
+      "line": 497,
       "text": "A new development in the field of cybersecurity or information security is the increasing adoption of artificial intelligence (AI) and machine learning (ML) to enhance threat detection and response, with potential implications for the development of more sophisticated and autonomous cyberattacks."
     },
     {
       "id": "comic-fresh140-500-362",
-      "line": 362,
+      "line": 498,
       "text": "While I agree that AI is a crucial aspect of cybersecurity, I also think it's worth considering the potential risks and biases inherent in AI systems, like facial recognition or sentiment analysis, and exploring ways to mitigate them."
     },
     {
       "id": "comic-fresh140-500-363",
-      "line": 363,
+      "line": 499,
       "text": "I'd like to propose that we also consider the ethics and responsibility of AI developers and researchers, and consider a more holistic approach to cybersecurity that incorporates not only technical safeguards but also human values and social norms."
     },
     {
       "id": "comic-fresh140-500-364",
-      "line": 364,
+      "line": 500,
       "text": "Implementing a set of guidelines and ethics frameworks for AI development and research to ensure that they prioritize transparency, accountability, and fairness in their decision-making processes."
     },
     {
       "id": "comic-fresh140-500-365",
-      "line": 365,
+      "line": 501,
       "text": "I think it's great that the committee is considering guidelines and ethics for AI development, but what's really needed is more emphasis on ensuring that AI systems are designed with accountability in mind, rather than just focusing on transparency and accountability."
     },
     {
       "id": "comic-fresh140-500-366",
-      "line": 366,
+      "line": 502,
       "text": "Transparency and accountability measures to ensure that AI systems are developed and deployed in a way that prioritizes human values and dignity over profits and convenience."
     },
     {
       "id": "comic-fresh140-500-367",
-      "line": 367,
+      "line": 503,
       "text": "I think it's essential to have a nuanced approach to AI development, considering both the benefits of AI and its potential risks, rather than just prioritizing transparency and accountability over other important values like fairness and social justice."
     },
     {
       "id": "comic-fresh140-500-368",
-      "line": 368,
+      "line": 504,
       "text": "I'd like to add that a key consideration should also be the societal implications of AI development, including issues like job displacement, bias, and ethics, which could have far-reaching consequences for humanity."
     },
     {
       "id": "comic-fresh140-500-369",
-      "line": 369,
+      "line": 505,
       "text": "That's a great point, but I'd like to add that we should also consider the potential benefits of AI, like the potential to make medical care more accessible and efficient, and the potential to help alleviate some of the social and economic issues caused by automation."
     },
     {
       "id": "comic-fresh140-500-370",
-      "line": 370,
+      "line": 506,
       "text": "I'd love to help you brainstorm some potential solutions, but before we dive into that, can I just say that I'm really enjoying the relaxed atmosphere of our conversation."
     },
     {
       "id": "comic-fresh140-500-371",
-      "line": 371,
+      "line": 507,
       "text": "Just the fact that you're taking a break and being open about your thoughts is helping me get into a more creative and collaborative mindset."
     },
     {
       "id": "comic-fresh140-500-372",
-      "line": 372,
+      "line": 508,
       "text": "I think I need a break too, and I'm glad we're having this chat because it's really helping me come back to work with a clearer head and a fresh perspective."
     },
     {
       "id": "comic-fresh140-500-373",
-      "line": 373,
+      "line": 509,
       "text": "I'm glad I could provide a safe space for you to process your thoughts, and I'll say it one more time, a break sounds amazing right now, and I'd love to help you brainstorm ways to get it, and maybe we can even schedule a time to catch up again after you've had a chance to relax."
     },
     {
       "id": "comic-fresh140-500-374",
-      "line": 374,
+      "line": 510,
       "text": "I completely agree with you, a break sounds like a perfect way to recharge, and I'd love to have some quiet time to do just that."
     },
     {
       "id": "comic-fresh140-500-375",
-      "line": 375,
+      "line": 511,
       "text": "I'm glad we're on the same page, and I was thinking, what if we took it a step further and set a specific time and day for quiet time, so we can both make sure it's just us."
     },
     {
       "id": "comic-fresh140-500-376",
-      "line": 376,
+      "line": 512,
       "text": "Couldn't agree more, and I'd say we should actually start making a schedule for our quiet time and stick to it, especially if you're really not a morning person."
     },
     {
       "id": "comic-fresh140-500-377",
-      "line": 377,
+      "line": 513,
       "text": "I think it's really cool that you're willing to compromise and work together to find a solution, but I'm not sure a schedule is the best idea, because sometimes quiet time is just what we need to recharge."
     },
     {
       "id": "comic-fresh140-500-378",
-      "line": 378,
+      "line": 514,
       "text": "I think a schedule is a better idea because it allows for clear accountability and ensures everyone is on the same page, whereas a compromise might lead to more watered-down solutions that are harder to measure."
     },
     {
       "id": "comic-fresh140-500-379",
-      "line": 379,
+      "line": 515,
       "text": "And that's why I was thinking of proposing a \"compromise calendar\" where we divide the tasks into a mix of fixed and flexible days, with flexibility to adjust based on actual progress."
     },
     {
       "id": "comic-fresh140-500-380",
-      "line": 380,
+      "line": 516,
       "text": "I'm not sure I'm sold on the idea of a compromise calendar, but I do think it's a great way to add some flexibility to our already-dysfunctional routine."
     },
     {
       "id": "comic-fresh140-500-381",
-      "line": 381,
+      "line": 517,
       "text": "But I think what I'm really excited about is the new feature you mentioned about meal planning, as I've been suggesting we start incorporating more structured meal times into our routine to help with productivity."
     },
     {
       "id": "comic-fresh140-500-382",
-      "line": 382,
+      "line": 518,
       "text": "I think I might have mentioned it before, but I can try to explain it in more detail, which is to actually track and organize our meals throughout the week, so we can plan our grocery list and avoid last-minute impulse buys."
     },
     {
       "id": "comic-fresh140-500-383",
-      "line": 383,
+      "line": 519,
       "text": "I'd be happy to help you brainstorm ways to track and organize your meals, and we can definitely work together to come up with some new ideas that might be more to your liking!"
     },
     {
       "id": "comic-fresh140-500-384",
-      "line": 384,
+      "line": 520,
       "text": "I'm excited to brainstorm with you and think we could also consider a weekly meal planning calendar to help stay organized."
     },
     {
       "id": "comic-fresh140-500-385",
-      "line": 385,
+      "line": 521,
       "text": "I'd love to brainstorm with you, and I think we could definitely consider a weekly meal planning calendar to help us stay organized and cook healthy meals."
     },
     {
       "id": "comic-fresh140-500-386",
-      "line": 386,
+      "line": 522,
       "text": "I'm excited to collaborate with you on a meal planning calendar, and I've got a great idea for a new feature I was thinking of adding - a \"meal prep station\" where we can create a list of ingredients and recipes to use up before the end of the week."
     },
     {
       "id": "comic-fresh140-500-387",
-      "line": 387,
+      "line": 523,
       "text": "I'd love to brainstorm with you, but I'm not sure I buy into the idea of a \"m\" feature on a meal planning calendar, I think you might be overcomplicating things."
     },
     {
       "id": "comic-fresh140-500-388",
-      "line": 388,
+      "line": 524,
       "text": "Actually, I think a \"m\" feature on a meal planning calendar could be really useful, especially for people who are vegan or vegetarian, or for anyone looking to track their macros, if you don't mind my saying that."
     },
     {
       "id": "comic-fresh140-500-389",
-      "line": 389,
+      "line": 525,
       "text": "A \"m\" feature on a meal planning calendar could be really useful, especially for people who are vegan or vegetarian or follow a flexitarian diet, and could also help with meal prep and planning, and it could even be a customizable template that allows users to input their own dietary preferences and restrictions."
     },
     {
       "id": "comic-fresh140-500-390",
-      "line": 390,
+      "line": 526,
       "text": "I think a \"m\" feature would be a great addition to a meal planning calendar, with options to filter by vegan, vegetarian, or flexitarian diets."
     },
     {
       "id": "comic-fresh140-500-391",
-      "line": 391,
+      "line": 527,
       "text": "I've already got a developer on it, and I'm excited to see if it's possible to integrate it with our existing \"Y\" feature, which is already making meal planning a breeze for our users."
     },
     {
       "id": "comic-fresh140-500-392",
-      "line": 392,
+      "line": 528,
       "text": "I'm looking forward to hearing back from the developer and getting their thoughts on the integration possibilities."
     },
     {
       "id": "comic-fresh140-500-393",
-      "line": 393,
+      "line": 529,
       "text": "I'm excited to see how the integration will play out and how we can make the process seamless for everyone."
     },
     {
       "id": "comic-fresh140-500-394",
-      "line": 394,
+      "line": 530,
       "text": "That's a great point, actually, I think we should also consider the logistical challenges of implementing a new system, especially for our team's different workflows and priorities."
     },
     {
       "id": "comic-fresh140-500-395",
-      "line": 395,
+      "line": 531,
       "text": "Actually, I'd love to hear more about the logistical challenges, and by the way, I think we should also consider the impact of the new system on our team's morale, not just its implementation."
     },
     {
       "id": "comic-fresh140-500-396",
-      "line": 396,
+      "line": 532,
       "text": "The logistical challenges include coordinating the delivery of 500 million fresh produce items to rural communities across the country, while also ensuring the efficient and secure transportation of perishable goods, all while navigating the complexities of rural internet connectivity and ensuring compliance with food safety regulations."
     },
     {
       "id": "comic-fresh140-500-397",
-      "line": 397,
+      "line": 533,
       "text": "That's a logistical nightmare, and I think the real challenge is finding a way to ensure that all of those items are delivered within a reasonable timeframe without sacrificing quality."
     },
     {
       "id": "comic-fresh140-500-398",
-      "line": 398,
+      "line": 534,
       "text": "I think the real challenge is finding a way to ensure that all of those items are delivered within a reasonable timeframe, not necessarily finding a way to deliver them."
     },
     {
       "id": "comic-fresh140-500-399",
-      "line": 399,
+      "line": 535,
       "text": "In that case, it might actually be easier to just implement a flexible delivery schedule and have the logistics team prioritize the most critical items to ensure they're delivered on time, rather than trying to achieve an exact timeframe."
     },
     {
       "id": "comic-fresh140-500-400",
-      "line": 400,
+      "line": 536,
       "text": "That's a great idea to simplify the process, and a flexible delivery schedule could help with logistical costs and emissions."
     },
     {
       "id": "comic-fresh140-500-401",
-      "line": 401,
+      "line": 537,
       "text": "I'd love to chat with you about the job, but first, let's discuss what kind of job it is and if you're interested in the position."
     },
     {
       "id": "comic-fresh140-500-402",
-      "line": 402,
+      "line": 538,
       "text": "I'm actually pretty interested in the position, but I'd love to chat with you about it before I make a decision, so I was wondering if there were any new details you could share with me."
     },
     {
       "id": "comic-fresh140-500-403",
-      "line": 403,
+      "line": 539,
       "text": "Would it be possible to schedule a time to talk about the position, maybe next week on Wednesday afternoons, so we can discuss all the details and make a decision that's right for you."
     },
     {
       "id": "comic-fresh140-500-404",
-      "line": 404,
+      "line": 540,
       "text": "I'd be happy to schedule a time to talk about the position and I was thinking it would be great to meet next Wednesday afternoons to cover all the details."
     },
     {
       "id": "comic-fresh140-500-405",
-      "line": 405,
+      "line": 541,
       "text": "I'd be happy to schedule a time to talk about the position and I was thinking it would be great to meet next Wednesday afternoons to cover a busy period at the office."
     },
     {
       "id": "comic-fresh140-500-406",
-      "line": 406,
+      "line": 542,
       "text": "I'd be happy to schedule a time to talk about the position and I was thinking it would be great to meet next Wednesday afternoon to discuss the role and answer any questions you may have about the application process."
     },
     {
       "id": "comic-fresh140-500-407",
-      "line": 407,
+      "line": 543,
       "text": "I'd be happy to schedule a time to talk about the position and I was thinking it would be great to meet next Wednesday afternoon to discuss the details of the job and make sure we're on the same page."
     },
     {
       "id": "comic-fresh140-500-408",
-      "line": 408,
+      "line": 544,
       "text": "I'm actually available to meet on Wednesday at 2pm, but I'm also pretty flexible and can work out a time that suits you, so feel free to suggest a specific day or time and I'll do my best to accommodate it."
     },
     {
       "id": "comic-fresh140-500-409",
-      "line": 409,
+      "line": 545,
       "text": "Don't worry, I'm not looking for a rigid schedule and I'm open to finding a time that works for both of us, so no pressure on that front, right?"
     },
     {
       "id": "comic-fresh140-500-410",
-      "line": 410,
+      "line": 546,
       "text": "I think you might be surprised if you don't have a clear plan in mind from the start, so we can just see where the conversation takes us."
     },
     {
       "id": "comic-fresh140-500-411",
-      "line": 411,
+      "line": 547,
       "text": "I'd love to explore a few different paths with you, but I'm curious, what specifically do you hope to discuss or learn about to get us started."
     },
     {
       "id": "comic-fresh140-500-412",
-      "line": 412,
+      "line": 548,
       "text": "Let's start with some general questions - are you open to a mix of theoretical and practical discussions, or do you have specific areas of interest like machine learning or cybersecurity?"
     },
     {
       "id": "comic-fresh140-500-413",
-      "line": 413,
+      "line": 549,
       "text": "I'm all ears and happy to discuss a wide range of topics, but if I had to pick one area I'm interested in exploring, I'd say practical discussions on topics like sustainable energy and social entrepreneurship."
     },
     {
       "id": "comic-fresh140-500-414",
-      "line": 414,
+      "line": 550,
       "text": "I'm all ears and happy to discuss a wide range of topics, but if I had to pick one area I'd say practical decision-making and how it can be applied to everyday life."
     }
   ]
